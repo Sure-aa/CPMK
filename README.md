@@ -1,1 +1,1 @@
-# CPMK
+Source code and data for the paper Large-Scale Multimodal Knowledge Graph about Classical Chinese Poetry: Fine-grained Method and Comprehensive Evaluation which is accepted by the Findings of ACL 2026.
