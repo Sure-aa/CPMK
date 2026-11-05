@@ -2,6 +2,27 @@
 
 所有 JSON 使用 UTF-8。下面的文字仅展示结构，不代表完整训练数据。
 
+## 随仓库提供的数据
+
+`CPMK/data/` 保留原始数据目录与文件名，包含以下内容：
+
+| 目录 | 内容 |
+| --- | --- |
+| `tran_val/` | 训练集、验证集及不同翻译版本的 JSON |
+| `kg/` | 三份知识数据 JSON；不包含训练所需的 `images/` |
+| `PI_retrieval_1/` | 检索图文数据 CSV 与图片 |
+| `PI_retrieval_2/` | 500 对检索数据 JSON 与图片，默认评估使用此目录 |
+| `PI_retrieval_banana/` | 合并后的检索数据 JSON 与 `banana_images/` 图片 |
+| `fzk/` | 丰子恺图文 CSV 与 `ZiKai`、`ZiKai_10`、`ZiKai_14` 图片目录 |
+
+图片和 `data/kg/` 的大型 JSON 使用 Git LFS。克隆后在仓库根目录执行
+`git lfs install`、`git lfs pull` 下载实际文件；仅有 LFS 指针时不能运行评估。
+数据整理未纳入旧处理脚本、Python 缓存和日志。
+
+默认训练、验证和检索参数可直接定位到上述目录；模型权重仍需另行准备。
+默认知识文件仍为同级 `KG/imagery_text_image_align.json`，不会自动改用 `data/kg/`。
+这些知识文件中的图片索引不会自动转换为图片路径，训练前仍须准备意象图片。
+
 ## 训练与验证
 
 兼容项目现有的列表格式：

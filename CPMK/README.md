@@ -8,8 +8,8 @@
 诗句检索图片及图片检索诗句的评估流程。
 
 > 知识图谱文件位于同级 [KG/](../KG/)，其余公开数据入口见
-> [仓库首页](../README.md)。训练集、图片配对及 CPKG 检查点仍需按下述格式准备，
-> 不能仅下载知识文件就直接训练。数据格式见 [数据说明](docs/data.md)，
+> [仓库首页](../README.md)。训练集、验证集和检索图片位于 [data/](data/)；
+> 模型权重与训练所需的意象图片仍需另行准备。数据格式见 [数据说明](docs/data.md)，
 > 许可状态见 [第三方来源与许可说明](THIRD_PARTY_NOTICES.md)。
 
 ## 方法概述
@@ -58,8 +58,18 @@ py -3.11 -m venv .venv
 
 ## 数据与权重
 
-源码与完整数据、权重分开管理。`.gitignore` 默认排除 `data/`、`outputs/`
-及模型权重文件；克隆源码后需要按使用模式准备相应资源。
+仓库包含训练、验证、检索及丰子恺图文数据，图片和 `data/kg/` 中的大型 JSON
+通过 Git LFS 管理。已安装 Git LFS 的环境可在仓库根目录执行：
+
+```powershell
+git lfs install
+git lfs pull
+```
+
+请使用 `git clone` 获取仓库，再执行上述命令；未拉取 LFS 文件时，本地图片和大型
+JSON 可能只是指针文本。数据约 3.96 GiB，目录用途见 [数据说明](docs/data.md)。
+模型权重与训练所需的意象图片仍需另行准备；`.gitignore` 排除 `outputs/`
+及模型权重文件。
 
 | 使用模式 | 需要的资源 |
 | --- | --- |
@@ -81,10 +91,16 @@ py -3.11 -m venv .venv
         train.json
         val.json
       kg/
+        PKG_Chinese.json
+        KG_Imagery_with_tag.json
+        imagery_text_image_align.json
         images/                   # 意象图片，需另行准备
       PI_retrieval_2/
         results_500_V1_c2e.json
-        images/                   # 检索图片，需另行准备
+        images/                   # 已包含，使用 Git LFS 下载
+      PI_retrieval_1/
+      PI_retrieval_banana/
+      fzk/
     models/
       clip_cn_rn50.pt              # 默认 Chinese-CLIP 权重
     outputs/

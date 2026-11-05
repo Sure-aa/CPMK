@@ -10,14 +10,13 @@ __pycache__/
 .env.*
 !.env.example
 
-# 权重、完整数据与实验输出另行分发
+# 权重与实验输出另行分发
 *.pt
 *.pt.part
 *.pth
 *.bin
 *.safetensors
 /outputs/
-/data/
 *.log
 
 # 构建产物

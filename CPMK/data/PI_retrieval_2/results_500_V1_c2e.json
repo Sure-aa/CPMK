@@ -1,0 +1,3002 @@
+{
+    "春衫犹是，小蛮针线，曾湿西湖雨。": {
+        "translation": "身上春衫还是小蛮为我亲手做的针线，曾浸湿了西湖依依的泪雨。",
+        "scene": "西湖边细雨纷纷，春衫上缝纫的针脚透着思念，雨滴滴落如泪。",
+        "emotion": "思念不舍与深切的感伤。",
+        "translation_ENG": "The spring shirt I'm wearing was personally sewn for me by Xiao Man, once soaked with the tearful rain of West Lake."
+    },
+    "还与韶光共憔悴，不堪看。": {
+        "translation": "美好的景致与观荷人的情趣一起憔悴了，哪里还忍心再看。",
+        "scene": "荷花盛开之地，风景如画，诗人静坐凝望，忧思涌上心头。",
+        "emotion": "感伤与无奈的悲痛。",
+        "translation_ENG": "The beautiful scenery and the interest of the lotus viewers have withered together; how could one bear to look at it again?"
+    },
+    "乐游原上清秋节，咸阳古道音尘绝。": {
+        "translation": "又是一年重阳佳节，登上乐游原，秦娥遥望咸阳古道，可叹那人了无影踪、音信断绝。",
+        "scene": "清秋时节，乐游原上的人物在寂静的古道上孤独茫然，望着远方，四周一片冷清。",
+        "emotion": "孤独与无奈的深沉情感。",
+        "translation_ENG": "It is once again the Double Ninth Festival, and climbing up Luyou Plateau, Qin'e gazed afar at the ancient road of Xianyang, lamenting that person who has vanished without a trace and whose news has ceased."
+    },
+    "或生而知之；或学而知之；或困而知之：及其知之，一也。": {
+        "translation": "有的人生来就明白中庸之道，有的人通过学习明白中庸之道。还有的人，需要拼尽全力才能触及中庸之道。但是，不论在哪一个层面的人，当最终明白中庸之道的时候，都会殊途同归。",
+        "scene": "在不同人生历程中，人们寻找和理解真理的内心探索。",
+        "emotion": "对真理的追寻与最终的通达。",
+        "translation_ENG": "Some people are born understanding the Doctrine of the Mean, while others understand it through learning. There are also those who must exert all their effort to grasp it. However, regardless of which level a person is, when they finally comprehend the Doctrine of the Mean, they all end up arriving at the same conclusion."
+    },
+    "以近知远，以一知万，以微知明。此之谓也。": {
+        "translation": "从近处知道远，从一就知道万，以微小的就能查知到明亮。就是说这个的。",
+        "scene": "在微风轻拂的庭院中，智者端坐沉思，目光洞察，触角延伸深入事物。",
+        "emotion": "深刻理解与广阔洞察。",
+        "translation_ENG": "From knowing the near, we can understand the far; from the one, we can know the multitude; and from the minute, we can discern the bright. That's what this is about."
+    },
+    "吴楚东南坼，乾坤日夜浮。": {
+        "translation": "浩瀚的湖水把吴楚两地分隔开来，整个天地仿似在湖中日夜浮动。",
+        "scene": "浩瀚的湖面分隔天地，日夜交替，湖水宛如镜面，映照万物变幻无穷。",
+        "emotion": "广阔无垠的自然景象令人心旷神怡。",
+        "translation_ENG": "The vast lake separates the regions of Wu and Chu, and the whole world seems to float day and night in the lake."
+    },
+    "北海虽赊，扶摇可接；东隅已逝，桑榆非晚。": {
+        "translation": "北海虽然遥远，乘着大风仍然可以到达；晨光虽已逝去，珍惜黄昏却为时不晚。",
+        "scene": "北海的海面上，大风呼啸，航船破浪前行；傍晚黄昏，余晖洒落，光影交织。",
+        "emotion": "志向坚定与对未来的信心。",
+        "translation_ENG": "Although Beihai is far away, one can still reach it by riding the strong wind; though the morning light has gone, it is not too late to cherish the evening."
+    },
+    "燕支长寒雪作花，蛾眉憔悴没胡沙。": {
+        "translation": "燕支山天地冻寒，好将雪花当作鲜花，蛾眉憔悴埋没胡沙之中。",
+        "scene": "燕支山上积雪如花，苍茫古道被大雪覆盖，冷风中荒凉孤寂。",
+        "emotion": "对环境的苦寒与深深同情。",
+        "translation_ENG": "In the cold and frozen world of Yanzhi Mountain, it is apt to regard snowflakes as fresh flowers, as delicate features wither away buried in the Hu sand."
+    },
+    "道隐于小成，言隐于荣华。": {
+        "translation": "大道容易被小的成就遮蔽，花言巧语容易掩盖真言。",
+        "scene": "朴实无华的庭院，简单的装饰和宁静的氛围。",
+        "emotion": "追寻真理的深刻思考。",
+        "translation_ENG": "The great way is easily overshadowed by small achievements, and flowery words easily cover up the truth."
+    },
+    "早知潮有信，嫁与弄潮儿。": {
+        "translation": "早知潮水的涨落这么守信，还不如嫁一个弄潮的丈夫。",
+        "scene": "河岸边，潮水涨落，商人妻子独坐，神情忧伤沉思。",
+        "emotion": "幽怨深沉的悔恨与内心矛盾。",
+        "translation_ENG": "Had I known the tides were so dependable, I might have married a husband who rides the waves."
+    },
+    "吾尝终日不食、终夜不寝以思，无益，不如学也。": {
+        "translation": "我曾经整天不吃，整夜不睡，冥思苦想，没有得到什么，不如踏踏实实去学习。",
+        "scene": "夜晚孤灯旁，学者苦思冥想，书卷堆积如山，身心疲惫。",
+        "emotion": "追求真知的执着与苦恼。",
+        "translation_ENG": "I used to not eat all day and not sleep all night, pondering without gaining anything. It’s better to study in a practical and down-to-earth manner."
+    },
+    "先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。": {
+        "translation": "先帝开创统一中原的大业还未完成一半却中途去世了。现在天下分为三个国家，我们蜀汉国力薄弱，处境艰难，这实在是国家危急存亡的时刻啊。",
+        "scene": "天下分裂为三国，蜀汉国势单薄，处境艰难，国土危机四伏。",
+        "emotion": "紧迫感与忧国忧民的担忧。",
+        "translation_ENG": "The late emperor had not yet completed half of the great task of unifying the Central Plain when he passed away suddenly. Now the land is divided into three kingdoms, and our Shu Han is weak in national strength and in a difficult position. This is truly a critical moment for the survival of the state."
+    },
+    "高树临清池，风惊夜来雨。": {
+        "translation": "清清的池塘边高树挺立，微风吹落了夜雨带来的满树珍珠。",
+        "scene": "清晨池塘边，高大的树木在微风中挺立，雨后的露珠晶莹剔透地挂在树叶上。",
+        "emotion": "宁静且充满生机的自然之美。",
+        "translation_ENG": "By the clear poolside, tall trees stand firm, and the gentle breeze scatters pearls of the night rain across the branches."
+    },
+    "幸甚至哉，歌以咏志。": {
+        "translation": "太值得庆幸了！就用诗歌来表达心志吧。",
+        "scene": "盛大的庆祝场合，人们欢歌笑语，气氛热烈。",
+        "emotion": "喜悦与庆祝的情感。",
+        "translation_ENG": "It's really fortunate! Let's express our aspirations through poetry."
+    },
+    "今朝此为别，何处还相遇。": {
+        "translation": "今日在此我与你依依作别，何时何地我们能再次相遇？",
+        "scene": "送别的河边，夕阳洒落余晖，两人在河畔依依惜别，周围是静谧的乡村景象。",
+        "emotion": "深厚的不舍与惆怅。",
+        "translation_ENG": "Today, I bid you a reluctant farewell here. When and where can we meet again?"
+    },
+    "疾风知劲草，板荡识诚臣。": {
+        "translation": "在狂风中才能识别出坚韧的草木，在乱世里方能分辨出忠诚的臣子。",
+        "scene": "狂风肆虐的原野上，坚韧的草木挺立不屈，象征乱世中忠诚的臣子。",
+        "emotion": "坚韧的精神与忠诚的品质。",
+        "translation_ENG": "It is only in strong winds that resilient plants can be identified, and it is only in chaotic times that loyal ministers can be distinguished."
+    },
+    "谁见汀洲上，相思愁白蘋。": {
+        "translation": "谁能见我伫立汀洲上怀念你，望着白蘋心中充满无限愁情。",
+        "scene": "秋天的湖边，诗人独立远望，周围白苹飘荡，水雾缭绕，心中愁绪满怀。",
+        "emotion": "无尽的忧愁与深切的思念。",
+        "translation_ENG": "Who can see me standing on the shore longing for you, looking at the white clover with infinite sorrow in my heart."
+    },
+    "伏波惟愿裹尸还，定远何须生入关。": {
+        "translation": "应该像马援那样只愿战死疆场，以马革裹尸还葬，何必像班超那样非要保全生命，活着入关返回家乡！",
+        "scene": "边疆战场，战士们身着盔甲，誓言牺牲，马儿嘶鸣，准备为国捐躯，气氛激昂。",
+        "emotion": "坚定的保家卫国决心。",
+        "translation_ENG": "One should be like Ma Yuan, willing to die on the battlefield and have his body wrapped with horsehide for burial, rather than like Ban Chao, who insisted on preserving his life to return home alive."
+    },
+    "山高月小，水落石出。": {
+        "translation": "山峦很高，月亮显得小了，水位降低，礁石就露了出来。",
+        "scene": "秋日的高山峡谷，月光洒在露出的岩石上，水位降低，山间宁静。",
+        "emotion": "悠然自得的雅兴和宁静。",
+        "translation_ENG": "The mountains are high, making the moon appear smaller, and as the water level drops, the reefs are exposed."
+    },
+    "论如析薪，贵能破理。": {
+        "translation": "论中的说理应该像劈柴一样，贵在能按照木材中固有的纹理自然破开。",
+        "scene": "工匠在木材旁研究其纹理，工具在手，准备顺势雕刻，显现艺术造诣。",
+        "emotion": "追求自然与艺术融合的智慧。",
+        "translation_ENG": "The argumentation should be like splitting wood, where the value lies in naturally breaking along the inherent grain of the wood."
+    },
+    "杨柳岸，晓风残月。": {
+        "translation": "杨柳岸边，唯有凄厉的晨风和黎明的残月了。",
+        "scene": "杨柳岸边，晨风凄清，黎明微光伴残月。",
+        "emotion": "离人孤独忧伤的情感。",
+        "translation_ENG": "By the willow bank, there is only the piercing morning wind and the waning moon at dawn."
+    },
+    "夫子何为者，栖栖一代中。": {
+        "translation": "不知孔老夫子到底为了什么，四处奔走忙忙碌碌终生不停。",
+        "scene": "孔子在四方奔走，游历列国，马车穿行于山水之间，风尘仆仆，展现奔波忙碌的形象。",
+        "emotion": "赞美孔子毕生奋斗的伟大精神。",
+        "translation_ENG": "It's unknown why Confucius was always busy running around his entire life without stopping."
+    },
+    "千古江山，英雄无觅孙仲谋处。": {
+        "translation": "历经千古的江山，再也难找到像孙权那样的英雄。",
+        "scene": "千古江山苍茫，英雄屹立其中，气势磅礴，俯瞰众生。",
+        "emotion": "非凡的英雄气概和广阔的胸襟。",
+        "translation_ENG": "After traversing through the ages, it is difficult to find a hero like Sun Quan."
+    },
+    "清夜无尘，月色如银。": {
+        "translation": "清朗的夜晚，处处皆无尘埃。",
+        "scene": "清朗的夜晚，月光如银，环境洁净无尘。",
+        "emotion": "宁静与肃穆的美。",
+        "translation_ENG": "On a clear night, there is no dust anywhere."
+    },
+    "独立苍茫醉不归。": {
+        "translation": "我独自站在空阔无边的钟山上饮酒，飘飘欲醉，忘却归去。",
+        "scene": "空旷无边的钟山上，诗人独自饮酒，四周杳无人迹。",
+        "emotion": "孤独寂寞与凄凉悲切。",
+        "translation_ENG": "I stand alone on the vast and boundless Zhongshan, drinking wine, feeling intoxicated, and forgetting to return."
+    },
+    "遥望洞庭山水翠，白银盘里一青螺。": {
+        "translation": "洞庭湖水色与月光互相辉映，好似白银盘里托着一枚青螺。",
+        "scene": "洞庭湖清澈湖水与皎洁月光辉映如银盘，托着绿螺美景。",
+        "emotion": "对自然风光的喜爱与赞美。",
+        "translation_ENG": "The waters of Dongting Lake and the moonlight reflect each other, resembling a green spiral shell placed on a silver plate."
+    },
+    "寒山吹笛唤春归，迁客相看泪满衣。": {
+        "translation": "在寒山吹着笛子呼唤春天归来，被贬谪的人彼此对望不禁泪湿衣。",
+        "scene": "寒冷的山中，一人吹箫唤春，背景为仍未消融的雪景，行人凝望远方，泪湿衣襟。",
+        "emotion": "思乡的忧伤与无尽的思念。",
+        "translation_ENG": "Blowing the flute on the cold mountain, calling for spring to return, the exiled people gaze at each other with tears soaking their clothes."
+    },
+    "吴质不眠倚桂树，露脚斜飞湿寒兔。": {
+        "translation": "月宫中吴刚被乐声吸引，彻夜不眠在桂树下逗留；桂树下的兔子也伫立聆听，不顾露珠斜飞寒飕飕！",
+        "scene": "月光笼罩的桂树下，一位诗人独坐，聆听乐声缭绕，兔子站立聆听，周围宁静而神秘。",
+        "emotion": "幽深缥缈的乐曲唤起诗人沉思。",
+        "translation_ENG": "In the Moon Palace, Wu Gang was drawn by the music, staying awake all night lingering under the laurel tree; the rabbit under the laurel tree also stood listening, unbothered by the dew diagonally flying cold and chilly!"
+    },
+    "志不励，则士不死节；士不死节，则众不战。": {
+        "translation": "如若不激励士人具有高尚的志向，则士人不能守节而死；士人没有坚定的节操，则民众无核心，不能全力以战。",
+        "scene": "军队集结，士气高昂的士兵严肃站立，准备为国奋战。",
+        "emotion": "壮志满怀与坚定不移。",
+        "translation_ENG": "If scholars are not encouraged to have noble aspirations, they cannot remain committed unto death; if scholars lack firm integrity, the populace will lack a core, unable to fully engage in battle."
+    },
+    "欲齐其家者，先修其身": {
+        "translation": "要想管理好自己的家庭和家族，先要修养自身的品性。",
+        "scene": "宁静的庭院中，一人沉思自省，周围家庭井然有序，展现修身齐家的理想状态。",
+        "emotion": "自我修养与家庭和谐的重要性。",
+        "translation_ENG": "To manage one's own family and lineage well, one must first cultivate one's own character."
+    },
+    "窗间斜月两眉愁，帘外落花双泪堕。": {
+        "translation": "窗前的斜月好似含愁的双眉，帘外的落花犹如悲啼的眼泪。",
+        "scene": "明亮的窗前悬挂着弯弯的月亮，月光洒落在窗台上，门外花瓣零落，增添一抹淡淡的伤感。",
+        "emotion": "离愁别恨与物是人非之痛。",
+        "translation_ENG": "The slanting moon outside the window resembles sorrowful brows, while the fallen flowers beyond the curtain are like tears of lament."
+    },
+    "任是春风不管，也曾先识东皇。": {
+        "translation": "即便是春风浑然不知，你也曾是最先报春的使者。",
+        "scene": "早春时节，梅花绽放，成为春天的使者，迎接新生气息。",
+        "emotion": "温暖希望与生命的新生。",
+        "translation_ENG": "Even if the spring breeze remains oblivious, you were once the first herald of spring."
+    },
+    "露气闻芳杜，歌声识采莲。": {
+        "translation": "露气中飘来杜若的香气，远处不时传来悠扬、清脆的歌声，那是采莲女的欢声笑语。",
+        "scene": "夜晚清新的湖畔，莲花飘香，远处采莲女在欢声笑语，湖水轻轻拍岸。",
+        "emotion": "恬淡宁静的田园生活。",
+        "translation_ENG": "The scent of acorus wafted through the mist, and from afar came the melodious and crisp song, resonating with the laughter and joy of the lotus-picking girls."
+    },
+    "口惠而实不至，怨菑及其身。": {
+        "translation": "口头施恩惠而实际做不到，怨恨和灾难就会一起降到他的身上。",
+        "scene": "朝廷中，官员们面露忧虑，彼此之间议论纷纷。",
+        "emotion": "强调诚信的重要性和对不信任的担忧。",
+        "translation_ENG": "When someone promises favors verbally but fails to deliver them, resentment and misfortune will befall him."
+    },
+    "怪生无雨都张伞，不是遮头是使风。": {
+        "translation": "怪不得没下雨他们就张开了伞，不是为了遮雨，而是想利用伞当帆让船前进啊。",
+        "scene": "江边，两个孩子撑着一只小船，小心翼翼地在水面上划行，头顶上张开了一把伞，伞面微微鼓起，助力船只前行。",
+        "emotion": "对儿童的喜爱与赞赏。",
+        "translation_ENG": "No wonder they opened the umbrellas even though it wasn't raining, not to shield from rain, but to use them as sails to propel the boat forward."
+    },
+    "柳垂江上影，梅谢雪中枝。": {
+        "translation": "观赏那江水中倒映柳树的影子和隐在雪中的梅花零落。",
+        "scene": "江水中倒映的柳树影，雪中零落的梅花，美丽的东溪景色。",
+        "emotion": "闲适和优美的情趣。",
+        "translation_ENG": "Admire the reflection of willow trees in the river and the scattered plum blossoms hidden in the snow."
+    },
+    "羽檄起边亭，烽火入咸阳。": {
+        "translation": "紧急征召的文书从边塞岗亭传来，战争爆发的消息已经传到京都。",
+        "scene": "京城内外的人们神情紧张，风声鹤唳，边塞烽火连天，硝烟弥漫。",
+        "emotion": "紧迫感与危机感。",
+        "translation_ENG": "The urgent conscription document came from the border outpost, and the news of the outbreak of war has already reached the capital."
+    },
+    "不信请看弈棋者，输赢须待局终头。": {
+        "translation": "如不信时请看下棋的人，输赢还得等到局终才见分晓。",
+        "scene": "古老棋盘上，两人深思熟虑，棋子散落，胜负未定。",
+        "emotion": "等待最终结果的紧张不安。",
+        "translation_ENG": "If you do not believe it, please look at the people playing chess; the outcome of winning or losing can only be known at the end of the game."
+    },
+    "正莺儿啼，燕儿舞，蝶儿忙。": {
+        "translation": "只见莺儿鸣啼，燕儿飞舞，蝶儿匆忙，一派大好春光。",
+        "scene": "晴朗的春日，百花盛开，蜂蝶飞舞，鸟儿歌唱，生机盎然的田园景色。",
+        "emotion": "生命活力与无忧无虑的快乐。",
+        "translation_ENG": "The oriole chirped, the swallow danced, the butterflies hurried, all depicting a splendid spring scene."
+    },
+    "江作青罗带，山如碧玉篸。": {
+        "translation": "那里的江河蜿蜒曲折，如青罗带一样柔曼迤逦，那里的山如碧玉篸一样翠绿峻秀。",
+        "scene": "桂林山水如青罗带般婀娜多姿，河流蜿蜒，群山如翡翠般翠绿秀丽。",
+        "emotion": "迷人的自然美景与诗意的赞美。",
+        "translation_ENG": "The rivers there wind and twist gracefully like a blue ribbon, while the mountains are as green and steep as emerald peaks."
+    },
+    "沉沉夏夜兰堂开，飞蚊伺暗声如雷。": {
+        "translation": "夏夜沉沉，清静的堂屋门窗大开，飞蚊趁着黑暗，发出雷鸣般的声响。",
+        "scene": "宁静的夏夜中，堂屋门窗大开，飞蚊在夜色中穿梭发出低沉的嗡嗡声。",
+        "emotion": "宁静中夹杂着微微的不安。",
+        "translation_ENG": "The summer night was deep and tranquil, with the doors and windows of the hall wide open. The mosquitoes took advantage of the darkness, creating a thunderous noise."
+    },
+    "秋夜长，殊未央，月明白露澄清光，层城绮阁遥相望。": {
+        "translation": "秋夜漫长，天还没有放亮。皎洁的明月、枝头的露珠，都闪烁着清冷的色泽。望远处，高高的城楼与漂亮的楼阁，遥相呼应。",
+        "scene": "宁静清冷的秋夜，月光洒落树枝，露珠闪烁，远处城楼与楼阁相映。",
+        "emotion": "宁静清冷中透着相思。",
+        "translation_ENG": "The autumn night is long, and the sky has not yet brightened. The bright moon and the dewdrops on the branches are both shimmering with a clear and cold hue. Looking into the distance, the high city towers and beautiful pavilions echo each other."
+    },
+    "宓妃愁坐芝田馆，用尽陈王八斗才。": {
+        "translation": "此情景就好像宓妃坐在宫馆中因刻骨相思而愁肠百结，而曹植用尽才华写出《洛神赋》一样。",
+        "scene": "宫殿中，佳人独坐，愁思难解，宛如洛神般优雅但心事重重。",
+        "emotion": "刻骨相思与无奈之惆怅。",
+        "translation_ENG": "This scenario is akin to Consort Fu sitting in the palace overwhelmed with endless sorrow due to profound longing, just like Cao Zhi using all his talent to compose the Rhapsody on the Goddess of the Luo River."
+    },
+    "落花如有意，来去逐船流。": {
+        "translation": "落花好似有情意，飘来荡去，紧随船儿朝前流。",
+        "scene": "落花随风飘零，流向前方，船儿顺流而下，春日河岸。",
+        "emotion": "微妙心境与幽美意境。",
+        "translation_ENG": "The fallen flowers seem to be affectionate, drifting back and forth, closely following the boat flowing forward."
+    },
+    "梧桐落，又还秋色，又还寂寞。": {
+        "translation": "阵阵秋风吹落那一片片梧桐枯叶，梧桐叶落，又是一片秋景萧瑟，又让人总是满怀的孤独、冷落。",
+        "scene": "秋日里大风呼啸，梧桐树叶纷纷飘落，萧瑟凄凉的景象。",
+        "emotion": "孤独、冷落和国破家亡的悲痛。",
+        "translation_ENG": "The gusts of autumn wind blow down the withered leaves of the parasol trees, as the leaves fall, it once again presents a desolate autumn scene, filling one with perpetual solitude and neglect."
+    },
+    "尺蠖之屈，以求伸 也。": {
+        "translation": "尺蠖屈身爬行，来求得伸展身体。",
+        "scene": "尺蠖在地面艰难前行，一旦时机成熟，伸展身体。",
+        "emotion": "隐忍积蓄力量的智慧策略。",
+        "translation_ENG": "The inchworm bends its body as it crawls, in order to extend itself."
+    },
+    "夫地形者，兵之助也。": {
+        "translation": "地形是用兵作战的辅助条件。",
+        "scene": "战场上，地形复杂，用兵如神，策略紧密。",
+        "emotion": "对地形的冷静分析。",
+        "translation_ENG": "Terrain is an auxiliary condition for military operations."
+    },
+    "飘如游云，矫若惊龙。": {
+        "translation": "像浮云一样飘逸，像惊龙一样矫捷。",
+        "scene": "浮云飘逸的天空，惊龙腾跃，有一种灵动之美。",
+        "emotion": "轻盈灵动与想象之美。",
+        "translation_ENG": "Graceful like floating clouds, agile like a startled dragon."
+    },
+    "衡阳犹有雁传书。郴阳和雁无。": {
+        "translation": "衡阳还可以有鸿雁传书捎信。这郴阳比衡阳还远，连鸿雁也只影皆无。",
+        "scene": "杳无人迹的荒野，鸿雁飞翔于遥远的天际，书信无从传达。",
+        "emotion": "离乡思念的忧愁与无奈。",
+        "translation_ENG": "In Hengyang, messages can still be sent using carrier pigeons. Chenyang is even farther than Hengyang, with not even a trace of carrier pigeons."
+    },
+    "数声风笛离亭晚，君向潇湘我向秦。": {
+        "translation": "微风轻拂，笛声幽咽，离亭渐渐染上暮色，你就要南下潇湘我却奔向西秦。",
+        "scene": "微风轻拂的亭台前，竹声幽咽，暮色渐染，离别时分。",
+        "emotion": "惆怅的离别与凄凉的心伤。",
+        "translation_ENG": "A gentle breeze is blowing, the sound of the flute is melancholic, the departing pavilion gradually takes on the evening hues, you are heading south to Xiaoxiang while I am setting off to the west to Xiqin."
+    },
+    "忽与一樽酒，日夕欢相持。": {
+        "translation": "快快地给我来杯酒，从早到晚拿着它痛快畅饮。",
+        "scene": "在一个悠闲的午后，诗人与友人坐在庭院中，举起酒杯，轻松畅饮。",
+        "emotion": "轻松愉悦的友情与畅快的心境。",
+        "translation_ENG": "Quickly get me a glass of wine, so I can enjoy it from morning till night."
+    },
+    "过而能改者，民之上也。": {
+        "translation": "犯了错误能够改正的人，是百姓中的上等人。",
+        "scene": "人们在书房中反思与书写，柔和的光线洒在案上，象征智慧与反省。",
+        "emotion": "自省和成长的赞美。",
+        "translation_ENG": "People who can correct their mistakes are superior among the common folks."
+    },
+    "负你残春泪几行。": {
+        "translation": "辜负了三春的良辰美景，洒下清淡的泪珠几行。",
+        "scene": "春光明媚的花园中，女子凝望远方，泪水滑落脸颊，轻风拂面，景色依旧美好。",
+        "emotion": "怀远思人的淡淡忧愁。",
+        "translation_ENG": "Having failed to cherish the splendid moments and beautiful scenery of spring, a few gentle lines of tears were shed."
+    },
+    "书不尽言，言不尽意。": {
+        "translation": "文字不能完全精确地表达言语，言语也不能完全精确地表达人的思想。",
+        "scene": "诗文朗诵会，听众沉思，注意力集中，背景音乐柔和，引发深思。",
+        "emotion": "感悟语言的局限与思想的深邃。",
+        "translation_ENG": "Words cannot fully accurately express speech, and speech cannot fully accurately express human thoughts."
+    },
+    "汉帝重阿娇，贮之黄金屋。": {
+        "translation": "汉武帝曾经十分宠爱阿娇，为她筑造金屋让她居住。",
+        "scene": "豪华的金屋内装饰华丽，灯火辉煌，阿娇端坐其中，享受帝王的宠爱。",
+        "emotion": "先扬后抑的失宠落寞。",
+        "translation_ENG": "Emperor Wu of Han once favored A-jiao greatly and built a golden house for her to live in."
+    },
+    "月明闻杜宇，南北总关心。": {
+        "translation": "母亲月圆之夜突然听到杜鹃的声音，想起离家在外的儿子。虽然天南地北相隔万里，但心中依旧是深深的牵挂。",
+        "scene": "月圆之夜，寂静空旷的庭院中，独自一人的母亲倾听着杜鹃鸟的啼叫，显得格外孤寂。",
+        "emotion": "深沉的思念与牵挂。",
+        "translation_ENG": "On the night of the full moon, the mother suddenly heard the sound of a cuckoo and thought of her son who was away from home. Although they are separated by thousands of miles, her heart is still deeply concerned."
+    },
+    "一身虏云外，万里胡天西。": {
+        "translation": "我孤单一人置身于西北的塞外，几万里途程我处在遥远的天西。",
+        "scene": "荒凉的西北边塞，孤独的诗人站在遥远的地方，仰望天际。",
+        "emotion": "孤独感和思乡情怀。",
+        "translation_ENG": "I am alone in the northwestern frontier, thousands of miles away, situated in the distant western sky."
+    },
+    "云来气接巫峡长，月出寒通雪山白。": {
+        "translation": "柏树高耸云雾飘来气接巫峡，月出寒光高照寒气直通岷山。",
+        "scene": "高大古柏树立于云雾缭绕的山谷中，月光洒下，山峰隐约可见。",
+        "emotion": "赞美自然景观的壮美与神秘。",
+        "translation_ENG": "The cypresses tower high as clouds drift by, connecting with the Wu Gorge. The moon rises, its cold light shining brightly, with the chill reaching directly to the Min Mountains."
+    },
+    "从来只有情难尽，何事名为情尽桥。": {
+        "translation": "世间最难了断的就是感情，如何能有情尽桥呢？",
+        "scene": "秋日傍晚的长桥边，一对情侣伫立桥头，凝望流水，夕阳映照水面，淡淡的忧愁笼罩四周。",
+        "emotion": "对无可奈何之情感的抒发。",
+        "translation_ENG": "The most difficult thing in the world to break is feelings; how can there be a bridge to end emotions?"
+    },
+    "居而安，动而变，可以佐王矣。": {
+        "translation": "在家居住时能安其心，行动起来能知道权变，这样就可以辅佐君王了。",
+        "scene": "古代庭院内，君子坐静思考，环顾四周，心神安宁。",
+        "emotion": "安泰宁静与智慧应变。",
+        "translation_ENG": "When you can rest assured at home and know how to adapt when taking action, you will be able to assist the ruler."
+    },
+    "感此怀故人，中宵劳梦想。": {
+        "translation": "感此良宵不免怀念故友，整夜在梦中苦苦地想念。",
+        "scene": "寂静的夜晚，月光如水，诗人在梦中默默思念故友，心中充满怅惘。",
+        "emotion": "思念故友的深切情感。",
+        "translation_ENG": "On this fine night, I cannot help but miss my old friends, and I tirelessly long for them in my dreams all night."
+    },
+    "双燕飞来垂柳院，小阁画帘高卷。": {
+        "translation": "成对的燕子飞回柳树低垂的庭院，小小的阁楼里画帘高高卷起。",
+        "scene": "幽静的庭院中，柳树低垂，双燕飞舞，楼阁上画帘高高卷起，暮春时节充满诗意之景。",
+        "emotion": "独特的感怀与诗意的惆怅。",
+        "translation_ENG": "Pairs of swallows fly back to the courtyard where willow trees droop, and in the small attic, the painted curtains are rolled up high."
+    },
+    "无媒径路草萧萧，自古云林远市朝。": {
+        "translation": "由于没有人引荐，你只好遁迹云林，远离争名逐利的市朝，结果门庭冷落，径路上杂草丛生。",
+        "scene": "幽静的云雾缭绕的山林，庭院门前冷落，荆棘杂草丛生。",
+        "emotion": "远离喧嚣，隐士的宁静与孤独。",
+        "translation_ENG": "Due to the lack of recommendations, you had to retreat to Yunlin to avoid the hustle and bustle of the city that is filled with aggressive competition for fame and profit. As a result, your gate has become deserted, and the path is overgrown with weeds."
+    },
+    "五岳寻仙不辞远，一生好入名山游。": {
+        "translation": "攀登五岳为寻仙道不畏路途的遥远与艰辛，这一生就喜欢到各处名山游玩。",
+        "scene": "名山大川中，诗人独自攀登，追寻仙道，不畏艰辛，享受风光。",
+        "emotion": "追寻仙道的隐逸之心。",
+        "translation_ENG": "Climbing the Five Sacred Mountains to seek the path of immortality, unafraid of the long and difficult journey; in this life, I just enjoy traveling to various famous mountains."
+    },
+    "礼者禁于将然之前，而法者禁于已然之后": {
+        "translation": "实行礼治是在事情没有发生之前就将它禁止，而实行法治是在事情发生之后才去制止。",
+        "scene": "古代学堂内，学者正在讲授礼仪与法治。窗外绿树成荫，阳光透过纸窗。弟子们专注地倾听。",
+        "emotion": "中庸与理智的思考。",
+        "translation_ENG": "The implementation of rule by rites involves preventing things before they happen, while the implementation of rule by law involves stopping things after they happen."
+    },
+    "言忠信，行笃敬": {
+        "translation": "言语忠实诚信，行为笃厚恭敬。",
+        "scene": "古代学堂内，师者手握竹简，学生们凝神倾听，气氛庄重而肃穆。",
+        "emotion": "忠实诚信与严谨尊敬。",
+        "translation_ENG": "Be honest and sincere in speech, and be firm and respectful in conduct."
+    },
+    "依旧桃花面，频低柳叶眉。": {
+        "translation": "你依旧还是那么美丽、可爱，像从前一样面若桃花，频频低垂的眼睑，弯弯的柳叶眉。",
+        "scene": "如桃花般美丽的女子，神情温柔，眉目如画。",
+        "emotion": "清丽动人，意蕴深远。",
+        "translation_ENG": "You are still as beautiful and lovely as before, with a peach-like complexion, frequently lowered eyelids, and curved willow-like eyebrows."
+    },
+    "千里之差，兴自毫端": {
+        "translation": "差之千里的大错，都起于细微的开端。",
+        "scene": "辽阔的旅途起点，微小细节被放大，远方隐约的挑战逐步显现。",
+        "emotion": "重要性与警示感。",
+        "translation_ENG": "A mistake that leads to a thousand miles of difference starts from a subtle beginning."
+    },
+    "满川风雨独凭栏，绾结湘娥十二鬟。": {
+        "translation": "满江的风雨独自倚靠栏杆，放眼远望，君山众峰的形状好像湘水女神盘结起的十二个发髻。",
+        "scene": "江边风雨交加，诗人独自倚靠栏杆，远眺君山多峰连绵犹如发髻盘结的美神。",
+        "emotion": "孤独中透出敬仰的情感。",
+        "translation_ENG": "Leaning alone against the railing in the wind and rain over the river, gazing far into the distance, the shapes of the peaks of Junshan Island resemble the twelve coiled hair buns of the goddess of the Xiang waters."
+    },
+    "主道明则下安，主道幽则下危。故下安则贵上，下危则贱上。": {
+        "translation": "君主治国之道贤明那么臣民就安定，君主治国之道不明那么臣民就危险。所以臣民安定就会尊重君主，臣民危险就会鄙视君主。",
+        "scene": "古代清明的朝堂，君主高坐上位，群臣拱手齐聚。",
+        "emotion": "强调治理国家的智慧与责任。",
+        "translation_ENG": "If the ruler governs wisely, the people will be stable; if the rulers governance is unwise, the people will be in danger. Therefore, when the people are stable, they will respect the ruler, but when the people are in danger, they will despise the ruler."
+    },
+    "回首长安佳丽地，三十年前，我是风流帅。": {
+        "translation": "回忆起京城那个美女密集的都市，我是英俊潇洒的不一般的人物。",
+        "scene": "京城繁华的都市，古典建筑与美女如云，行人熙攘。",
+        "emotion": "怀旧与自信的情感。",
+        "translation_ENG": "Recalling that city with many beautiful women, I am an exceptionally handsome and charming individual."
+    },
+    "悠悠卷旆旌，饮马出长城。": {
+        "translation": "众多的战旗被长风吹卷这，将士们在哪长城低下饮马也不停歇。",
+        "scene": "长城边，战旗下，士兵们骑马警惕巡逻，风卷旌旗，战意盎然。",
+        "emotion": "豪情壮志与不畏艰险。",
+        "translation_ENG": "Numerous battle flags are being waved by the strong wind, and the soldiers do not stop even while watering their horses at the foot of the Great Wall."
+    },
+    "审其名实，慎其所谓。": {
+        "translation": "详察名实关系，慎重地对待事物的称谓。",
+        "scene": "古代学者在书房中，专注地研究名与实的关系，思索慎重。",
+        "emotion": "追求真实与明智的探索精神。",
+        "translation_ENG": "Carefully examine the relationship between names and reality, and treat the designation of things with caution."
+    },
+    "无奈夜长人不寐，数声和月到帘栊。": {
+        "translation": "无奈长夜漫漫难以入睡，一声声的砧声和着月光穿进帘栊，让人愁思百结。",
+        "scene": "漫长无眠的夜晚，寂静庭院中月光穿透窗帘，钟声悠悠回荡，引发深沉的忧思。",
+        "emotion": "孤独无奈与深沉的忧伤。",
+        "translation_ENG": "Unable to sleep during the long and endless night, the sound of pounding mixed with moonlight penetrates the curtains, filling one with infinite sorrow."
+    },
+    "顺笼槛以俯仰，窥户牖以踟蹰。想昆山之高岳，思邓林之扶疏。顾六翮之残毁，虽奋迅其焉如？": {
+        "translation": "怀念昆仑的高山和陡峭的岩壁，回想起茂密的树林，回过头看到自己被毁坏的羽毛，虽然想疾飞又能飞到哪里去呢？",
+        "scene": "孤独的鸟儿站在高山岩壁上，凝视被摧毁的羽毛，周围是茂密的树林和陡峭的悬崖。",
+        "emotion": "不满现实的怨愤与无奈。",
+        "translation_ENG": "I miss the high mountains and steep cliffs of Kunlun, recall the dense forests, and look back to see my damaged feathers. Though I wish to fly swiftly, where can I possibly go?"
+    },
+    "山光悦鸟性，潭影空人心。": {
+        "translation": "山中明媚景色使飞鸟更加欢悦，潭水空明清澈，临潭照影，令人俗念全消。",
+        "scene": "山中清晨明媚景色，飞鸟欢愉飞翔，水面清澈明亮，倒影静谧。",
+        "emotion": "净化心灵的宁静与舒适。",
+        "translation_ENG": "The bright scenery in the mountains makes the birds even happier. The ponds water is clear and lucid, reflecting like a mirror, which makes all worldly thoughts disappear."
+    },
+    "迢递三巴路，羁危万里身。": {
+        "translation": "跋涉在道路崎岖又遥远的三巴路上，客居在万里之外的危险地方。",
+        "scene": "崎岖蜿蜒的道路，三岔路口遥望，客居于万里之外的险峻之地。",
+        "emotion": "漂泊无依的无限情怀。",
+        "translation_ENG": "Trekking on the rugged and distant Samba Road, residing in a dangerous place thousands of miles away."
+    },
+    "自古功名属少年。": {
+        "translation": "这些功名伟业自古以来就非年轻人莫属。",
+        "scene": "秋风萧瑟的庭院里，一位长者独自坐在亭中，凝视远方，神情落寞。",
+        "emotion": "人生境遇的悲哀与复杂心境。",
+        "translation_ENG": "These achievements and honors have always belonged to the young since ancient times."
+    },
+    "为者败之，执者失之。": {
+        "translation": "用强力统治天下，就一定会失败；强力把持天下，就一定会失去天下。",
+        "scene": "古代哲人沉思于庭院中，思考治国之道，探讨力量与失败的关系。",
+        "emotion": "智慧的探讨与理性的反思。",
+        "translation_ENG": "Ruling the world with power will certainly lead to failure; holding onto the world with power will certainly lead to losing it."
+    },
+    "银筝夜久殷勤弄，心怯空房不忍归。": {
+        "translation": "更深夜阑还在殷勤拨弄银筝，原来是怕空房寂寞不忍回归。",
+        "scene": "深夜空房中，女子窗前独坐，弹奏银筝，四周寂静空旷，透露出一种孤独与思念。",
+        "emotion": "无限幽怨与孤独的情感。",
+        "translation_ENG": "Still diligently plucking the zither deep into the night, it turns out to be unwilling to return due to the loneliness of an empty room."
+    },
+    "公生明，偏生暗，端悫生通，诈伪生塞，诚信生神，夸诞生惑。": {
+        "translation": "公正就耳聪目明，偏私就昏暗愚昧；端正谨慎就通达，欺诈虚伪就闭塞；真诚老实会产生神明，大言自夸会产生糊涂。",
+        "scene": "政治会议上，官员们各自陈述，讨论国家大事，强调公正与诚信。",
+        "emotion": "追求公正、公平、诚信。",
+        "translation_ENG": "Justice leads to keen perception, partiality leads to darkness and ignorance; uprightness and caution lead to clarity, deceit and hypocrisy lead to obstruction; sincerity and honesty bring forth enlightenment, boasting leads to confusion."
+    },
+    "多情却被无情恼。": {
+        "translation": "仿佛多情的自己被无情的少女所伤害。",
+        "scene": "多情男子望着无情少女，神情落寞心如死灰，背景是泛黄的落叶。",
+        "emotion": "无奈与失落的惆怅。",
+        "translation_ENG": "It seems that the affectionate self is hurt by the heartless girl."
+    },
+    "他年我若为青帝，报与桃花一处开。": {
+        "translation": "若是有朝一日我成为了司春之神，一定要让菊花和桃花同在春天盛开。",
+        "scene": "春天的花园里，满园盛开的菊花和桃花，美丽绚烂，充满生机。",
+        "emotion": "强烈浪漫主义激情和抱负。",
+        "translation_ENG": "If one day I become the god of spring, I will ensure that chrysanthemums and peach blossoms bloom together in the season of spring."
+    },
+    "嫦娥应悔偷灵药，碧海青天夜夜心。": {
+        "translation": "嫦娥应该后悔偷取了长生不老之药，如今空对碧海青天夜夜孤寂。",
+        "scene": "月宫之中，嫦娥伫立，面对浩渺碧海与幽静青天，内心充满孤独与遗憾。",
+        "emotion": "孤独与遗憾的深刻感受。",
+        "translation_ENG": "Change should regret stealing the elixir of immortality, as now she faces the blue sea and clear sky alone every night in solitude."
+    },
+    "知者不言，言者不知。": {
+        "translation": "聪明的智者不多说话，而到处说长论短的人就不是聪明的智者。",
+        "scene": "幽静的书房中，智者安静地阅读，书桌上铺展开卷，光线柔和而静谧。",
+        "emotion": "谦逊与追求智慧的心态。",
+        "translation_ENG": "A wise person does not speak much, while those who talk all the time are not wise."
+    },
+    "燎沉香，消溽暑。": {
+        "translation": "焚烧沉香，来消除夏天闷热潮湿的暑气。",
+        "scene": "夏日清晨，燃烧的沉香，袅袅升起的烟雾，驱散潮湿闷热，清新怡人。",
+        "emotion": "清新怡人的舒适感。",
+        "translation_ENG": "Burning agarwood to get rid of the stuffy and humid summer heat."
+    },
+    "开门复动竹，疑是故人来。": {
+        "translation": "微风吹开院门又吹动了竹丛，让人怀疑是旧日的朋友到来。",
+        "scene": "微风轻拂竹林庭院，竹影摇曳似友人来访的宁静庭院。",
+        "emotion": "微妙的怀旧与期待。",
+        "translation_ENG": "The breeze opened the courtyard gate and swayed the bamboo grove, making one wonder if it was an old friend arriving."
+    },
+    "钱塘苏小小，更值一年秋。": {
+        "translation": "不见钱塘苏小小，独处寂寞又一秋。",
+        "scene": "秋日的荒凉水池旁，小溪潺潺流淌，天地寂寥，唯有落叶在风中轻舞。",
+        "emotion": "孤独寂寞与无限的思念。",
+        "translation_ENG": "Not seeing Su Xiaoxiao in Qiantang, alone again in the lonely autumn."
+    },
+    "游九仙山，闻里中儿歌陌上花，父老云，吴越王妃每岁春必归临安，王以书遗妃曰：“陌上花开，可缓缓归矣。”": {
+        "translation": "我在游览九仙山时，听到了当地儿歌《陌上花》。乡亲们说：吴越王钱镠的妻子每年春天一定回到临安，钱王派人送信给王妃说：“田间小路上鲜花盛开，你可以慢慢归来了。”",
+        "scene": "在九仙山的春天，山间小路上盛开着鲜花，空中飘荡着儿歌，历史悠久的地方，充满生机。",
+        "emotion": "历史的惆怅与人生的感慨。",
+        "translation_ENG": "While I was visiting Jiuxian Mountain, I heard the local childrens song Flowers on the Path. The villagers said that every spring, the wife of King Qian Liu of Wuyue would return to Linan. King Qian would send a message to the queen saying, The flowers are blooming along the path in the fields, you can return slowly now."
+    },
+    "斜照江天一抹红。": {
+        "translation": "更有那一抹斜阳脉脉相辉映，江天一色晚霞红。",
+        "scene": "江边傍晚，太阳斜照，夕阳染红天际，绚丽的晚霞映照在河面上。",
+        "emotion": "余晖中蕴含的思索与沉静。",
+        "translation_ENG": "Moreover, that slanting sunray gently reflects, with the sky and river unified by the evenings red glow."
+    },
+    "白头搔更短，浑欲不胜簪。": {
+        "translation": "愁绪缠绕，搔头思考，白发越搔越短，简直要不能插簪了。",
+        "scene": "独坐窗前，满脸愁苦，白发如霜，凝视远方，无尽忧思。",
+        "emotion": "内心的痛苦与忧愁。",
+        "translation_ENG": "Worries entangle, scratching the head while thinking, the more I scratch the shorter my white hairs become, soon they wont even be long enough to hold a hairpin."
+    },
+    "欲寄彩笺兼尺素，山长水阔知何处？": {
+        "translation": "想给我的心上人寄去书信，但是高山连绵，碧水无尽，又不知道我思念的人究竟在何处。",
+        "scene": "高山连绵，碧水无尽，诗人孤寂地伫立在岸边，天涯无际。",
+        "emotion": "强烈的思念与内心的惆怅苦闷。",
+        "translation_ENG": "I want to send a letter to my beloved, but the mountains are continuous, the waters are endless, and I dont know where the person I miss is."
+    },
+    "眼前物物皆佳兴，并作吟窝一味清。": {
+        "translation": "眼前种种都让人感到愉快和兴致高昂，化作一派风情的吟咏。",
+        "scene": "书院中弥漫着浓郁的书香，微风吹拂，文人雅士吟咏风情。",
+        "emotion": "喜悦与兴致盎然。",
+        "translation_ENG": "Everything in front of you brings joy and high spirits, transforming into a poetic sentiment."
+    },
+    "且夫天地为炉兮，造化为工；阴阳为炭兮，万物为铜。": {
+        "translation": "天地自然如同一个大熔炉，造化（自然之力）如同工匠，阴阳如同燃料，万物如同铜铁，在这个熔炉中经受锻炼和变化。",
+        "scene": "天地如一座大熔炉，万物在其中经受锻造与变化，阴阳之气作为燃料。",
+        "emotion": "知命不忧的豁达智慧。",
+        "translation_ENG": "The heaven and earth are like a grand furnace, with the forces of nature acting as the craftsman, yin and yang serving as the fuel, and all things being like copper and iron, undergoing forging and transformation within this furnace."
+    },
+    "智能之士，不学不成，不问不知。": {
+        "translation": "再聪明的人，不学他不会有成就，不问他永远不会知道。",
+        "scene": "宁静的书房中，学者伏案苦读，思索不断。",
+        "emotion": "求知若渴与不断探索的精神。",
+        "translation_ENG": "No matter how intelligent a person is, if he does not study, he will not achieve success. If he does not ask, he will never know."
+    },
+    "出门搔白首，若负平生志。": {
+        "translation": "出门时搔着满头的白发，悔恨辜负自己平生之志。",
+        "scene": "斑驳的古门前，一位老人抚着满头白发，神情黯然，眼中流露出深深的悔恨与沉思。",
+        "emotion": "悔恨与凄凉的同情和怜惜。",
+        "translation_ENG": "Scratching my full head of white hair when going out, regretful for failing to fulfill my lifelong ambition."
+    },
+    "谁谓伤心画不成，画人心逐世人情。": {
+        "translation": "谁说画不出六朝古都的伤心事，只是那些画家为了迎合世人心理而不画伤心图而已。",
+        "scene": "画室中，画家略带忧伤，手握画笔，思索古都六朝的历史沧桑。",
+        "emotion": "对历史的敬重与对现实的不满。",
+        "translation_ENG": "Who says the sorrowful events of the Six Dynasties ancient capitals cant be depicted? Its just that those painters choose not to paint sorrowful scenes in order to cater to the publics tastes."
+    },
+    "清水出芙蓉，天然去雕饰。": {
+        "translation": "宛如出清水的芙蓉，如大自然中本就存在一般，毫无雕刻打磨的痕迹。",
+        "scene": "清澈湖面上盛开的荷花，自然纯净，无人为雕琢痕迹。",
+        "emotion": "对自然纯美的欣赏与推崇。",
+        "translation_ENG": "Like a pure lotus emerging from clear water, it appears as if it naturally exists in nature, without any traces of carving or polishing."
+    },
+    "好人之所恶，恶人之所好，是谓拂人之性，灾必逮夫身。": {
+        "translation": "喜欢人们共同所厌恶的，厌恶人们都认同并喜欢的，这是违背人们公认的道义原则的恶意行为，那么，灾难必定就要落到他身上。",
+        "scene": "在集市或公堂上，人群愤怒谴责一个罪恶昭著的人。",
+        "emotion": "对违背道义的愤怒与惩罚的警示。",
+        "translation_ENG": "To like what people generally detest and to detest what people generally agree upon and like is a malicious act that goes against universally recognized moral principles. Therefore, disaster is bound to befall such a person."
+    },
+    "众人皆有以，而我独顽似鄙。": {
+        "translation": "世人都自认为自己很聪明，做的事很对，我却独自认识到我的愚笨和无知。",
+        "scene": "在喧闹的街市中，一位孤独的学者凝视远方，思索着人性的愚昧与智慧的界限。",
+        "emotion": "对自身愚昧的深刻自省与清醒认知。",
+        "translation_ENG": "Everyone thinks they are smart and believe their actions are right, but I alone recognize my foolishness and ignorance."
+    },
+    "鹅湖山下稻粱肥，豚栅鸡栖半掩扉。": {
+        "translation": "鹅湖山下稻梁肥硕，丰收在望。牲畜圈里猪肥鸡壮，门扇半开半掩。",
+        "scene": "稻浪金黄，乡村农田丰收，猪肥鸡壮，门扇半开半掩，宁静安详的江南农村风貌。",
+        "emotion": "丰收喜悦与宁静安逸。",
+        "translation_ENG": "Under the Goose Lake Mountain, the rice and millet are plump, promising a bountiful harvest. In the livestock pen, the pigs are fat and the chickens are strong, with the door half open and half closed."
+    },
+    "天下神器，不可为也，不可执也。为者败之，执者失之。": {
+        "translation": "天下是神圣之物，不可去强行改变它。企图强行改变它，必定会失败；企图强行控制它，必定会失去。",
+        "scene": "浩渺天地之间，君王坐于高处，却被莫测的自然之力所包围，不可轻易改变。",
+        "emotion": "对强权无用之无奈与警示。",
+        "translation_ENG": "The world is a sacred thing and should not be forcibly changed. Attempting to forcibly change it will surely fail; attempting to forcibly control it will surely lead to loss."
+    },
+    "中军置酒饮归客，胡琴琵琶与羌笛。": {
+        "translation": "主帅帐中摆酒为归客饯行，胡琴琵琶羌笛合奏来助兴。",
+        "scene": "盛大的欢送宴席上，主宾把酒言欢，共奏乐器，乐声悠扬，气氛热烈而隆重。",
+        "emotion": "依依不舍与离别的愁思。",
+        "translation_ENG": "In the commanders tent, a farewell banquet was laid out for the returning guests, with the sounds of lutes, pipa, and Qiang flutes adding to the festivities."
+    },
+    "男儿事长征，少小幽燕客。": {
+        "translation": "男子汉当以国事为重，从军远征，从小就在幽燕纵横驰骋。",
+        "scene": "古代战场，勇敢的年轻将士在马上驰骋，准备远征。",
+        "emotion": "坚定勇敢与豪迈壮志。",
+        "translation_ENG": "A real man should prioritize national affairs, join the military for expeditions, and has been galloping across Youyan since childhood."
+    },
+    "丹阳郭里送行舟，一别心知两地秋。": {
+        "translation": "在丹江外城边上送别行舟，今天一别你我各在两地悲愁。",
+        "scene": "秋季在丹阳外城边，友人乘船离去，落叶飘洒在江面上，气氛凄凉而感伤。",
+        "emotion": "离别的忧愁与淡淡的悲伤。",
+        "translation_ENG": "Seeing off the boat at the outskirts of Danjiang, today we part and are left in sorrow in two different places."
+    },
+    "娉娉袅袅十三余，豆蔻梢头二月初。": {
+        "translation": "十三四岁的少女姿态袅娜，举止轻盈美好，就像二月里含苞待放，初现梢头的豆蔻花。",
+        "scene": "初春的花园中，少女漫步轻盈，豆蔻花初放姿态优雅，空气中弥漫着春天的芬芳。",
+        "emotion": "轻盈美好与青春绽放的魅力。",
+        "translation_ENG": "The young girl of thirteen or fourteen has a graceful demeanor and a gentle beauty, resembling a budding flower in February, just beginning to emerge."
+    },
+    "细想从来，断肠多处，不与今番同。": {
+        "translation": "细细回想从前的种种，虽然多次令人肠断，但都与这次截然不同。",
+        "scene": "黄昏时分，诗人坐在空旷的庭院中，望着远方的天空，回忆着生活中的种种离别和经历。",
+        "emotion": "深沉的忧愁与难以言说的感伤。",
+        "translation_ENG": "Reflecting on the past in detail, although many times have been heartbreaking, they were all completely different from this time."
+    },
+    "明月照积雪，朔风劲且哀。": {
+        "translation": "明月照在积雪上，北风猛烈而且凄厉。",
+        "scene": "明月照耀在积雪之上，北风猛烈呼啸，夜晚寒冷寂静。",
+        "emotion": "诗人内心的悲凉与孤寂。",
+        "translation_ENG": "The bright moon shines on the snow, and the northern wind is fierce and bleak."
+    },
+    "事莫貴乎有驗，言莫棄乎無徴。": {
+        "translation": "没有什么比有证据的事更为可贵，没有什么比无根据的话更应该抛弃。",
+        "scene": "书斋中，学者正埋头苦读，旁边堆满了书籍和文件，追求真理与实证精神的氛围弥漫。",
+        "emotion": "追求真理与实证的坚定信念。",
+        "translation_ENG": "Nothing is more valuable than a matter with evidence, and nothing deserves to be discarded more than baseless words."
+    },
+    "富贵非吾愿，帝乡不可期。": {
+        "translation": "富贵不是我所求，修成神仙是没有希望的。",
+        "scene": "诗人在山林中漫步，面对青山绿水，心中超然物外。",
+        "emotion": "追求真理，不慕名利与神仙境界。",
+        "translation_ENG": "Wealth and honor are not what I seek, and becoming an immortal is hopeless."
+    },
+    "南村群童欺我老无力，忍能对面为盗贼。": {
+        "translation": "南村的一群儿童欺负我年老没力气，竟狠心这样当面做“贼”抢东西。",
+        "scene": "南村的小巷中，一群儿童围住年老体弱的作者，抢夺他的物品，画面充满紧张对峙。",
+        "emotion": "急切与愤慨交织的深切悲哀。",
+        "translation_ENG": "A group of children from Nan Village took advantage of my old age and weakness, and heartlessly behaved like thieves by stealing things right in front of me."
+    },
+    "不知命，无以为君子也；不知礼，无以立也；不知言，无以知人也。": {
+        "translation": "不懂天命，不可以成为君子；不懂礼义，不能立足于社会；不懂得分辩言语是非，不能了解别人。",
+        "scene": "庭院中，先生坐于书桌前，年轻学生静心聆听，自然宁静的环境。",
+        "emotion": "求知若渴与诚恳的教诲。",
+        "translation_ENG": "If one does not understand the mandate of heaven, one cannot be a gentleman; if one does not understand propriety and righteousness, one cannot establish oneself in society; if one does not understand how to discern the truth in words, one cannot understand others."
+    },
+    "愁肠已断无由醉，酒未到，先成泪。": {
+        "translation": "愁肠寸断，想要借酒浇愁，也难以使自己沉醉。酒还未喝，却先化作了辛酸的眼泪。",
+        "scene": "寂静晚风中，一人持杯低头独坐，眼中泪水悄然滑落，心事沉重。",
+        "emotion": "抑郁愁苦，难以排解的忧伤。",
+        "translation_ENG": "The heart is broken, wanting to drown sorrows with wine, but its difficult to make oneself intoxicated. The wine hasnt been drunk yet, but it has already turned into bitter tears."
+    },
+    "嗟君此别意何如，驻马衔杯问谪居。": {
+        "translation": "此次离别不知你们心绪何如，停下马来饮酒饯别询问被贬的去处。",
+        "scene": "告别时的酒宴上，两人相对而坐，心中愁绪满溢，面露难舍之情。",
+        "emotion": "依依不舍与满腹愁苦。",
+        "translation_ENG": "At this farewell, I wonder what sentiments stir in your hearts; let us halt our horses, drink wine in parting, and inquire about the destination of the one exiled."
+    },
+    "彩袖殷勤捧玉钟。当年拚却醉颜红。": {
+        "translation": "你挥舞彩袖手捧酒杯殷勤劝酒，回想当年心甘情愿醉倒于颜红。",
+        "scene": "华丽的酒宴上，歌女挥舞彩袖，手持酒杯劝酒，热闹而醉人的场面。",
+        "emotion": "对过去欢聚的迷醉与怀念。",
+        "translation_ENG": "You waved colorful sleeves and held a wine cup, urging me to drink warmly, recalling the days when I willingly became drunk in rosy splendor."
+    },
+    "春云淡淡日辉辉，草惹行襟絮拂衣。": {
+        "translation": "头上是暖暖的阳光和淡淡的云朵，脚底青草茂盛主动牵惹游人的衣襟，柳絮纷飞洒落在身上。",
+        "scene": "阳光明媚的春日里，绿草如茵，杨花飞舞，洒落在游人的衣衫上。",
+        "emotion": "悠美的春日生机和谐。",
+        "translation_ENG": "Above is the warm sunshine and faint clouds, underfoot the verdant grass eagerly clings to the travelers clothes, while willow catkins drift and fall upon them."
+    },
+    "昨夜霜风，先入梧桐。": {
+        "translation": "昨夜霜降寒风骤起，梧桐叶落纷纷。",
+        "scene": "秋夜霜降后，冷风四起，梧桐树叶纷纷飘落。",
+        "emotion": "萧瑟悲凉。",
+        "translation_ENG": "Last night, the frost descended and the cold wind rose abruptly, causing the sycamore leaves to fall one after another."
+    },
+    "鱼翻藻鉴，鹭点烟汀。": {
+        "translation": "水中游鱼，清晰可数，不时跃出明镜般的水面；水边沙洲，白鹭点点，悠闲自得。",
+        "scene": "明净的水面游鱼嬉戏，岸边沙洲白鹭闲适栖息。",
+        "emotion": "悠然自得的宁静与和谐。",
+        "translation_ENG": "Fish swim in the water, clearly visible and sometimes leaping out of the mirror-like surface; sandbanks by the water are dotted with egrets, leisurely and carefree."
+    },
+    "豆蔻连梢煎熟水，莫分茶。": {
+        "translation": "将豆蔻煎成沸腾的汤水，不用强打精神分茶而食。",
+        "scene": "屋内热气蒸腾，豆豉熬煮，香气四溢，宁静而悠闲。",
+        "emotion": "恬淡悠闲的调养情境。",
+        "translation_ENG": "Simmer the cardamom into a bubbling decoction, without forcing oneself to muster the spirit to divide tea and food."
+    },
+    "酒已都醒，如何消夜永！": {
+        "translation": "长夜漫漫如何熬到天明？",
+        "scene": "寂静漫长的夜晚，孤独诗人醒酒后，独坐凝视星空。",
+        "emotion": "内心的孤独与无奈。",
+        "translation_ENG": "How to endure the long night until dawn?"
+    },
+    "花砖曾立摘花人，窣破罗裙红似火。": {
+        "translation": "曾经有个摘花的人站在花砖上，她不小心踩破了做的罗裙，那罗裙的颜色红得像火焰一样。",
+        "scene": "站在桃花树下的女子，红色罗裙如火焰般热烈，与周围盛开的桃花相映成趣。",
+        "emotion": "忧愁与落寞中蕴含热情。",
+        "translation_ENG": "Once there was a flower picker standing on the flower tiles, she accidentally tore her gown, which was as red as flames."
+    },
+    "紫陌红尘拂面来，无人不道看花回。": {
+        "translation": "长安道上行人车马川流不息，扬起的灰尘扑面而来，人们都说自己刚从玄都观里赏花回来。",
+        "scene": "长安道上行人车马穿行不息，灰尘扬起，熙熙攘攘的人群。人们刚从玄都观赏花归来，喜悦洋溢。",
+        "emotion": "满足心情和愉快神态。",
+        "translation_ENG": "On the road of Changan, pedestrians and carriages flow incessantly, with dust rising and blowing onto faces. People all say they have just returned from the Xuandu Temple after enjoying the flowers."
+    },
+    "万里桥西一草堂，百花潭水即沧浪。": {
+        "translation": "万里桥西边就是我居住的草堂，没几个人来访，百花潭与我相伴，随遇而安，这就是沧浪。",
+        "scene": "万里桥西的草堂，周围是百花绽放的池塘，清幽静谧。",
+        "emotion": "超脱世俗的淡泊人生观。",
+        "translation_ENG": "Just west of Wanli Bridge lies the thatched cottage where I reside; hardly anyone visits, the Hundred Flower Pond is my constant companion, and I live contentedly with whatever comes—this is Canglang."
+    },
+    "惆怅孤帆连夜发，送行淡月微云。": {
+        "translation": "心中惆怅你连夜就要扬帆出发，送行之时云色微茫月光淡淡。",
+        "scene": "清冷的夜色中，月光微弱，云雾缭绕，友人依依告别，扬帆远行。",
+        "emotion": "依依惜别与深切思念。",
+        "translation_ENG": "With a heavy heart, you will set sail overnight. As I bid you farewell, the clouds are faint and the moonlight is gentle."
+    },
+    "山寺钟鸣昼已昏，渔梁渡头争渡喧。": {
+        "translation": "黄昏时山寺的钟声在山谷中回响，渔梁渡口处人们争着过河，喧闹不已。",
+        "scene": "黄昏时分，山谷中寺庙的钟声回荡，渡口船只穿行，人们喧闹不已。",
+        "emotion": "沉静与超脱的胸怀。",
+        "translation_ENG": "At dusk, the bell of the mountain temple echoes through the valley, while people hustle to cross the river at Yuliang Ferry, creating a noisy scene."
+    },
+    "门庭多落叶，慨然知已秋。": {
+        "translation": "巷子里、庭院里到处都是树木的落叶，看到落叶不禁发出感叹，才知道原来已是金秋了。",
+        "scene": "幽静的巷子和庭院中，秋风轻拂，满地落叶，展示着秋天渐入的景象。",
+        "emotion": "清新淡雅的秋日感慨。",
+        "translation_ENG": "The alley and the courtyard are covered with fallen leaves from the trees. Seeing the leaves cannot help but sigh, only to realize that it is already the golden autumn."
+    },
+    "伊川桃李正芳新，寒食山中酒复春。": {
+        "translation": "伊水之滨桃花李花正盛开，在寒食节里，山中的酒也是醉香宜人的。",
+        "scene": "湖边桃李盛开，山中酒香醉人，春意盎然。",
+        "emotion": "顾盼神飞的愉悦心情。",
+        "translation_ENG": "On the banks of the Yi River, peach and plum blossoms are in full bloom during the Cold Food Festival, and the wine in the mountains is also intoxicatingly fragrant and pleasant."
+    },
+    "暗尘随马去，明月逐人来。": {
+        "translation": "人潮汹涌，马蹄下尘土飞扬；月光洒遍每个角落，人们在何处都能看到明月当头。",
+        "scene": "喧闹繁华的街道，人群熙熙攘攘，马蹄飞扬尘土，皎洁月光洒满大地。",
+        "emotion": "热闹与繁荣的喜悦。",
+        "translation_ENG": "The crowd is bustling, dust swirling under the horses hooves; moonlight spreads to every corner, and people can see the bright moon overhead wherever they are."
+    },
+    "内省不疚，夫何忧何惧？": {
+        "translation": "自己问心无愧，那还有什么忧愁和恐惧呢？",
+        "scene": "寓所中，思考者沉思凝眉，面对问题毫无畏惧，内心安宁与自信充盈其室。",
+        "emotion": "内心平静与无所畏惧。",
+        "translation_ENG": "If ones conscience is clear, what worries and fears remain?"
+    },
+    "月色灯山满帝都，香车宝盖隘通衢。": {
+        "translation": "帝王之都，到处月光如水，花灯如山， 装饰华丽的香艳的马车堵塞了宽敞大道。",
+        "scene": "帝都元宵夜，月光如水照耀，花灯如山，人潮汹涌，车马如织，灯火辉煌。",
+        "emotion": "繁华热闹的城市景象。",
+        "translation_ENG": "In the imperial capital, moonlight flows like water everywhere, lanterns shine like mountains, and the wide avenues are clogged with luxuriously decorated, fragrant carriages."
+    },
+    "多情自古伤离别，更那堪，冷落清秋节！": {
+        "translation": "自古以来，多情的人总是为离别而伤感，更何况是在这冷清、凄凉的秋天！",
+        "scene": "在冷清凄凉的秋天，树叶枯黄飘落，天空灰暗，冷风萧瑟，离人独自站在街边，神情忧伤。",
+        "emotion": "离别的凄楚与孤独感。",
+        "translation_ENG": "Since ancient times, sentimental people have always felt sadness over goodbyes, especially in this cold and desolate autumn."
+    },
+    "念去来、岁月如流，徘徊久、叹息愁思盈。": {
+        "translation": "想过去未来的进退升沉，岁月如流水。我徘徊叹息，愁思如潮，久久难以平静。",
+        "scene": "黄昏时分，江水缓缓流淌，岸边枯树落叶纷飞，独自徘徊沉思的身影于孤寂中显得落寞。",
+        "emotion": "无尽的思念与感慨。",
+        "translation_ENG": "Thinking about past advancements and setbacks in the future, time flows like water. I linger in sighs, with worries like waves, unable to calm down for a long time."
+    },
+    "少年不识愁滋味，爱上层楼。爱上层楼，为赋新词强说愁。": {
+        "translation": "人年轻的时候不懂忧愁的滋味，喜欢登高远望。喜欢登高远望，为了写出新词，没有忧愁也要勉强说愁。",
+        "scene": "年轻的诗人站在高楼之上，眺望远方，春风拂面，心情轻松愉悦，毫无忧虑。",
+        "emotion": "少年无忧无虑的轻快与探索之情。",
+        "translation_ENG": "When people are young, they dont understand the taste of sorrow and love to climb high and look afar. They like to climb high and look afar in order to write new words, and even without sorrow, they force themselves to talk about it."
+    },
+    "鸡声茅店月，人迹板桥霜。": {
+        "translation": "鸡声嘹亮，茅草店沐浴着月亮的余晖；板桥弥漫清霜，留下一行行先行客人的足迹。",
+        "scene": "黎明时分的乡间小路上，昏暗的月光沐浴着青草，木板桥上覆盖着清霜，留下了行人的足迹。",
+        "emotion": "悲伤的思乡与旅途中的苦思。",
+        "translation_ENG": "The rooster crows clearly as the thatched inn bathes in the afterglow of the moonlight; the plank bridge is covered in frost, leaving behind the footprints of previous travelers."
+    },
+    "秋阴不散霜飞晚，留得枯荷听雨声。": {
+        "translation": "深秋的天空一片阴霾，因此霜也来得晚了，水中的荷叶早已凋残，只留了几片枯叶供人聆听雨珠滴响的声音。",
+        "scene": "深秋的阴霾天空，晚霜降临，水中的荷叶已凋零，几片枯叶伴着雨滴声响，迷蒙而凄凉。",
+        "emotion": "孤寂思绪与轻微慰藉。",
+        "translation_ENG": "The late autumn sky is overcast, so the frost has also arrived late. The lotus leaves in the water have already withered, leaving only a few dried leaves for people to listen to the sound of raindrops falling."
+    },
+    "纵有健妇把锄犁，禾生陇亩无东西。": {
+        "translation": "即使有健壮的妇女手把锄头、步犁操劳农务，田土里的庄稼也得不到许多粮食。",
+        "scene": "广阔田野中，妇女辛勤劳作挥汗如雨，庄稼稀疏不丰收。",
+        "emotion": "对农民辛勤劳动的同情和无奈。",
+        "translation_ENG": "Even with strong women handling hoes and plows to toil in farming, the crops in the fields do not yield much grain."
+    },
+    "啾啾常有鸟，寂寂更无人。": {
+        "translation": "这里常常有鸟儿啾啾地啼鸣，却空虚冷清罕见人烟。",
+        "scene": "空旷冷清的山野，鸟儿低声啼鸣，天地寂寥无人烟。",
+        "emotion": "孤寂与冷清的氛围。",
+        "translation_ENG": "Birds often tweet here, yet it is empty and desolate with rare human presence."
+    },
+    "江山如有待，花柳自无私。": {
+        "translation": "美好的江山好像也在那儿等着我的；花也绽笑脸，柳也扭柔腰，无私地奉献着一切，欢迎我再度登临。",
+        "scene": "春日江山，花儿开放，杨柳依依，仿佛欢迎游子的归来。",
+        "emotion": "对自然的亲切和对人世的感慨。",
+        "translation_ENG": "The beautiful landscape seems to be waiting for me there; the flowers are blooming with smiles, the willows are swaying their gentle waists, selflessly offering everything, welcoming me to return once again."
+    },
+    "远牧牛，绕村四面禾黍稠。": {
+        "translation": "村外草地去放牛，我看见村庄四面庄稼绿油油。",
+        "scene": "宁静的村庄外，广袤的绿油油田野中，村民在放牧牛群，阳光洒在绿野上，风吹动青草，和谐美好。",
+        "emotion": "田园宁静与和谐美好。",
+        "translation_ENG": "Going to graze cattle on the meadow outside the village, I see the fields around the village are lush green."
+    },
+    "荆吴相接水为乡，君去春江正淼茫。": {
+        "translation": "两湖江浙紧接壤，河道纵横水为乡。您去的时候正值春江水满，烟波浩渺。",
+        "scene": "春季河流两岸风景如画，杨柳依依，水波荡漾，烟波浩渺，充满意境与诗意。",
+        "emotion": "深切怀念与真挚友情。",
+        "translation_ENG": "The two lakes, Hunan and Hubei, along with Jiangsu and Zhejiang, are adjacent, with interwoven waterways creating a water-bound landscape. When you visit, it will be the season of spring high waters, vast and misty waves."
+    },
+    "腾蛇乘雾，终为土灰。": {
+        "translation": "螣蛇尽管能腾云乘雾飞行，但终究也会死亡化为土灰。",
+        "scene": "翱翔于云雾之间的龙蛇，最终化为泥土灰烬。",
+        "emotion": "生命无常与自然规律的感悟。",
+        "translation_ENG": "Although the flying serpent can ride the clouds and mist, it will eventually die and turn to dust."
+    },
+    "举头望君门，屈指取公卿。": {
+        "translation": "抬头仰望宫廷大门，指日便可位取公卿。",
+        "scene": "诗人站在皇宫大门前，手指着太阳，期待被任用。",
+        "emotion": "自信与期待。",
+        "translation_ENG": "Raise your head and gaze at the palace gates; before long, you will attain a position among the high officials."
+    },
+    "龙头泻酒邀酒星，金槽琵琶夜枨枨。": {
+        "translation": "大壶的龙头倾泻着美酒，请来了酒星，弦架镶金的琵琶夜间弹得枨枨响。",
+        "scene": "华丽的宫殿中，酒星四周，大壶龙头倾洒美酒，琴瑟交织声声悦耳。",
+        "emotion": "尽情享乐与无休止的长夜之饮。",
+        "translation_ENG": "The spout of the big jug pours out fine wine, inviting the wine star. The lute with a gold-inlaid frame resonates melodiously during the night."
+    },
+    "我居北海君南海，寄雁传书谢不能。": {
+        "translation": "我住在北方海滨，而你住在南方海滨，欲托鸿雁传书，它却飞不过衡阳。",
+        "scene": "北方海滨与南方海滨的宁静景象，中间隔着广阔的重重山峦与碧海，鸿雁在天空中飞翔。",
+        "emotion": "怀念友人的深情与隔远千里之愁。",
+        "translation_ENG": "I live on the northern coast, while you live on the southern coast. I wish to send a letter via a wild goose, but it cannot fly past Hengyang."
+    },
+    "半世交亲随逝水，几人图画入凌烟？": {
+        "translation": "半世交往，亲密的情谊像流水般地过去，有几人能建立功名，绘像在凌烟？",
+        "scene": "流水静静流淌，岁月无声消逝，刻画岁月给人生留下的痕迹。",
+        "emotion": "感慨岁月流逝与人生无常。",
+        "translation_ENG": "Half a lifetime of interaction, the close friendship flows like water, how many people can establish fame and have their portraits painted on Lingyan Pavilion?"
+    },
+    "今年欢笑复明年，秋月春风等闲度。": {
+        "translation": "年复一年都在欢笑打闹中度过，秋去春来美好的时光白白消磨。",
+        "scene": "岁月流逝，四季更替中，容颜渐老，青春散去。",
+        "emotion": "青春逝去后的后悔与叹息。",
+        "translation_ENG": "Year after year passes by in laughter and frolic, the beautiful times are wasted as autumn goes and spring comes."
+    },
+    "雨暗残灯棋散后，酒醒孤枕雁来初。": {
+        "translation": "残灯暗淡的雨夜，一起下棋的友人已经散去，酒醒后孤枕难眠，又看到北雁南飞。",
+        "scene": "昏暗的雨夜下，孤灯旁棋局散去，幽静的萧条氛围中，北雁南飞。",
+        "emotion": "孤独凄凉的悲凉与抑郁。",
+        "translation_ENG": "On a rainy night with dim lamps, the friends who played chess together have departed. After sobering up, I find it difficult to sleep alone with a pillow, and I see the northern geese flying south."
+    },
+    "有三秋桂子，十里荷花。": {
+        "translation": "这里秋天桂花飘香，夏季十里荷花。",
+        "scene": "秋季的西湖，桂花飘香，荷花点点，风景如画。",
+        "emotion": "宁静怡人，充满诗意。",
+        "translation_ENG": "Here in autumn, the fragrance of osmanthus fills the air, and in summer, there are lotus flowers for miles."
+    },
+    "日入群动息，归鸟趋林鸣。": {
+        "translation": "日落之后各类生物都已歇息，归鸟向林欢快鸣。",
+        "scene": "夕阳西下，万物渐归于寂，归鸟欢快飞向森林。",
+        "emotion": "宁静优美与闲适心情。",
+        "translation_ENG": "After sunset, all kinds of creatures have rested, and the returning birds chirp joyfully towards the forest."
+    },
+    "只恐双溪舴艋舟，载不动许多愁。": {
+        "translation": "只恐怕双溪蚱蜢般的小船，载不动我许多的忧愁。",
+        "scene": "静谧的河流上，一叶小船轻轻漂浮，两岸青山环绕，气氛忧伤宁静。",
+        "emotion": "满怀难以排解的愁绪。",
+        "translation_ENG": "I fear that the little boat on the Double Stream, like a grasshopper, cannot carry my many sorrows."
+    },
+    "蓝桥春雪君归日，秦岭秋风我去时。": {
+        "translation": "蓝桥驿春雪飘飘当初你归来之日，秦岭上秋风飒飒如今我离去之时。",
+        "scene": "蓝桥下春雪飘飘，春意融融，秦岭上秋风肃杀，秋色萧瑟。",
+        "emotion": "喜悦与悲凉交织。",
+        "translation_ENG": "At Lanqiao Inn, the spring snow drifts gracefully; on the day you returned long ago, the autumn wind roared over the Qinling Mountains, and now, as I depart."
+    },
+    "欲渡黄河冰塞川，将登太行雪满山。": {
+        "translation": "想渡过黄河，坚冰堵塞大川；想登太行山，大雪遍布高山。",
+        "scene": "黄河上坚冰阻断，积雪覆盖高山的严寒景象。",
+        "emotion": "人生道路上的艰难险阻与内心的苦闷抑郁。",
+        "translation_ENG": "I want to cross the Yellow River, but the thick ice blocks the mighty river; I want to climb the Taihang Mountain, but the heavy snow covers the high peaks."
+    },
+    "慨当以慷，忧思难忘。": {
+        "translation": "宴会上歌声慷慨激昂，心中的忧愁却难以遗忘。",
+        "scene": "宴会厅内，歌声飘扬，大家欢声笑语，但某人独自沉思，心中隐忧挥之不去。",
+        "emotion": "内心的忧愁与人生的感叹。",
+        "translation_ENG": "The singing at the banquet was passionate, yet the sorrow in the heart was hard to forget."
+    },
+    "别后悠悠君莫问，无限事，不言中。": {
+        "translation": "分别后世事悠悠您就不用问了，无限的心事，都在不言中。",
+        "scene": "月光柔和的夜晚，两人静静分手，各自心事重重，无法言说。",
+        "emotion": "沉痛的思念与无言的悲凉。",
+        "translation_ENG": "After parting, the affairs of the world continue endlessly; theres no need for you to ask. Infinite thoughts remain unspoken."
+    },
+    "秋来相顾尚飘蓬，未就丹砂愧葛洪。": {
+        "translation": "秋天到了，你我二人再次相见，仍像飘蓬一样飘忽不定。丹砂没有炼成仙药，不禁感到愧对葛洪。",
+        "scene": "秋天的微风中，两位友人重逢，像飘渺的蒲公英，摇曳不定，无根的漂泊。",
+        "emotion": "深深的惆怅与奋斗艰难的感慨。",
+        "translation_ENG": "Autumn has arrived, and you and I meet again, still drifting like wandering souls. The cinnabar has not been refined into an elixir, causing a sense of shame towards Ge Hong."
+    },
+    "一身报国有万死，双鬓向人无再青。": {
+        "translation": "我虽有万死不辞的报国之志，却无奈双鬓斑白不能再转青。",
+        "scene": "年迈的诗人目视白发，手握空卷，孤独的庭院中，怅然若失，昔日风采不再。",
+        "emotion": "壮志难酬的悲伤与愤慨。",
+        "translation_ENG": "Although I have the unwavering will to serve my country despite facing obstacles, I am resigned to the fact that my greying hair can never return to its youthful black."
+    },
+    "老大那堪说。": {
+        "translation": "我本来已老大无成，不该再说什么了。",
+        "scene": "落日余晖下的庭院，诗人独坐石凳，神情黯然，白发苍苍，岁月流逝。",
+        "emotion": "无奈与深沉的哀伤。",
+        "translation_ENG": "I have achieved nothing despite being old, and I shouldnt say anything more."
+    },
+    "何人为我楚舞，听我楚狂声？": {
+        "translation": "什么人了解我，来为我跳楚舞？听我唱楚狂人接舆的《凤兮》歌？",
+        "scene": "幽暗的古代庭院中，诗人独自一人跳跃起舞，神情悲愤，仿佛在向无形的观众倾诉心中的愤懑与无奈。",
+        "emotion": "孤独无奈与悲愤不解。",
+        "translation_ENG": "Who understands me and will come to dance the Chu dance for me? Listen to me sing Chu Kuang Ren Jie Yus Feng Xi song?"
+    },
+    "归时休放烛光红，待踏马蹄清夜月。": {
+        "translation": "归去时不要燃亮烛花焰火，且待骑马踏着清夜月归去。",
+        "scene": "清冷的夜晚，骑士策马在月光下驰骋，无拘无束，享受自然的恣意畅快。",
+        "emotion": "自由奔放与超然洒脱的恣意兴致。",
+        "translation_ENG": "When you return, do not light the candles or fireworks, and wait to ride back under the clear night moon."
+    },
+    "水边灯火渐人行，天外一钩残月带三星。": {
+        "translation": "远处的水边有几点灯火闪烁，接着又隐约听到有行人在走动。西边的天际，一钩残月和几颗寥落的晨星在相依相伴，闪着黔淡的光辉。",
+        "scene": "天边的残月与晨星相依，水边几盏闪烁的灯火，隐约传来行人移动声，晨曦微光笼罩一切。",
+        "emotion": "清幽明丽与即将启程的催促感。",
+        "translation_ENG": "In the distance by the waters edge, a few lights flicker, followed by a faint sound of pedestrians moving. In the western sky, a waning crescent moon and a few sparse morning stars accompany each other, shining with a dim, subdued glow."
+    },
+    "都缘自有离恨，故画作远山长。": {
+        "translation": "因为内心有太多离愁别恨，所以把双眉画得像远山那么长。",
+        "scene": "一位美丽的女子坐在窗前，对镜梳妆，眉间流露出难以言喻的忧愁，环境幽静如远山。",
+        "emotion": "内心的离愁别恨与哀怨。",
+        "translation_ENG": "Because there is too much sorrow and hatred inside, I draw my eyebrows as long as distant mountains."
+    },
+    "犹有桃花流水上，无辞竹叶醉尊前。": {
+        "translation": "依然有桃花飘落在流水上，不如倒满竹叶青美酒一饮而尽，醉倒在酒樽前。",
+        "scene": "桃花飘落的溪水边，竹叶与青美酒交相辉映，诗人醉卧酒樽旁，享受春日的惬意。",
+        "emotion": "惜春留恋与惬意享受。",
+        "translation_ENG": "Peach blossoms are still falling on the flowing water. Instead, fill the bamboo-leaf green wine to the brim, drink it in one go, and then collapse in front of the wine goblet."
+    },
+    "纵一苇之所如，凌万顷之茫然。": {
+        "translation": "放纵一片苇叶似的小船随意漂浮，越过浩瀚无垠的茫茫江面。",
+        "scene": "静谧的月夜，河面宽广，水面如镜，小船随波逐流，远处星光点点，宁静而悠然。",
+        "emotion": "心胸开阔与无拘无束的轻松自得。",
+        "translation_ENG": "A little boat, resembling a reed leaf, drifts freely as it crosses the vast, boundless river."
+    },
+    "众鸟欣有托，吾亦爱吾庐。": {
+        "translation": "那些鸟儿都因为有树枝可以栖宿而感到异常欣喜，我也很喜爱我这间茅庐。",
+        "scene": "绿树环绕的草堂内，诗人悠闲地读书，鸟儿在树枝上愉悦地鸣叫，流露出田园的舒适与宁静。",
+        "emotion": "安雅清闲，自然平和。",
+        "translation_ENG": "Those birds are exceptionally pleased because they have branches to perch on, and I also love my thatched cottage."
+    },
+    "双燕飞来，陌上相逢否？": {
+        "translation": "双燕飞来，路上可与他相遇？",
+        "scene": "秋日小路上，双燕飞舞，妇人凝望远方，神情焦虑期盼。",
+        "emotion": "期盼与焦虑的思念。",
+        "translation_ENG": "The two swallows fly in, is there a chance to encounter him on the way?"
+    },
+    "拔剑绕残樽，歌终便出门。": {
+        "translation": "乘着酒酣拔剑起舞绕着残宴，高歌罢便毅然气昂昂地出门。",
+        "scene": "酒宴将散，剑客拔剑起舞，高歌而去，扬长而行。",
+        "emotion": "豪兴和感慨并存，洒脱不羁。",
+        "translation_ENG": "Riding the high of drunkenness, I draw my sword and dance around the remains of the feast. After singing loudly, I resolutely and confidently walk out the door."
+    },
+    "夫有尤物，足以移人。": {
+        "translation": "拥有绝色美貌的人，完全能够祸乱人的情志。",
+        "scene": "亭台楼阁中，绝色佳人轻抚琴弦，引得众人驻足凝视，美丽如烟火般绚烂。",
+        "emotion": "迷人的魅力与情感的扰乱。",
+        "translation_ENG": "A person with stunning beauty can completely disrupt peoples emotions."
+    },
+    "也信美人终作土，不堪幽梦太匆匆。": {
+        "translation": "我也知道你终会死去、化作一抔黄土，只是无法忍受这美好的梦去得太匆忙。",
+        "scene": "美丽的梦境在寂静的夜晚消逝，逐渐化为一抹黄土，隐约透出哀伤之意。",
+        "emotion": "深沉而凄美的哀婉之情。",
+        "translation_ENG": "I also know that you will eventually die and turn into a mound of yellow earth, but I cannot bear to see this beautiful dream rush away too quickly."
+    },
+    "朽木不可雕也，粪土之墙不可圬也，于予与何诛？": {
+        "translation": "腐烂的木头不堪雕刻，粪土的墙面不堪涂抹！对于宰予这样的人，还有什么好责备的呢？",
+        "scene": "腐朽的木头和坍塌的墙壁，象征着破败和无力，无法重塑的困境。",
+        "emotion": "无奈与绝望的感慨。",
+        "translation_ENG": "Decayed wood cannot be carved, and a wall made of dung cannot be plastered! For someone like Zai Yu, what is there to criticize?"
+    },
+    "宁为宇宙闲吟客，怕作乾坤窃禄人。": {
+        "translation": "我宁愿安守穷困，做一个天地之间的诗者，决不投身官场，成为世间利禄之人。",
+        "scene": "古朴的庭院中，诗人静坐，微风轻拂，树影斑驳，远离官场，独享心灵宁静。",
+        "emotion": "宁愿闲居吟诗的高尚情操。",
+        "translation_ENG": "I would rather remain in poverty and be a poet between heaven and earth, than enter the officialdom and become a person chasing worldly profits."
+    },
+    "今朝一岁大家添，不是人间偏我老。": {
+        "translation": "人间众生到今日都长一岁，绝非仅仅我一人走向衰老。",
+        "scene": "日落黄昏下，人们面对逐渐老去的生命，时间流逝如飞。",
+        "emotion": "对时光流逝的深切感慨。",
+        "translation_ENG": "Today, every living being in the world grows a year older. Its not just me who is aging."
+    },
+    "定定住天涯，依依向物华。": {
+        "translation": "久久滞留在远离家乡的地方，依依不舍地向往着春天的景物。",
+        "scene": "远离家乡的他独自站立在美好的春景中，注视着生机勃勃的大自然，流露出深深的思念与眷恋。",
+        "emotion": "思乡的苦闷与对春日美景的眷恋。",
+        "translation_ENG": "Lingering for a long time in a place far from my hometown, I longingly yearn for the scenery of spring."
+    },
+    "志不强者智不达；言不信者行不果。": {
+        "translation": "志向不坚定的人，智慧就得不到充分的发挥；说话不守信用的人做事就很难获得成功。",
+        "scene": "在宁静的夜晚，孤独的求知者在灯下刻苦学习，心无旁骛。",
+        "emotion": "坚持不懈与诚信的重要性。",
+        "translation_ENG": "A person with unsteady ambition cannot fully utilize their wisdom; a person who doesnt keep their word will find it difficult to succeed in their endeavors."
+    },
+    "莫嗔焙茶烟暗，却喜晒谷天晴。": {
+        "translation": "不要嫌怨烘茶时冒出青烟，应当庆幸晒谷正逢晴天。",
+        "scene": "晴天的乡村茶园，农民们在烟雾中忙碌制茶，村民们微笑着享受晴日的生活。",
+        "emotion": "质朴与爽朗的性格以及对生活的满足。",
+        "translation_ENG": "Do not complain about the blue smoke when roasting tea; instead, be grateful for the sunny weather during grain drying."
+    },
+    "行人无限秋风思，隔水青山似故乡。": {
+        "translation": "路上的行人兴起了无限的思乡之情，此处的青山绿水也仿佛是自己的故乡了。",
+        "scene": "在青山绿水间，行人驻足，凝望远方，流露出无限思乡之情，仿佛置身于故乡。",
+        "emotion": "思乡之情与对故乡的深切怀念。",
+        "translation_ENG": "The pedestrians on the road were filled with endless homesickness, and the green mountains and rivers here seemed like their own hometown."
+    },
+    "平山阑槛倚晴空，山色有无中。": {
+        "translation": "平山堂的栏杆外是晴朗的天空，远山似有似无，一片迷蒙。",
+        "scene": "平山堂外，清朗的天空下，远山朦胧。",
+        "emotion": "闲适放松的心态。",
+        "translation_ENG": "Outside the railing of Pingshan Hall is a clear sky, with distant mountains seemingly appearing and disappearing, shrouded in a mist."
+    },
+    "中秋谁与共孤光。把盏凄然北望。": {
+        "translation": "在这中秋之夜，谁能够和我共同欣赏这美妙的月光？我只能拿起酒杯，凄然望着北方。",
+        "scene": "中秋之夜，孤独的人举杯望月，月光透过树叶洒在庭院中，清冷而静谧。",
+        "emotion": "孤独寂寞与思乡愁绪。",
+        "translation_ENG": "On this Mid-Autumn night, who can join me in admiring this wonderful moonlight? I can only raise my cup, wistfully gazing toward the north."
+    },
+    "客去波平槛，蝉休露满枝。": {
+        "translation": "当初你离去时春潮漫平栏杆；如今秋蝉不鸣露水挂满树枝。",
+        "scene": "水亭旁的秋夜，露水挂满树枝，寂静而清凉。",
+        "emotion": "由闹至静后的宁静心境。",
+        "translation_ENG": "When you left back then, the spring tide overflowed the railings; now, the autumn cicadas are silent, and dew hangs full on the branches."
+    },
+    "但看古来歌舞地，惟有黄昏鸟雀悲。": {
+        "translation": "只见那古往今来的歌舞之地，剩下的只有黄昏的鸟雀在空自悲啼。",
+        "scene": "昔日繁华的歌舞场所，如今只有黄昏的鸟雀在凄凉鸣叫。",
+        "emotion": "对世事无常的感慨和沧桑感。",
+        "translation_ENG": "In the place where dances and songs of the past and present were once abundant, only the birds at dusk remain, lamenting bitterly in the empty sky."
+    },
+    "敏而好学，不耻下问，是以谓之文也。": {
+        "translation": "聪敏又勤学，不以向职位比自己低、学问比自己差的人求学为耻辱，所以给他谥号叫“文”。",
+        "scene": "古代学堂内，书生们专注于学习，教师在讲解，文人互相讨论，氛围宁静而充满求知欲。",
+        "emotion": "勤学好问的求知欲与谦逊精神。",
+        "translation_ENG": "He was intelligent and studious, and did not feel ashamed to seek knowledge from those with lower positions or lesser knowledge than himself. Hence, he was given the posthumous name Wen."
+    },
+    "落红铺径水平池，弄晴小雨霏霏。": {
+        "translation": "池塘水满，落花铺满了园中小径。细雨霏霏，时停时下，乍晴乍阴。",
+        "scene": "春日小径旁，池塘水满，落花遍布，细雨飘洒，天空时晴时阴。",
+        "emotion": "惜春之情与幽婉的惆怅。",
+        "translation_ENG": "The pond is full, and fallen petals cover the garden paths. Light rain drizzles on and off, alternating between clear and cloudy."
+    },
+    "大器免成；大音希声；大象无形；道隐无名。": {
+        "translation": "最大的器具，是浑然天成，自然的；最大的声响，反而听来无声无息；最大的形象，反而没有形状。道幽隐而没有名称，无名无声。",
+        "scene": "自然天地无声无形的和谐美，仿佛在辽阔的山脉和宁静的湖泊中体现出大道无形。",
+        "emotion": "崇尚自然的宁静与无形之美。",
+        "translation_ENG": "The greatest instrument is naturally crafted and innate; the loudest sound is actually silent; the greatest image has no form. The Tao is profound and without a name, nameless and soundless."
+    },
+    "何处是归程？长亭更短亭。": {
+        "translation": "哪里是我归家的路程？只看到道路上的长亭连着短亭。",
+        "scene": "暮色渐沉，曲折小径连接长亭短亭，周围寂静无声，几缕轻烟升起，孤独行者寻找归路。",
+        "emotion": "渴望归宿与无限愁绪。",
+        "translation_ENG": "Where is the way to my homecoming journey? I only see long pavilions connected with short pavilions along the road."
+    },
+    "画图恰似归家梦，千里河山寸许长。": {
+        "translation": "画境如梦归家乡，寸幅之中展尽千里河山。",
+        "scene": "梦幻般的家乡河山中，千里江山尽收眼底，细致如画卷。",
+        "emotion": "幽远且动人的乡愁。",
+        "translation_ENG": "The dreamlike scenery returns to the hometown, unfolding thousands of miles of landscape within an inch of frame."
+    },
+    "鹿车何日驾，归去颍东田。": {
+        "translation": "什么时候能满足我的愿望——挽着鹿车，回到颍东，耕田植桑。",
+        "scene": "宁静的农村景象，阳光洒在田野和桑树上，鹿车缓缓行驶，通过田间小路。",
+        "emotion": "归隐田园的渴望与宁静。",
+        "translation_ENG": "When will my wish be fulfilled—to harness the deer-drawn carriage, return to Yingdong, and till the fields and plant mulberry trees?"
+    },
+    "寂寞空庭春欲晚，梨花满地不开门。": {
+        "translation": "寂寞幽寂的庭院内春天已临近尽头，梨花落满地面而院门紧掩。",
+        "scene": "寂静幽深的庭院，梨花落满地面，春天渐行渐远，院门紧闭，将孤寂与凄凉的气氛笼罩。",
+        "emotion": "深沉委婉的怨情和孤独悲凉。",
+        "translation_ENG": "In the quiet and lonely courtyard, spring is nearing its end, with pear blossoms covering the ground and the courtyard gate tightly shut."
+    },
+    "贾傅松醪酒，秋来美更香。": {
+        "translation": "贾谊所喜爱的松醪酒，在秋天到来时更加美味香醇。",
+        "scene": "秋天的高天淡云下，一壶松醪酒散发香醇，友人在庭院中送别。",
+        "emotion": "惋惜的送别之情。",
+        "translation_ENG": "The Songlao wine favored by Jia Yi becomes more delicious and fragrant when autumn arrives."
+    },
+    "飞蓬遇飘风而行千里，乘风之势也；探渊者知千仞之深，县绳之数也。": {
+        "translation": "飞蓬遇旋风而行程千里，是凭借风势啊；测量深潭的人能够知道八千尺的深度是运用了悬绳测量法。",
+        "scene": "大鹏在空中翱翔，借助旋风，飞行千里。智者在深潭旁，借助悬绳测量深度。",
+        "emotion": "智慧的借势与目标实现。",
+        "translation_ENG": "A feipeng can travel a thousand miles when it encounters a whirlwind, relying on the force of the wind; a person measuring a deep pond can know its depth of eight thousand feet by using the plumb line method."
+    },
+    "春耕、夏耘、秋收、冬藏四者不失时，故五谷不绝而百姓有馀食也": {
+        "translation": "春天耕种、夏天锄草、秋天收获、冬天储藏，这四件事都不丧失时机，所以五谷不断地生长而老百姓有多余的粮食。",
+        "scene": "田野上春耕夏锄秋收冬藏，农民忙碌于四季轮转中，确保粮食丰收与储存。",
+        "emotion": "勤劳与安心的乡村生活。",
+        "translation_ENG": "Spring is for sowing, summer for weeding, autumn for harvesting, and winter for storage. These four activities are done without missing any opportunity, which is why the grains continuously grow, providing the people with surplus food."
+    },
+    "江上往来人，但爱鲈鱼美。": {
+        "translation": "江上行人来来往往人，只是喜爱味道鲜美的鲈鱼。",
+        "scene": "江上的渔夫辛苦捕捞，船上行人络绎不绝，只关注新鲜美味的鳜鱼。",
+        "emotion": "对渔夫的艰辛充满同情。",
+        "translation_ENG": "The travelers on the river come and go, only fond of the delicious taste of perch."
+    },
+    "如今人方为刀俎，我为鱼肉，何辞为？": {
+        "translation": "现在人家好比是菜刀和砧板，我们好比是鱼和肉，告辞干什么呢？",
+        "scene": "厨房中，一面是寒光闪烁的菜刀与菜板，一面是被切分的鱼肉，刀光剑影，紧张而危急。",
+        "emotion": "无奈中的紧张与危急。",
+        "translation_ENG": "Now the others are like the knife and the chopping board, while we are like the fish and the meat. Why bother to say goodbye?"
+    },
+    "功名祗向马上取，真是英雄一丈夫。": {
+        "translation": "功名富贵只向马上求取，您不愧是一位英雄大丈夫。",
+        "scene": "豪情万丈的将军驰骋于战场，坚定地追逐功名与荣誉，马背上展示英雄气概。",
+        "emotion": "坚定的追求功名与豪情壮志。",
+        "translation_ENG": "Fame and fortune must be pursued on horseback; you truly are a heroic man."
+    },
+    "落霞与孤鹜齐飞，秋水共长天一色。": {
+        "translation": "落日映射下的彩霞与孤独的野鸭一齐飞翔，秋天的江水和辽阔的天空连成一片，浑然一色。",
+        "scene": "夕阳下的彩霞，孤独的野鸭在秋天的江水和辽阔的天空中飞翔，宁静而辽远。",
+        "emotion": "宁静致远的美感与孤独情怀。",
+        "translation_ENG": "Under the reflection of the setting sun, the colorful clouds and the solitary wild duck fly together, while the autumn river and the vast sky blend into one, creating a harmonious scene."
+    },
+    "吴丝蜀桐张高秋，空山凝云颓不流。": {
+        "translation": "秋夜弹奏起吴丝蜀桐制成精美的箜篌；听到美妙的乐声，天空的白云凝聚起来不再飘游。",
+        "scene": "秋夜空山，精美的琴瑟声在寂静中回响，白云凝聚不散。",
+        "emotion": "宁静优美与技艺高超。",
+        "translation_ENG": "On an autumn night, the exquisite konghou made from Wu silk and Shu paulownia begins to play; hearing the wonderful music, the white clouds in the sky gather and no longer drift."
+    },
+    "山为樽，水为沼，酒徒历历坐洲岛。": {
+        "translation": "且把山谷作酒杯，湖水作酒池，酒徒济济，围坐在洲岛的中央。",
+        "scene": "山谷与湖泊间，酒徒们围坐在洲岛中央，把山谷当作酒杯，湖水化为酒池。",
+        "emotion": "洒脱的畅饮与逍遥自在的享乐。",
+        "translation_ENG": "Consider the valley as a wine cup, the lake water as a wine pool; the jovial drinkers gather and sit around the center of the island."
+    },
+    "非我而当者，吾师也；是我而当者，吾友也；谄谀我者，吾贼也。": {
+        "translation": "指出我的缺点而批评又中肯的人，就是我的老师；肯定我，而赞赏又恰当的人，就是我的朋友；阿谀奉承我的人，就是害我的寇贼。",
+        "scene": "在学堂或书房中，学生仔细聆听老师的批评与中肯的建议，朋友在一旁赞赏，而居心叵测者则在暗处窥伺，场景庄重而富有深意。",
+        "emotion": "清醒的智慧与警惕的教诲。",
+        "translation_ENG": "The person who points out my shortcomings and criticizes me fairly is my teacher; the person who affirms me and praises me appropriately is my friend; the person who flatters me is my enemy."
+    },
+    "老吾老，以及人之老；幼吾幼，以及人之幼，天下可运如掌。": {
+        "translation": "尊敬自己的老人，就把这种尊敬推及别人的老人；爱护自己的孩子，也把这种爱护推及别人的孩子；天下就像是手掌中翻转小东西一样容易治理。",
+        "scene": "家中长者与孩童相伴，环境温馨融洽，孝敬与关爱充盈其中。",
+        "emotion": "尊敬长者和爱护孩子的亲情价值。",
+        "translation_ENG": "Respect your own elders, and extend this respect to the elders of others; cherish your own children, and extend this care to the children of others; then governing the world would be as simple as flipping a small object in the palm of your hand."
+    },
+    "一间茅屋何所值，父母之乡去不得。": {
+        "translation": "一间破旧的茅屋能值几个钱，因只是生我的地方离开不得。",
+        "scene": "破旧的茅草屋前，乡村小路寂静，充满离愁和不舍。",
+        "emotion": "对故乡的不舍与无奈之情。",
+        "translation_ENG": "The old and dilapidated hut may not be worth much money, but its the place where I was born and therefore I cannot leave it."
+    },
+    "运往无淹物，年逝觉已催。": {
+        "translation": "时运过去了就不会有淹留的东西，年岁的逝去感觉到已经在催人衰老。",
+        "scene": "黄昏时分，落日余晖洒在古道上，树影婆娑，岁月静静流逝。",
+        "emotion": "岁月无情的惆怅与无奈。",
+        "translation_ENG": "When fortune has passed, nothing lingers, and the passing of years feels like its urging one to grow old."
+    },
+    "甘井近竭，招木近伐": {
+        "translation": "甘甜的井水易于枯竭，高大的树木易被砍伐。",
+        "scene": "干涸的井边，参天大树被砍伐，呈现凋敝景象。",
+        "emotion": "无常与忧虑并存的哲理思考。",
+        "translation_ENG": "Sweet well water is easily exhausted, and tall trees are easily felled."
+    },
+    "朝饮木兰之坠露兮，夕餐秋菊之落英。": {
+        "translation": "早晨我饮木兰上的露滴，晚上我用菊花残瓣充饥。",
+        "scene": "清晨的花园中，露珠在木兰花瓣上滚落，夜晚静谧时，诗人独自饮用菊花残瓣。",
+        "emotion": "高洁品行与不愿同流合污的决心。",
+        "translation_ENG": "In the morning, I drink the dew from the magnolia, and in the evening, I satiate my hunger with the remnants of chrysanthemum petals."
+    },
+    "学而不厌，诲人不倦": {
+        "translation": "学习而不觉满足，教诲别人而不知疲倦。",
+        "scene": "书卷繁复的学堂中，学者专注于书本，传道授业不知疲倦。",
+        "emotion": "积极向上的学习热情。",
+        "translation_ENG": "Learning while never feeling satisfied, teaching others without feeling tired."
+    },
+    "树树皆秋色，山山唯落晖。": {
+        "translation": "每棵树都染上秋天的色彩，重重山岭都披覆着夕阳的余晖。",
+        "scene": "秋天的树林染上黄叶，群山披上夕阳余晖，萧瑟的暮色笼罩一切。",
+        "emotion": "秋日的伤感与萧条。",
+        "translation_ENG": "Every tree is painted with the colors of autumn, and the layers of mountains are draped in the afterglow of the sunset."
+    },
+    "更能消、几番风雨，匆匆春又归去。": {
+        "translation": "还经得起几回风雨的摧残，春天又将匆匆归去。",
+        "scene": "春天即将逝去，风雨凄凉，天地间弥漫着忧愁的气氛。",
+        "emotion": "忧国忧民的惆怅与感伤。",
+        "translation_ENG": "How many more times can it withstand the ravages of wind and rain before spring hastily departs again?"
+    },
+    "故人西辞黄鹤楼，烟花三月下扬州。": {
+        "translation": "友人在黄鹤楼与我辞别，在柳絮如烟、繁花似锦的阳春三月去扬州远游。",
+        "scene": "阳春三月的杨柳依依宛如烟雾，繁花似锦的楼台，友人在楼上挥手告别。",
+        "emotion": "愉快与向往。",
+        "translation_ENG": "A friend bid me farewell at Yellow Crane Tower, and in the breezy March where catkins are like smoke and flowers like brocade, they departed for a distant journey to Yangzhou."
+    },
+    "桃花流水鳜鱼肥。": {
+        "translation": "桃花水汛期鳜鱼长得肥胖。",
+        "scene": "清新自然的渔村河流，桃花盛开，水中肥美的鲤鱼游动。",
+        "emotion": "热爱自然的宁静与生机。",
+        "translation_ENG": "Mandarin fish grow fat during the peach blossom flood season."
+    },
+    "咸阳桥上雨如悬，万点空濛隔钓船。": {
+        "translation": "在咸阳桥上遇雨了，那牛毛细雨随风飘摇不定，宛如悬在空中的水晶帷帘；那泊着的钓鱼船被这连绵的水晶帷帘阻隔，如烟如画。",
+        "scene": "潇湘桥上的细雨朦胧，悬浮在空中的雨丝如水晶帘幕，渔船停泊在烟雨朦胧的水面上。",
+        "emotion": "朦胧烟雨中的幽美意境。",
+        "translation_ENG": "On the Xianyang Bridge, I encountered rain. The fine drizzle swayed unpredictably with the wind, resembling a crystal curtain suspended in the air; the moored fishing boats were obscured by this continuous crystal curtain, akin to a misty painting."
+    },
+    "出于其类，拔乎其萃": {
+        "translation": "人的品德才能超出同类之上。",
+        "scene": "春日的草原上，草木繁茂，绿草如茵，野花点缀其间，象征着人性与品德的蓬勃与超越。",
+        "emotion": "品德超越自然之美。",
+        "translation_ENG": "A persons virtues and talents can surpass those of their peers."
+    },
+    "汉城黄柳映新帘，柏陵飞燕埋香骨。": {
+        "translation": "京城里，嫩黄的春柳映照着刚更换的新帘，赵飞燕的香骨久已埋葬在皇陵。",
+        "scene": "京城内春日庭院，嫩黄的柳枝吐芽，宫墙深宫中传出寂静的气息。",
+        "emotion": "春日新生与无常生命的对比。",
+        "translation_ENG": "In the capital, the tender yellow spring willows reflect the newly changed curtains, while Zhao Feiyans fragrant remains have long been buried in the imperial tomb."
+    },
+    "不愤不启，不悱不发，举一隅不以三隅反，则不复也。": {
+        "translation": "教导学生，不到他冥思苦想仍不得其解的时候，不去开导他，不到他想说却说不出来的时候，不去启发他。给他指出一个方面，如果他不能由此推知其他三个方面，就不再重复告诉他了。",
+        "scene": "古代私塾内，老师思索指导学生，学生专心学习，环境安静而专注。",
+        "emotion": "激励与启发的教学智慧。",
+        "translation_ENG": "In teaching students, do not guide them until they have thought deeply but still cannot comprehend, do not inspire them until they want to express but are unable to articulate. Point out one aspect and if they cannot deduce the other three aspects from it, then do not repeat telling them."
+    },
+    "井放辘轳闲浸酒，笼开鹦鹉报煎茶。": {
+        "translation": "到井台放下辘轳闲逸中浸凉美酒，开鸟笼鹦鹉学舌提醒人莫忘煎茶。",
+        "scene": "井台旁，老将悠闲自得，享受清凉美酒，鸟笼里的鹤鸣声唤醒古香茶意，氛围宁静而闲适。",
+        "emotion": "悠闲自得与宁静舒适的生活情趣。",
+        "translation_ENG": "At the wellhead, lower the winch leisurely to immerse the cool fine wine, open the birdcage for the parrot to utter words, reminding people not to forget to brew tea."
+    },
+    "那边走，者边走，莫厌金杯酒。": {
+        "translation": "那边走，这边走，时时歌舞贪饮金杯酒。",
+        "scene": "奢华的宴会厅中，人们载歌载舞，金杯闪耀，沉浸在享乐之中。",
+        "emotion": "流连于奢侈享乐的欢愉。",
+        "translation_ENG": "There and here, constantly singing and dancing, indulging in golden cup wine."
+    },
+    "游人记得承平事，暗喜风光似昔年。": {
+        "translation": "游人还记得以前太平时候的盛事，暗自欣喜这风光与往年并无不同。",
+        "scene": "游人漫步于美丽的山川风光，享受自然的宁静，暂时忘却世事。",
+        "emotion": "虚假的繁荣与隐秘的忧愁。",
+        "translation_ENG": "Visitors still remember the grand events of the peaceful times in the past, secretly pleased that this scenery is no different from previous years."
+    },
+    "自古明王圣帝，犹须勤学，况凡庶乎！": {
+        "translation": "从古以来的贤王圣帝，还需要勤奋学习，何况是普通百姓之人呢！",
+        "scene": "宁静的书房中，人们在灯光下认真读书学习。",
+        "emotion": "勤奋学习的执着与自我提升的动力。",
+        "translation_ENG": "Even the wise kings and sagely emperors from ancient times needed to study diligently, so how much more so do ordinary people!"
+    },
+    "壬戌之秋，七月既望，苏子与客泛舟游于赤壁之下。": {
+        "translation": "壬戌年秋天，七月十六日，我与友人在赤壁下泛舟游玩。",
+        "scene": "中秋夜色下的湖面，朋友们在小船上悠闲地游玩，月光洒在水面上，波光粼粼。",
+        "emotion": "轻松愉悦的朋友聚会氛围。",
+        "translation_ENG": "In the autumn of the renxu year, on July 16th, I went boating with friends beneath Chibi."
+    },
+    "焉得思如陶谢手，令渠述作与同游。": {
+        "translation": "怎么才能找到陶渊明、谢灵运这样的诗文高手，让他们与我一起做诗畅谈，一起浮槎漫游。",
+        "scene": "宁静的月夜，诗人们共聚湖畔，沉浸在诗歌创作的悠然氛围中。",
+        "emotion": "对艺术最高境界的执着追求。",
+        "translation_ENG": "How can I find poetry masters like Tao Yuanming and Xie Lingyun, and have them join me in making poetry, engaging in leisurely discussions, and traveling together on a floating raft?"
+    },
+    "千里关山边草暮，一星烽火朔云秋。": {
+        "translation": "千里边塞山河辽阔暮色苍茫，山顶燃起如明星似的烽火更显得秋之萧索。",
+        "scene": "边塞的千里山河，暮色苍茫，山顶燃烧着烽火，明亮如明星。",
+        "emotion": "悲壮苍凉的情怀。",
+        "translation_ENG": "The vast mountains and rivers stretch thousands of miles at the border in the twilight, and the beacon fires ignite like stars on the mountaintop, heightening the desolation of autumn."
+    },
+    "三百年间同晓梦，钟山何处有龙盘。": {
+        "translation": "三百余年如同一场短梦，金陵钟山真的有那龙盘？",
+        "scene": "金陵钟山上，古老的皇陵孤寂伫立，时间如梦掠过千年历史。",
+        "emotion": "对历史变迁的质疑与思考。",
+        "translation_ENG": "Over three hundred years have passed like a short dream; does the Dragon really coil at the Zhong Mountain in Jinling?"
+    },
+    "暮春三月，江南草长，杂花生树，群莺乱飞。": {
+        "translation": "暮春三月，江南地区的草长得很茂盛，各种五颜六色的花和参天大树，一片繁花似锦的景象，许多小鸟在花丛中欢快地飞舞。",
+        "scene": "江南暮春时节，草木茂盛，各色花朵竞相开放，巨树参天，鸟儿欢快飞舞。",
+        "emotion": "对故土的眷恋与思念。",
+        "translation_ENG": "In the late spring of March, the grass in the Jiangnan region grows luxuriantly, with colorful flowers and towering trees creating a splendid scene. Many birds are joyfully flitting among the flowers."
+    },
+    "君不能学哥舒，横行青海夜带刀，西屠石堡取紫袍。": {
+        "translation": "君不能学习那陇右武夫哥舒翰，跨马持刀，横行青海，血洗石堡，换了个紫袍大官。",
+        "scene": "战士策马持刀，风尘仆仆，石堡染血，一片肃杀。",
+        "emotion": "批判无情与权力追逐。",
+        "translation_ENG": "You cannot learn from that warrior of Longyou, Geshu Han, who rides a horse with a sword, rampages across Qinghai, bloodies Stone Fortress, and trades it for a high-ranking purple robe."
+    },
+    "晓月过残垒，繁星宿故关。": {
+        "translation": "晓行要经过许多残破的营垒，夜里只能披星露宿荒凉故关。",
+        "scene": "清晨薄雾弥漫的荒凉古道，残破的营垒散落，星光点点的夜空下，静谧而孤寂。",
+        "emotion": "孤独与荒凉的凄凉感。",
+        "translation_ENG": "To travel at dawn, one must pass through many dilapidated fortifications; at night, one can only rest under the stars and dews in the desolate old frontier."
+    },
+    "不耻不若人，何若人有？": {
+        "translation": "不以赶不上别人为羞耻，怎么能赶上别人呢？",
+        "scene": "一个人在书房中沉思，窗外晨光微露，书籍摆满书桌。",
+        "emotion": "对人生哲学的深入思考，反省与追求进步。",
+        "translation_ENG": "How can you catch up with others if you dont feel ashamed about being left behind?"
+    },
+    "淫慢则不能励精，险躁则不能治性。": {
+        "translation": "纵欲放荡、消极怠慢就不能勉励心志使精神振作，冒险草率、急躁不安就不能修养性情。",
+        "scene": "寂静书房中，学者全神贯注，心无旁骛，书卷堆积。",
+        "emotion": "潜心治学与坚定目标。",
+        "translation_ENG": "Indulging in licentiousness and idleness cannot encourage the mind and invigorate the spirit, while recklessness and impatience cannot cultivate ones temperament."
+    },
+    "人固有一死，或重于泰山，或轻于鸿毛，用之所趋异也。": {
+        "translation": "人生本来就有一死，但有的人死得比泰山还重，有的人死的却比鸿毛还轻，这是因为他们用死追求的目的不同啊！",
+        "scene": "历史的战场上，士兵们面临抉择，生与死的重量对比。",
+        "emotion": "坚忍不拔的奋斗精神与理想追求。",
+        "translation_ENG": "Life inevitably ends in death, but some peoples death weighs heavier than Mount Tai, while others death weighs lighter than a feather. This is because they pursued different goals with their death."
+    },
+    "青春几何时，黄鸟鸣不歇。": {
+        "translation": "春天能持续多长时间，黄鸟鸣个不停。",
+        "scene": "春日和煦长空，黄鹂鸟不停鸣唱，时光悄然流逝。",
+        "emotion": "对时光流逝的无奈与感慨。",
+        "translation_ENG": "How long can spring last, while the yellow bird chirps non-stop."
+    },
+    "烹羊宰牛且为乐，会须一饮三百杯。": {
+        "translation": "且把烹煮羔羊和宰牛当成一件快乐的事情，如果需要也应当痛快地喝三百杯。",
+        "scene": "酒宴上满桌佳肴，宾客欢声笑语，举杯豪饮，氛围热烈欢快，忘却烦恼。",
+        "emotion": "欢快豪放和暂时忘却烦恼。",
+        "translation_ENG": "Treat cooking lamb and slaughtering cattle as a joyful affair, and if needed, one should also happily drink three hundred cups."
+    },
+    "何逊而今渐老，都忘却春风词笔。": {
+        "translation": "而今我像何逊已渐渐衰老，往日春风般绚丽的辞采和文笔，全都已经忘记。",
+        "scene": "夕阳下的庭院，一位诗人坐在书桌前，书卷散落，沉思往昔的美好与青春的逝去。",
+        "emotion": "怀念青春与美好岁月的惆怅。",
+        "translation_ENG": "Now I, like He Xun, have gradually grown old, and the once splendid rhetoric and writing style akin to the spring breeze have all been forgotten."
+    },
+    "项王军壁垓下，兵少食尽，汉军及诸侯兵围之数重。": {
+        "translation": "项王的部队驻守在垓下，兵少粮尽，汉军及诸侯的军队把他重重包围。",
+        "scene": "夜色笼罩的山谷中，项王军队粮尽被重重包围，紧张压迫。",
+        "emotion": "绝望与无路可退的困境。",
+        "translation_ENG": "The troops of Xiang Wang stationed at Gaixia, with few soldiers and dwindling supplies, were heavily surrounded by the Han army and allied forces."
+    },
+    "一上高城万里愁，蒹葭杨柳似汀洲。": {
+        "translation": "登上高楼，万里乡愁油然而生，眼前芦苇杨柳丛生，好似江南汀洲。",
+        "scene": "高楼上远眺，烟雾笼罩的芦苇和杨柳，宛如江南水乡。",
+        "emotion": "思乡之情与苍凉伤感。",
+        "translation_ENG": "Upon ascending the tall building, a profound sense of homesickness arises naturally. In front of me, clusters of reeds and willows grow, resembling the islets of Jiangnan."
+    },
+    "夫死战场子在腹，妾身虽存如昼烛。": {
+        "translation": "如今丈夫死在战场上，今后谁才是她的依靠？肚子里的遗孤生下来怎样哺育？虽然还活着但就像白天的蜡烛那样暗淡无光，生活毫无希望。",
+        "scene": "昏暗无光的村庄中，寡妇抱着遗孤，面露绝望与无助。",
+        "emotion": "悲痛与绝望的深沉苦楚。",
+        "translation_ENG": "Now that her husband has died on the battlefield, who will she rely on in the future? How will she nurture the unborn child in her womb? Though still alive, it is as dim and hopeless as a candle in the daylight; life holds no hope."
+    },
+    "仓禀无宿储，徭役犹未已。": {
+        "translation": "粮仓中早已没了往日的存粮，但官府的派差却还无尽无休。",
+        "scene": "空荡荡的粮仓里空无一物，农夫面露忧虑，乡间道路上官员们络绎不绝地推行徭役。",
+        "emotion": "愤怒与无奈的社会底层困境。",
+        "translation_ENG": "The granary has long been empty of its former stock, yet the official dispatches keep coming endlessly."
+    },
+    "长安一片月，万户捣衣声。": {
+        "translation": "一片皎洁的月光映照着长安城，千家万户，到处都传来捣衣声。",
+        "scene": "皎洁的月光洒在古城，家家户户传来轻微的洗衣声。",
+        "emotion": "温柔的思念与暗含的情感。",
+        "translation_ENG": "A bright moonlight shines over the city of Changan, with sounds of people pounding clothes coming from thousands of households everywhere."
+    },
+    "草树知春不久归，百般红紫斗芳菲。": {
+        "translation": "花草树木得知春天不久就要离去，都想留住春天的脚步，竞相吐艳争芳，霎时万紫千红，繁花似锦。",
+        "scene": "春天的花草树木纷纷绽放，万紫千红，繁花似锦。",
+        "emotion": "珍惜春天的美好风光。",
+        "translation_ENG": "Knowing that spring is leaving soon, the flowers, grass, and trees all want to keep springs pace. They compete to bloom brilliantly, creating a moment of vibrant colors, with flowers flourishing like embroidered brocade."
+    },
+    "从来，知韵胜，难堪雨藉，不耐风揉。": {
+        "translation": "自古以来，梅花就以其风韵著称，但它却难以承受风雨的侵袭。",
+        "scene": "寒冬中，风雨侵袭下的梅花默默开放，显得孤独而坚韧。",
+        "emotion": "深沉婉约与孤独感。",
+        "translation_ENG": "Since ancient times, plum blossoms have been renowned for their elegance, but they are difficult to withstand the onslaught of wind and rain."
+    },
+    "辜负我，悔怜君，告天天不闻。": {
+        "translation": "他辜负了我一片痴情，悔恨我爱他爱得太深，可恨苍天竟然不闻不问。",
+        "scene": "夜晚幽静，女子独自坐在窗前，眼神凄楚，满怀思念却无法诉说。",
+        "emotion": "深切的思恋与怨恨。",
+        "translation_ENG": "He failed to live up to my devotion, and I regret loving him too deeply. Its frustrating that the heavens remain indifferent."
+    },
+    "内库烧为锦绣灰，天街踏尽公卿骨！": {
+        "translation": "皇宫贮藏珍宝锦绣的内库，已烧成一大堆灰烬；在天街上行走，脚下踏到的都是公卿贵族的骸骨。",
+        "scene": "皇宫内库的珍宝化作灰烬，天街上，脚下是公卿贵族的骸骨。",
+        "emotion": "对战争的深恶痛疾。",
+        "translation_ENG": "The inner vault of the palace, which stored treasures and splendid fabrics, has been reduced to a heap of ashes; walking on the celestial street, ones feet step over the bones of aristocrats and nobles."
+    },
+    "感时花溅泪，恨别鸟惊心。": {
+        "translation": "感伤国事，看到花开不禁潸然泪下，内心惆怅怨恨，听到鸟鸣，竟觉得那叫声也很揪心。",
+        "scene": "春天的花园里，繁花盛开，诗人伤感流泪，听见鸟鸣声，更加牵动心绪。",
+        "emotion": "伤感与思念。",
+        "translation_ENG": "Feeling sentimental about national affairs, I cant help but tear up when seeing flowers bloom. My heart is filled with melancholy and resentment. Hearing bird chirps, I find the sounds to be quite heart-wrenching."
+    },
+    "惟有楼前流水，应念我、终日凝眸。": {
+        "translation": "只有那楼前的流水，应顾念着我，映照着我整天注目凝眸。",
+        "scene": "楼前流水潺潺，诗人独坐楼前，凝神远望，思绪随流水飘逝。",
+        "emotion": "凄婉哀怨的相思之苦。",
+        "translation_ENG": "Only the water flowing in front of that building seems to keep me in its thoughts, reflecting my steady gaze throughout the day."
+    },
+    "合军聚众，务在激气，复徙合军，务在治兵利气。": {
+        "translation": "集结民众，组编军队准备打仗之前，一定要先去激发军中将士的士气。再次集合军队拔营进军的时候，一定要先整治军中制度，增强士兵的锐气。",
+        "scene": "战场前夕，将军激励士气，军营整治严明，士兵们严阵以待，准备冲锋陷阵。",
+        "emotion": "激发士气与严阵以待的紧张感。",
+        "translation_ENG": "Before assembling the masses and organizing the army to prepare for war, it is essential to first boost the morale of the soldiers. When gathering the troops again to set off, it is crucial to first improve the military regulations and enhance the soldiers fighting spirit."
+    },
+    "万人齐指处，一雁落寒空。": {
+        "translation": "突然人群一齐指向遥远的天空，一只带箭的鸿雁直向地面坠落下来。",
+        "scene": "蓝天白云下，一只带箭的鹰直直坠落，人群激动欢呼。",
+        "emotion": "成功后的热烈欢呼与惊喜。",
+        "translation_ENG": "Suddenly, the crowd all pointed towards the distant sky, as a wild goose with an arrow fell straight towards the ground."
+    },
+    "道不远人。人之为道而远人，不可以为道。": {
+        "translation": "道并不会远离人。如果有人实行道却远离他人，那他的道就不是真正的道。",
+        "scene": "宁静的庭院中，一位智者正认真地进行日常修行，心境安宁，体悟真道。",
+        "emotion": "追求真道与心境安宁。",
+        "translation_ENG": "The way does not depart from people. If someone practices the way but distances themselves from others, then their way is not the true way."
+    },
+    "忽闻歌古调，归思欲沾巾。": {
+        "translation": "忽然听到你歌吟古朴的曲调，勾起归思情怀令人落泪沾襟。",
+        "scene": "夜深人静的房间内，微弱灯光下，悲伤的旅人因古朴曲调而落泪，触发深沉的思乡情怀。",
+        "emotion": "意外触动的思乡之痛和感伤。",
+        "translation_ENG": "Suddenly hearing your singing of ancient and unadorned melodies, it evokes memories of homesickness, bringing tears to my eyes and wetting my collar."
+    },
+    "自知者不怨人，知命者不怨天；怨人者穷，怨天者无志。": {
+        "translation": "有自知之明的人不会抱怨别人，掌握自己命运的人不会抱怨苍天；抱怨别人的人则穷途而不得志，抱怨上天的人就不会立志进取。",
+        "scene": "一个人站在广阔的天地之间，心中坚定不移，面带自信，迎接生活的挑战。",
+        "emotion": "内心坚定与积极进取的智慧。",
+        "translation_ENG": "People who have self-awareness do not complain about others, and those who have control over their own destiny do not complain about the heavens; those who complain about others will find themselves in failure and frustration, and those who complain about the heavens will not be motivated to make progress."
+    },
+    "钟期久已没，世上无知音。": {
+        "translation": "可惜钟子期早已逝去，世上再也找不到那样相知的知己。",
+        "scene": "诗人凭栏远眺，寂寞秋日黄昏，心中感慨知己难寻，四野无人，无尽苍凉。",
+        "emotion": "孤寂与怀念知己的惆怅。",
+        "translation_ENG": "Unfortunately, Zhong Ziqi has long passed away, and it is no longer possible to find such a kindred spirit in the world."
+    },
+    "魂兮归来，哀江南！": {
+        "translation": "灵魂啊回来吧，为这江南楚地哀叹！",
+        "scene": "江南凄美的风景中，阴沉的天空，魂牵梦萦的幽暗氛围。",
+        "emotion": "深刻的哀愁和悲凉。",
+        "translation_ENG": "O soul, come back and lament for this land of Jiangnan and Chu!"
+    },
+    "何必奔冲山下去，更添波浪向人间。": {
+        "translation": "白云泉啊，你又何必奔流飞泻到山下去，给原本多事的人间再添波澜。",
+        "scene": "白云飘逸，泉水奔流而下，山间景色宁静悠远，人与自然和谐共处。",
+        "emotion": "羡慕自由与闲适的心情。",
+        "translation_ENG": "White Cloud Spring, why must you rush and cascade down the mountainside, adding waves to an already troubled world?"
+    },
+    "幽姿不入少年场。": {
+        "translation": "你美好的姿色得不到少年人的喜爱。",
+        "scene": "梅花悄然盛开在寒冬的园中，孤傲清丽，引人注目。",
+        "emotion": "赞美与自信的优雅融合。",
+        "translation_ENG": "Your beautiful appearance does not attract the favor of young people."
+    },
+    "守职而不废，处义而不回": {
+        "translation": "恪守本职工作不轻易放弃，受到嫌疑能居义而不反顾。",
+        "scene": "一个人坚定不移地站在自己的岗位上，周围充满质疑的目光，但他沉着冷静，丝毫不动摇。",
+        "emotion": "坚定与坚守的责任感。",
+        "translation_ENG": "Adhering strictly to ones job without easily giving up, and when suspected, standing by righteousness without looking back."
+    },
+    "匝路亭亭艳，非时裛裛香。": {
+        "translation": "梅花开满了路边，亭亭而立，花容艳丽；未到时节就开放了，散发着浓郁的芳香。",
+        "scene": "路边的梅花开得盛放而茂密，亭亭玉立，飘散着浓郁芳香。",
+        "emotion": "不屈不挠的高尚品格与淡雅的孤高。",
+        "translation_ENG": "The plum blossoms were blooming along the roadside, standing gracefully and with beautiful flowers; they blossomed ahead of the season, exuding a rich fragrance."
+    },
+    "用兵之要，必先察敌情": {
+        "translation": "用兵的要领在于首先要考察敌人的情况。",
+        "scene": "古代战场，将军在帐篷内观察敌军动向，士兵严阵以待，准备迎接战斗。",
+        "emotion": "谨慎与智慧的战略思考。",
+        "translation_ENG": "The key to the use of troops lies in first examining the enemys situation."
+    },
+    "多闻曰博，少闻曰浅。": {
+        "translation": "听到的事情多叫做广博，听到的事情少叫做浅薄。",
+        "scene": "阅历丰富的人站在书架旁，翻阅各类书籍，聆听不同的故事和经历。",
+        "emotion": "追求知识的渴望与探索。",
+        "translation_ENG": "Hearing more things is called being broad-minded, hearing fewer things is called being shallow."
+    },
+    "自作新词韵最娇，小红低唱我吹箫。": {
+        "translation": "我自创的新调，音韵是如此和谐美妙；小红轻轻地唱着，我为她伴奏，吹着洞箫。",
+        "scene": "明媚的江南水乡，小红轻声歌唱，我为她伴奏，吹奏洞箫，和谐美妙的乡村画面。",
+        "emotion": "无边的快乐与舒适。",
+        "translation_ENG": "I composed a new tune, the melody is so harmonious and beautiful; Xiaohong sings gently while I accompany her, playing the flute."
+    },
+    "可怜缑岭登仙子，犹自吹笙醉碧桃。": {
+        "translation": "可惜缑岭成仙的太子晋，还在吹笙醉心于碧仙桃。",
+        "scene": "仙山琼阁间，太子晋吹笙醉心于飘渺的碧仙桃源。",
+        "emotion": "对人世无常的感慨与对神仙永恒的向往。",
+        "translation_ENG": "Unfortunately, Prince Jin, who became an immortal at Gou Mountain, is still playing the flute, enamored with the green immortal peaches."
+    },
+    "逝者如斯，而未尝往也；盈虚者如彼，而卒莫消长也。": {
+        "translation": "江水总是不停的流逝，但它们并没有流走；月亮总是那样有圆有缺，但它终究也没有增减。",
+        "scene": "静谧的江水流淌，皎洁的月光洒在水面，宁静悠远。",
+        "emotion": "哲思与永恒的沉思。",
+        "translation_ENG": "The river water always flows incessantly, but they do not disappear; the moon is always waxing and waning, yet ultimately it neither increases nor decreases."
+    },
+    "寄言痴小人家女，慎勿将身轻许人！": {
+        "translation": "以我的经历告诉那些小人家痴情的女儿，千万要慎重不要将终生轻易许人。",
+        "scene": "闺房中女子若有所思地望着窗外，神情茫然，沉浸在对未来的思考中。",
+        "emotion": "对青春岁月的感慨和对命运的警惕。",
+        "translation_ENG": "From my experience, I advise those infatuated daughters of petty households to be cautious and never promise their lives lightly to anyone."
+    },
+    "人之患，在好为人师。": {
+        "translation": "人们的毛病，在于总喜欢充当别人的老师。",
+        "scene": "一名长者在庭院内侃侃而谈，几位年轻人围坐倾听。",
+        "emotion": "对自省与谦逊的重要性。",
+        "translation_ENG": "Peoples problem is that they always like to act as others teachers."
+    },
+    "莲香隔浦渡，荷叶满江鲜。": {
+        "translation": "莲香阵阵隔着沙洲传来，满江荷叶满江鲜。",
+        "scene": "沙洲上盛开的荷花，香气迷人，荷叶满江，清新美丽。",
+        "emotion": "清新生动，生机盎然",
+        "translation_ENG": "The fragrance of lotus wafts over the sandbar, the river is full of lotus leaves fresh and green."
+    },
+    "遥知朔漠多风雪，更待江南半月春。": {
+        "translation": "远隔千里就已经知道北方的沙漠多风雪了，还是再在江南度过半月的春光时节吧。",
+        "scene": "江南的桃花盛开，阳光明媚，北方却风雪交加，大雁振翅北飞，飞过风雪覆盖的沙漠。",
+        "emotion": "思念故土与无奈的分离。",
+        "translation_ENG": "Even from thousands of miles away, I already know that the northern desert is full of wind and snow. Let me spend another fortnight in the springtime of Jiangnan."
+    },
+    "茅檐相对坐终日，一鸟不鸣山更幽。": {
+        "translation": "我坐在茅屋檐下，整天看着这明媚的春光；夕阳西下，耳边听不到一声鸟鸣，山中显得格外的静寂幽旷。",
+        "scene": "春日的傍晚，茅草屋下寂静的山中，阳光温柔照耀，四周无声无息。",
+        "emotion": "宁静超脱与轻微的失意。",
+        "translation_ENG": "I sit under the eaves of the thatched house, watching the bright spring daylight all day long; as the sun sets in the west, no bird chirping can be heard, and the mountains appear exceptionally quiet and serene."
+    },
+    "积善在身，犹长日加益，而人不知也；积恶在身，犹火之销膏，而人不见也。": {
+        "translation": "积善在身，就像人日渐长大，但人们却不易察觉； 同样，积恶在身，就好像用火来销蚀油膏，尽管油膏在减少，人们却不易发现。",
+        "scene": "一个人静静地坐在院子里，日光缓缓移动，时间流逝，善行在不知不觉中积累。",
+        "emotion": "强调积善的重要性。",
+        "translation_ENG": "Accumulating good deeds in oneself is like a person gradually growing up, but people hardly notice it; similarly, accumulating evil deeds in oneself is like using fire to erode ointment, although the ointment is decreasing, people hardly notice it."
+    },
+    "长恨人心不如水，等闲平地起波澜。": {
+        "translation": "总是怨恨人心比不了这江水，无缘无故也会平地掀起波澜。",
+        "scene": "险峻的峡谷江水汹涌，波涛翻滚，气势磅礴。",
+        "emotion": "对人心险恶的警惕与深刻感悟。",
+        "translation_ENG": "Always resenting that the human heart cannot compare to this river, which inexplicably stirs up waves on flat land."
+    },
+    "却笑东风，从此便薰梅染柳，更没些闲。": {
+        "translation": "可我却嘲笑那东风，自立春日起，便忙于修饰熏染人间花柳，更加没有些许的闲暇。",
+        "scene": "春日清晨，东风轻抚庭院，柳枝摇曳，花草竞艳，诗人漫步其间欣赏自然之美。",
+        "emotion": "对春天的喜悦与轻松悠闲。",
+        "translation_ENG": "But I mocked the east wind, which, starting from the beginning of spring, busily adorns and tints the flowers and willows of the world and has no leisure time at all."
+    },
+    "鳌身映天黑，鱼眼射波红。": {
+        "translation": "海中的大鳖身影把天都遮黑了，鱼的眼睛把大海的波浪都照红了。",
+        "scene": "巨大鲨鱼在海中，鱼眼红光照耀波浪，天色变黑，波光粼粼。",
+        "emotion": "诡异奇幻与壮丽宏大。",
+        "translation_ENG": "The silhouette of the giant turtle in the sea darkened the sky, and the eyes of the fish turned the waves of the ocean red."
+    },
+    "君子无入而不自得焉。": {
+        "translation": "君子无论处于什么情况下都能保持安然自得的心态。",
+        "scene": "沉静的庭院中，君子端坐品茶，周围宁静而和谐。",
+        "emotion": "安然自得与坚定不移。",
+        "translation_ENG": "A gentleman can maintain a calm and contented mindset regardless of the situation."
+    },
+    "醉翁之意不在酒，在乎山水之间也。": {
+        "translation": "醉翁的情趣不在于饮酒取乐，而在欣赏山水的美景。",
+        "scene": "青山绿水间，诗人畅然游览，欣赏自然美景。",
+        "emotion": "洒脱随性的愉悦心情。",
+        "translation_ENG": "The interest of the drunken old man lies not in drinking for pleasure, but in appreciating the beauty of the landscape."
+    },
+    "人间别久不成悲。": {
+        "translation": "离别的时间太久，慢慢一切伤痛都会渐渐被时光抹去。",
+        "scene": "在寂静的小径上，落叶缓缓飘落，象征时间流逝，一切悄然变淡。",
+        "emotion": "深沉的悲怆与人生的感悟。",
+        "translation_ENG": "The time of separation is too long, gradually all the pain will slowly be erased by time."
+    },
+    "无复屠苏梦，挑灯夜未央。": {
+        "translation": "以后再也梦不到过新年喝屠苏酒，只能在漫漫长夜里拨动灯火。",
+        "scene": "漫漫长夜中，微弱的灯火摇曳，寒夜孤寂无伴，庭院内独坐杯酒为伴。",
+        "emotion": "思乡企盼与孤独哀愁。",
+        "translation_ENG": "From now on, I will never again dream of celebrating the New Year with Tusu wine; I can only stir the lights in the long, endless night."
+    },
+    "相思黄叶落，白露湿青苔。": {
+        "translation": "这黄叶飘落纷飞更增添了多少相思？露水都已沾湿了门外的青苔。",
+        "scene": "黄叶飘落，露水沾湿青苔，庭院秋意浓。",
+        "emotion": "凄清的思念与秋日的情愫。",
+        "translation_ENG": "How much more longing is added as the yellow leaves fall fluttering down? The dew has already moistened the moss outside the door."
+    },
+    "从小丘西行百二十步，隔篁竹，闻水声，如鸣珮环，心乐之。": {
+        "translation": "我从小丘向西走一百二十多步，隔着竹林，可以听到流水的声音，好像人身上佩带的玉佩、玉环相互碰击发出的声音，心里为之高兴。",
+        "scene": "清晨的小径旁，竹林静谧，水流潺潺，仿佛玉佩碰撞声。",
+        "emotion": "愉悦与自然探寻的喜悦。",
+        "translation_ENG": "I walked more than 120 steps westward from the small hill, through the bamboo forest, and could hear the sound of running water, which was like the sound of jade pendants and jade rings colliding with each other. I felt joyful in my heart."
+    },
+    "北风夜卷赤亭口，一夜天山雪更厚。": {
+        "translation": "夜来北风卷过赤亭路口，天山一夜之间大雪更厚。",
+        "scene": "冬夜的红亭路口，北风呼啸，天山在黑夜中被厚厚的积雪覆盖。",
+        "emotion": "强烈的视觉冲击与孤寂感。",
+        "translation_ENG": "The north wind swept past Chiting intersection last night, and the snowfall in the Tianshan Mountains became even thicker overnight."
+    },
+    "夜来一笑寒灯下，始是金丹换骨时。": {
+        "translation": "夜来独坐寒灯下，却有豁然通达之感，不由发出会心的一笑，整个人就像是服下金丹似的有脱胎换骨的舒适畅快的感觉。",
+        "scene": "夜晚，诗人独坐在寒冷的灯下，突然顿悟，微微一笑。",
+        "emotion": "顿悟后的舒适愉悦。",
+        "translation_ENG": "Sitting alone under the cold lamp last night, I suddenly felt a sense of enlightenment and couldnt help but give a knowing smile. The whole experience made me feel as if I had taken an elixir, feeling a transformation and a comforting ease throughout."
+    },
+    "但觉平生湖海，除了醉吟风月，此外百无功。": {
+        "translation": "只是感觉自己一生游遍湖海，除了喝醉吟些风花雪月，便是一事无成。",
+        "scene": "诗人独自漫游湖海，面前风花雪月，心中充满失落与惆怅。",
+        "emotion": "无奈失意与隐含悲愤。",
+        "translation_ENG": "I just feel that Ive spent my life wandering through lakes and seas, and apart from getting drunk and singing about romantic affairs, Ive accomplished nothing."
+    },
+    "孟冬十郡良家子，血作陈陶泽中水。": {
+        "translation": "初冬时节，从十几个郡征来的良家子弟，一战之后鲜血都洒在陈陶水泽之中。",
+        "scene": "初冬时节，战事惨烈，士兵们的鲜血浸染河流，战场令人痛心。",
+        "emotion": "沉痛与无奈。",
+        "translation_ENG": "In early winter, the noble youths recruited from more than ten counties had their blood spilled into the waters of Chentao after a fierce battle."
+    },
+    "无奈被些名利缚，无奈被他情担阁！": {
+        "translation": "真是无可奈何啊！我被那微不足道的名利所羁缚，又被那难以割舍的感情所耽搁。",
+        "scene": "游子在昏暗的房间中，望着窗外雨丝，心中万千纠结。",
+        "emotion": "被名利束缚和对感情的无奈。",
+        "translation_ENG": "Its really helpless! I am bound by insignificant fame and fortune, and delayed by the emotions that are hard to let go."
+    },
+    "草色新雨中，松声晚窗里。": {
+        "translation": "新雨中草色多么青翠葱绿，晚风将松涛声送进窗户里。",
+        "scene": "细雨绵绵，翠绿的草地显得分外青葱，傍晚微风轻轻吹拂，松树摇曳，树声伴随风声飘入窗内。",
+        "emotion": "欣赏自然美景的清新情怀。",
+        "translation_ENG": "The new rain has made the grass so verdantly green, and the evening breeze carries the sound of pine waves through the window."
+    },
+    "忧艰常早至，欢会常苦晚。": {
+        "translation": "忧患艰险时常降临，欢欣愉悦迟来姗姗。",
+        "scene": "忧患困厄时常围绕，人们无奈忍耐，面对难以消除的困境。",
+        "emotion": "感慨人生短暂与坎坷。",
+        "translation_ENG": "Troubles and hardships often arrive frequently, while joy and happiness come slowly."
+    },
+    "桃花细逐杨花落，黄鸟时兼白鸟飞。": {
+        "translation": "桃花与杨花随风轻轻飘落，黄色的鸟群中不时地夹杂着几只白色的鸟一同飞翔。",
+        "scene": "如画的春日风景，桃花杨花随风飘落，黄鸟白鸟交杂飞舞，色彩斑斓，动态生动。",
+        "emotion": "宁静优美，充满春日的生机。",
+        "translation_ENG": "Peach blossoms and poplar flowers gently drift in the wind, and among the flock of yellow birds, a few white birds occasionally fly together."
+    },
+    "云雨自从分散后，人间无路到仙家，但凭魂梦访天涯。": {
+        "translation": "自从那次云雨欢情过后，我们就分别了，从此人间再也没有一条路让我重登你的仙居，只有在梦中让魂迫追随你到天涯海角。",
+        "scene": "雨后小径，云雾缭绕，房屋隐现，梦回芳踪，寻觅旧友，执念追随。",
+        "emotion": "离别的愁绪与重温旧好的希望。",
+        "translation_ENG": "Since that intimate encounter, we have parted ways, and from then on, there is no path on earth that allows me to revisit your heavenly abode. Only in dreams can my spirit pursue you to the ends of the earth."
+    },
+    "年少万兜鍪，坐断东南战未休。": {
+        "translation": "想当年孙权在青年时代，已统领着千军万马。坐镇东南，连年征战，没有向敌人低过头。",
+        "scene": "年轻的将军孙权，统领千军万马，坐镇东南，连年征战，从未对敌人低过头。",
+        "emotion": "英勇无畏，坚定抵抗。",
+        "translation_ENG": "Back in the day, Sun Quan in his youth already commanded thousands of troops. Stationed in the southeast, he engaged in consecutive battles and never bowed his head to the enemy."
+    },
+    "杨柳渡头行客稀，罟师荡桨向临圻。": {
+        "translation": "杨柳飘拂的渡口行客疏疏稀稀，艄公摇荡着船桨一直驶向临圻。",
+        "scene": "幽静的渡口，杨柳依依，流水淙淙，一艘小船缓缓驶向远方。",
+        "emotion": "惜别之情与思念。",
+        "translation_ENG": "At the ferry where willows flutter, sparse travelers pass by, and the boatman rows towards Linqi."
+    },
+    "君子之学也，以美其身；小人之学也，以为禽犊。": {
+        "translation": "君子学习，是为了完善自我；小人学习，是为了卖弄和哗众取宠。",
+        "scene": "古代学堂内，学者们潜心研读， 对比小人追逐名利的纷扰。",
+        "emotion": "追求智慧与品德的崇高目的。",
+        "translation_ENG": "A gentleman learns to improve himself; a petty person learns to show off and attract attention."
+    },
+    "桃花流水窅然去，别有天地非人间。": {
+        "translation": "桃花飘落溪水，随之远远流去。此处别有天地，真如仙境一般。",
+        "scene": "桃花纷纷飘落，溪水潺潺，蜿蜒流淌，形成仙境般的宁静山中世界。",
+        "emotion": "宁静自然与向往自由的天真灵性。",
+        "translation_ENG": "Peach blossoms fall into the stream, drifting far away. This place is a world apart, truly like a fairyland."
+    },
+    "相马失之瘦，相士失之贫。": {
+        "translation": "相马者往往会因为马的外表消瘦而漏掉良马，相人者往往会因为其条件贫困而忽略人的才能。",
+        "scene": "马群在草地上，几匹瘦马显得落寞，一个人正认真观察每一匹马的品质。",
+        "emotion": "对内在品质的思考与警醒。",
+        "translation_ENG": "Horse appraisers often overlook good horses due to their thin appearance, and appraisers of people often ignore a persons talents due to their impoverished conditions."
+    },
+    "欲剪湘中一尺天，吴娥莫道吴刀涩。": {
+        "translation": "真想裁剪一幅湘水中天光倒影似的葛布，吴娥不用担心说剪刀不够锋利。",
+        "scene": "清澈宁静的湘水河畔，阳光在水面上洒下粼粼波光，宛如一幅光滑美丽的绸缎。",
+        "emotion": "灵动奇幻与含蓄美。",
+        "translation_ENG": "I truly wish to cut a piece of cloth like the reflection of the sky in Xiang River, without Wu E worrying that the scissors arent sharp enough."
+    },
+    "到得还来别无事，庐山烟雨浙江潮。": {
+        "translation": "终于亲眼看到庐山、浙江的景致，却发现过去的冲动妄念不过如此，只觉庐山烟雨就是庐山烟雨，浙江潮水就是浙江潮水。",
+        "scene": "烟雨迷蒙的庐山与潮水汹涌的浙江。",
+        "emotion": "淡然悟道，豁达释然。",
+        "translation_ENG": "Finally seeing the scenery of Lushan and Zhejiang with my own eyes, I realized that the past impulsive thoughts were just that. Lushans misty rain is simply Lushans misty rain, and Zhejiangs tides are just Zhejiangs tides."
+    },
+    "近泪无干土，低空有断云。": {
+        "translation": "泪水沾湿了泥土，心情十分悲痛，精神恍惚，就像低空飘飞的断云。",
+        "scene": "泪水沾湿的泥土，低空漂浮的断云，阴云密布的墓地。",
+        "emotion": "悲痛与凄凉的哀愁。",
+        "translation_ENG": "Tears moistened the soil, and the mood was very sorrowful, the spirit was dazed, like broken clouds flying at low altitude."
+    },
+    "清风朗月，辄思玄度。": {
+        "translation": "月明星稀微风徐徐的晚上，我就会思念我的朋友玄度。",
+        "scene": "月明星稀的夜晚，微风轻拂，静谧而悠然。",
+        "emotion": "思念朋友的幽静与深沉。",
+        "translation_ENG": "On a night when the moon is bright and the stars are sparse with a gentle breeze, I will miss my friend Xuandu."
+    },
+    "车辚辚，马萧萧，行人弓箭各在腰。": {
+        "translation": "兵车辚辚，战马萧萧，出征士兵弓箭各自佩在腰。",
+        "scene": "出征的军队，兵车隆隆，战马嘶鸣，士兵们准备整装待发。",
+        "emotion": "雄壮威武、气势磅礴。",
+        "translation_ENG": "The army carts rumble, the war horses neigh, and the soldiers set out with bows and arrows each at their waist."
+    },
+    "奉君金卮之美酒，玳瑁玉匣之雕琴。": {
+        "translation": "即使为你献上：装在金杯里的美酒，镶嵌玳瑁的玉匣里的雕琴。",
+        "scene": "金杯美酒与深红玉器的桌面，装饰精美的雕琴旁，奢华绝伦。",
+        "emotion": "奢华精致与愉悦忘忧。",
+        "translation_ENG": "Even if I offer you: wine in a golden cup, and a carved zither in a jade box inlaid with tortoiseshell."
+    },
+    "昵昵儿女语，恩怨相尔汝。": {
+        "translation": "琴声犹如一对亲昵的小儿女在耳鬓厮磨，互诉衷肠，又夹杂着嗔怪之声。",
+        "scene": "幽静的庭院中，琴声如孩童嬉戏般舒缓，轻声细语。",
+        "emotion": "和谐与温馨的亲密感。",
+        "translation_ENG": "The sound of the piano is like a pair of affectionate children whispering in each others ears, sharing their feelings, mixed with a hint of playful teasing."
+    },
+    "芳草有情皆碍马，好云无处不遮楼。": {
+        "translation": "芳草有情碍马蹄不让我们走，彩云片片把楼阁层层来遮掩。",
+        "scene": "芳草茵茵，彩云缭绕的江边楼阁，画面柔美和平静。",
+        "emotion": "留恋美景的眷念与不舍。",
+        "translation_ENG": "The affectionate grass hinders the horses hooves, preventing us from moving; piece by piece, the colorful clouds veil the towers layer by layer."
+    },
+    "七月半，秉烛烧香问苍天，六月三伏天，人人摇扇我心寒。": {
+        "translation": "七月半的时候我持烛烧香问苍天，六月的伏天那么热，人们都在摇扇子，可我的心却是寒冷的。",
+        "scene": "炎热的夏季，人们摇着扇子避暑，却烧香问天，显得孤寂悲凉。",
+        "emotion": "深深思念与无尽悲愁。",
+        "translation_ENG": "During the mid-July Ghost Festival, I held a candle and burned incense, asking the heavens why the June heat is so intense, everyone fanning themselves, yet my heart remains cold."
+    },
+    "孔明庙前有老柏，柯如青铜根如石。": {
+        "translation": "孔明庙前有一株古老的柏树，枝干色如青铜根柢固如盘石。",
+        "scene": "孔明庙前，一株古老的柏树，枝干如青铜，根系如盘石，肃穆而庄严。",
+        "emotion": "坚韧不拔与忠诚不渝的敬仰。",
+        "translation_ENG": "In front of the Kongming Temple stands an ancient cypress tree, with branches the color of bronze and roots as firm as rock."
+    },
+    "万籁此都寂，但余钟磬音。": {
+        "translation": "此时此刻万物都沉默静寂，只留下了敲钟击磬的声音。",
+        "scene": "夜幕降临，寺庙幽静，钟声回荡，万物沉寂，如入禅境。",
+        "emotion": "宁静致远的超脱与清净。",
+        "translation_ENG": "At this moment, everything is silent and still, leaving only the sound of bells and chimes."
+    },
+    "昔时金阶白玉堂，即今惟见青松在。": {
+        "translation": "昔日的豪华府第，只见几棵青松。",
+        "scene": "废墟中的豪华府邸，几棵青松挺立，显得孤寂与苍凉。",
+        "emotion": "怀念过去与沧桑感慨。",
+        "translation_ENG": "The once luxurious mansion, now only a few green pine trees remain."
+    },
+    "父之雠，弗与共戴天。兄弟之雠不反兵。交游之雠不同国。": {
+        "translation": "对于杀父的仇人，作儿子的必须与他拚个死活，什么时候杀了他什么时候才算罢休。对于杀害兄弟的仇人，要随时携带武器，遇见就杀。对于杀害朋友的仇人，如果他不逃到别国去，见即杀之。",
+        "scene": "昏暗的房间内，男子握紧剑柄，怒火中烧，誓言复仇。阴影笼罩，紧张氛围弥漫每一个角落，随时准备遭遇敌手。",
+        "emotion": "刻骨铭心的仇恨与坚决复仇的决心。",
+        "translation_ENG": "For the enemy who killed ones father, as a son, one must fight to the death with him, only when he is killed can one be content. For the enemy who killed ones brother, one must always carry weapons and kill on sight. For the enemy who killed ones friend, if he does not flee to another country, kill whenever seen."
+    },
+    "凉冷三秋夜，安闲一老翁。": {
+        "translation": "秋天的夜晚带着阵阵寒意，只有我一个老头安宁自在的在家。",
+        "scene": "深秋的夜晚，寒意袭来，屋里老者独坐，神情安宁，窗外树叶瑟瑟。",
+        "emotion": "孤独宁静与淡泊闲适。",
+        "translation_ENG": "Autumn nights carry a chill, and only I, an old man, find peace and comfort at home."
+    },
+    "丹阳城南秋海阴，丹阳城北楚云深。": {
+        "translation": "往丹阳城南望去，只见秋海阴雨茫茫；向丹阳城北望去，只见楚天层云深深。",
+        "scene": "秋季的城墙上，乌云密布，阴雨连绵，远眺南北，天际高云深浅。",
+        "emotion": "离别时的凄冷与孤寂。",
+        "translation_ENG": "Looking towards the south of Danyang City, all you see is the autumn sea under a vast and misty rain; looking towards the north of Danyang City, all you see are the deep layers of clouds in the Chu sky."
+    },
+    "惭愧今年二麦丰，千畦细浪舞晴空。": {
+        "translation": "难得今年大麦和小麦丰收，千亩地绿浪渲染了整个天空。",
+        "scene": "广袤的田野中，成熟的麦浪在阳光下翻滚，绿色波涛映衬蓝天，生机勃勃。",
+        "emotion": "丰收的喜悦和满足感。",
+        "translation_ENG": "It is rare this year that barley and wheat have had a good harvest, and the green waves of a thousand acres of land have rendered the entire sky."
+    },
+    "青春须早为，岂能长少年。": {
+        "translation": "青春年少时期就应趁早努力，一个人难道能够永远都是少年吗？",
+        "scene": "朝阳升起的校园，年轻人奋笔疾书，脚步匆匆。",
+        "emotion": "积极向上的青春激励。",
+        "translation_ENG": "One should strive early in their youth; can a person remain young forever?"
+    },
+    "莫道桑榆晚，为霞尚满天。": {
+        "translation": "不要说日落时光照桑榆树端已近傍晚，它的霞光余辉照样可以映红满天。",
+        "scene": "接近傍晚的桑树梢，日光余辉染红满天，绚丽而壮丽。",
+        "emotion": "坚韧不拔的意志与乐观积极的精神。",
+        "translation_ENG": "Do not say that the sunset time when the light touches the top of the mulberry and elm trees is already late; its afterglow can still color the entire sky red."
+    },
+    "秋风吹地百草干，华容碧影生晚寒。": {
+        "translation": "萧瑟秋风吹得大地百草枯干，傍晚时分，寒气袭人，路旁的花树呈现出愁惨的容颜。",
+        "scene": "秋风吹拂的大地上，百草枯干，路旁枯萎的花木显出凄凉。",
+        "emotion": "感伤的忧愁与凄苦。",
+        "translation_ENG": "The bleak autumn wind withers the earths vegetation. In the evening, the chill penetrates deeply, and the flowers and trees by the roadside present a sorrowful appearance."
+    },
+    "郴江幸自绕郴山，为谁流下潇湘去。": {
+        "translation": "郴江啊，你本来是环绕着郴山奔流，为什么偏偏要流到潇湘去呢？",
+        "scene": "流经山川的河流，曲折蜿蜒，远离故乡，河岸旁景色凄凉。",
+        "emotion": "离乡远去的深长怨恨和凄苦哀愁。",
+        "translation_ENG": "Oh Chen River, you originally flowed around the Chen Mountain, why must you flow towards Xiao Xiang instead?"
+    },
+    "自爱残妆晓镜中，环钗漫篸绿丝丛。": {
+        "translation": "爱在早晨的镜子里欣赏残妆，钗环插满在发丝丛中。",
+        "scene": "清晨的房间内，女子端坐于镜前，轻轻梳理发丝，发间插满珠环，桌上散落化妆品。",
+        "emotion": "自赏的优雅与独特的妩媚。",
+        "translation_ENG": "Love admires the remnants of makeup in the morning mirror, with hairpins and rings adorning the clusters of hair."
+    },
+    "刚被太阳收拾去，却教明月送将来。": {
+        "translation": "傍晚太阳下山花影刚刚消失，可是月亮升起，花影又重重叠叠出现了。",
+        "scene": "傍晚时分，山间花丛中，夕阳渐退，月亮升起，幽幽花影再次浮现。",
+        "emotion": "无奈与渴望的复杂情绪。",
+        "translation_ENG": "At dusk, the sun set and the shadows of the flowers just disappeared, but as the moon rose, the shadows of the flowers appeared again in layers."
+    },
+    "花下一禾生，去之为恶草。": {
+        "translation": "一棵禾苗在花儿旁边生长出来。公子以为禾苗是恶草，便顺手将禾苗拔掉了。",
+        "scene": "花旁的小麦幼苗被误认为杂草，随手被拔除，展示自然中的无知与错识。",
+        "emotion": "对无知的讽刺与深刻反思。",
+        "translation_ENG": "A seedling grew next to the flowers. The young man thought the seedling was a weed, so he casually uprooted it."
+    },
+    "公事不私议。": {
+        "translation": "不在私下谈论朝政公务的事。",
+        "scene": "清晨书房内，士子闭口不言，手持书卷，思考深沉，窗外阳光明媚，庭院静谧。",
+        "emotion": "谨慎与温和智慧的体现。",
+        "translation_ENG": "Do not discuss state affairs privately."
+    },
+    "君子赠人以轩，不若以言。": {
+        "translation": "君子认为赠给别人高大漂亮的车子，不如给别人有教益的话。",
+        "scene": "古人坐在书房中，对着桌上的书籍进行沉思与讨论，窗外的景色宁静怡人。",
+        "emotion": "重视精神财富的理性思索。",
+        "translation_ENG": "A gentleman believes that giving others valuable advice is better than gifting them luxurious and beautiful cars."
+    },
+    "万条千缕绿相迎。舞烟眠雨过清明。": {
+        "translation": "柳枝暮春的晴烟轻霭中飘舞，暮春的霏霏丝雨中安眠，梦一般温馨的环境中度过了清明三月天。",
+        "scene": "春日傍晚，柳枝在轻烟薄雾中随风飘舞，细雨绵绵。",
+        "emotion": "欣喜与温馨。",
+        "translation_ENG": "Willow branches dance in the clear mist and light haze of late spring, they rest in the misty drizzling rain of late spring, passing Qingming March in a dream-like cozy environment."
+    },
+    "言之大甘，其中必苦。": {
+        "translation": "话说得太甜蜜动听，说话者就必定别有用心。",
+        "scene": "温暖的房间内，一位说话者微笑着，言语甜美动听，却隐藏着不为人知的心机。",
+        "emotion": "警醒与防备。",
+        "translation_ENG": "The sweeter and more pleasant the words are, the more likely the speaker has ulterior motives."
+    },
+    "杀气三时作阵云，寒声一夜传刁斗。": {
+        "translation": "从早到晚杀气腾腾战云密布，整夜里只听到巡更的刁斗声声悲伤。",
+        "scene": "夜幕下的战场，战云密布，只有更夫的锣声回响，显得孤寂悲凉。",
+        "emotion": "士兵内心的悲苦和战争的残酷。",
+        "translation_ENG": "From dawn till dusk, the air was thick with an aura of hostility and battle clouds loomed heavily, and throughout the night, the plaintive sound of the patrols watch drum could be heard."
+    },
+    "冬至至后日初长，远在剑南思洛阳。": {
+        "translation": "冬至之后，白天渐长而黑夜渐短，我在远远的成都思念洛阳。",
+        "scene": "冬至时节，成都市，短日长影，诗人独坐思念故乡洛阳。",
+        "emotion": "思乡之情与心情低落。",
+        "translation_ENG": "After the winter solstice, the days become longer and the nights shorter. I miss Luoyang from afar in Chengdu."
+    },
+    "农月无闲人，倾家事南亩。": {
+        "translation": "农忙季节没有悠闲的人，农民们都是全家出动在田亩间忙碌的干活。",
+        "scene": "广阔田野中，农民全家忙碌劳作，充满活力。",
+        "emotion": "勤劳朴实的生活气息。",
+        "translation_ENG": "During the busy farming season, there are no idle people; the farmers and their entire families are out in the fields working diligently."
+    },
+    "日落松风起，还家草露晞。": {
+        "translation": "夕阳西下，松林之中传来阵阵清风。散步归家，只见青草之上露珠已干。",
+        "scene": "夕阳西下，松林中传来阵阵清风，青草上露珠已干，诗人散步归家。",
+        "emotion": "悠然自得的静谧心情。",
+        "translation_ENG": "As the sun sets in the west, a gentle breeze flows through the pine forest. Returning home from a walk, I only see that the dewdrops on the grass have dried up."
+    },
+    "美人娟娟隔秋水，濯足洞庭望八荒。": {
+        "translation": "远隔秋水的伊人是多么美好，你在洞庭湖边洗脚，一面向四方遥望。\n",
+        "scene": "远隔秋水的伊人在洞庭湖边洗脚，远望四方，环境悠闲静谧。",
+        "emotion": "怀念之情和悠远之感。",
+        "translation_ENG": "The lady far away from across the autumn water is so beautiful; you wash your feet by the Dongting Lake while gazing into the distance in every direction."
+    },
+    "灯前目力虽非昔，犹课蝇头二万言。": {
+        "translation": "灯下读书，眼神已不比从前，却还是阅读完了两万的蝇头小字。",
+        "scene": "孤灯下，诗人老眼昏花地阅读孜孜不倦，呈现深夜静谧的室内场景。",
+        "emotion": "勤奋苦学的精神。",
+        "translation_ENG": "Reading under the lamp, my eyesight is not as good as it used to be, yet I still managed to finish reading twenty thousand tiny characters."
+    },
+    "耿耿残灯背壁影，萧萧暗雨打窗声。": {
+        "translation": "一盏残灯，光线昏昏沉沉，照着背影，投映在墙壁上；只听到夜雨萧萧，敲打着门窗。",
+        "scene": "夜深的房间里，残灯微弱，墙上映出孤独的影子，窗外雨声打在门窗上。",
+        "emotion": "孤独凄凉的内心世界。",
+        "translation_ENG": "A dim lamp, its light faint and somber, casts a shadow of the silhouette on the wall; only the sound of the night rain tapping against the doors and windows can be heard."
+    },
+    "夫君子爱口，孔雀爱羽，虎豹爱爪，此皆所以治身法也。": {
+        "translation": "仁人君子注重自己的言论是否得当，孔雀关心自己的翎羽是否美丽，老虎、豹子等猛兽在意自己的爪子是否锐利，这都是他们各自修炼、提高自身的方法啊。",
+        "scene": "孔雀展开绚丽羽毛，猛虎静立山间，展示锐利爪牙。",
+        "emotion": "自我修炼与提升的重视。",
+        "translation_ENG": "Benevolent and virtuous men focus on whether their words are appropriate, peacocks care about whether their feathers are beautiful, and fierce beasts like tigers and leopards are concerned with whether their claws are sharp. These are all ways in which they each cultivate and improve themselves."
+    },
+    "少年负壮气，奋烈自有时。": {
+        "translation": "少年身负壮志，将来自有奋发激烈之时。",
+        "scene": "少年站立于高山之巅，迎风展望，充满自信与壮志，眼中闪烁着未来的希望与决心。",
+        "emotion": "豪情壮志与坚定的信念。",
+        "translation_ENG": "A young man with great aspirations will eventually have a time of vigorous endeavor."
+    },
+    "似将海水添宫漏，共滴长门一夜长。": {
+        "translation": "宫漏里就好像装了海水一样滴不完、流不尽。在长门宫前滴了一夜没有停息。",
+        "scene": "长门宫前，雨夜宫漏滴滴，仿佛海水无尽，萧瑟寂寞",
+        "emotion": "无尽的哀思",
+        "translation_ENG": "The palace leak seemed to be filled with sea water, dripping endlessly and flowing incessantly. It dripped all night in front of Changmen Palace without stopping."
+    },
+    "粉霞红绶藕丝裙，青洲步拾兰苕春。": {
+        "translation": "剪一条粉霞做成红绶带装饰着天女们的藕丝仙裙，笑语喧哗她们飞到南海青洲采仙草，又来赏早春。",
+        "scene": "仙女们穿着华丽服装，漫步青山绿水间，在南海采集仙草，享受早春美景。",
+        "emotion": "舒畅安逸与梦幻仙境的和谐美。",
+        "translation_ENG": "Cut a piece of pink cloud and make it into a red ribbon to adorn the fairy-like silk skirts of the heavenly maidens. With laughter and chatter, they fly to the Qingzhou in the South Sea to gather fairy herbs, and come to enjoy the early spring."
+    },
+    "向河梁、回头万里，故人长绝。": {
+        "translation": "河边桥头送别苏武，回头遥望故国远隔万里，与故友永远诀别。",
+        "scene": "河边桥头，好友告别，远眺故国，离情荡漾。",
+        "emotion": "离别的哀伤与忠诚坚定。",
+        "translation_ENG": "At the riverside by the bridge, we bid farewell to Su Wu, turning back to gaze at our homeland, separated by thousands of miles, parting forever with old friends."
+    },
+    "夜来携手梦同游，晨起盈巾泪莫收。": {
+        "translation": "夜里做梦与你携手共同游玩，早晨醒来泪水流满巾也止不住。",
+        "scene": "夜晚的梦境中，两人携手游玩，早晨醒来泪水沾湿帕子。",
+        "emotion": "悲伤与追怀。",
+        "translation_ENG": "At night, I dream of walking hand in hand with you and having fun together. In the morning, tears fill the pillow and cant be stopped."
+    },
+    "东风不为吹愁去，春日偏能惹恨长。": {
+        "translation": "春风依然不能为我吹散烦恼忧愁，我的愁思怨恨偏偏在这春天一直滋长。",
+        "scene": "春风中，一人独立，面露愁苦，周围绿意盎然却无法驱散忧愁。",
+        "emotion": "浓重的愁思与无法排解的怨恨。",
+        "translation_ENG": "The spring breeze still cannot blow away my troubles and sorrows; my melancholy and resentment persistently grow during this spring."
+    },
+    "非学无以广才，非志无以成学。": {
+        "translation": "不学习就难以增长才干，不立志就难以学有所成。",
+        "scene": "书房中，青年手握书卷，眉头紧锁，专注地读着书，他坚定的目光充满了对知识的渴求。",
+        "emotion": "励志与追求知识的决心。",
+        "translation_ENG": "Without studying, it is difficult to grow abilities; without setting aspirations, it is difficult to achieve success in learning."
+    },
+    "鲈鱼正美不归去，空戴南冠学楚囚。": {
+        "translation": "可惜鲈鱼正美回也回不去，头戴楚冠学着囚徒把数充。",
+        "scene": "古代园林中，一条清澈的溪流缓缓流淌，柳岸花明，鸟鸣阵阵，隐士独坐静思。",
+        "emotion": "怀念故园与隐退生活的宁静向往。",
+        "translation_ENG": "Its a pity that the perch is at its best, but cannot return, wearing a Chu crown like a prisoner counting the numbers."
+    },
+    "雨打风吹何处是，汉殿秦宫。": {
+        "translation": "随着时间的流逝而淹没，再也难找到像刘邦、秦始皇那样的英雄。",
+        "scene": "落雨中的凋敝庭院，花木枯萎，幽暗寂静。",
+        "emotion": "感慨时光飞逝与英雄难觅。",
+        "translation_ENG": "As time passes and submerges us, it becomes increasingly difficult to find heroes like Liu Bang and Qin Shi Huang."
+    },
+    "无可奈何新白发，不如归去旧青山，恨无人借买山钱。": {
+        "translation": "没有什么办法不让新白发增添，不如归葬于家乡熟知的青山上，抱恨没有人借给我购田买房隐居的钱。",
+        "scene": "青山环绕的故乡，白发老人伫立，望着空旷的田野，心中满是无奈与乡愁。",
+        "emotion": "无奈的政治处境与衰老生命的怅惘。",
+        "translation_ENG": "Theres no way to prevent new gray hairs from appearing, so I may as well be buried on the familiar green hills of my hometown, regretting the lack of funds someone could lend me to buy land and a house for seclusion."
+    },
+    "独往独来，独出独入，孰能碍之？": {
+        "translation": "独来独往，独进独出，谁能阻碍他呢？",
+        "scene": "诗人独自穿行于天地之间，无拘无束，感受自然的无限辽阔，一道光芒穿透云层。",
+        "emotion": "自由自在，心灵超脱。",
+        "translation_ENG": "He goes about on his own; who can obstruct him?"
+    },
+    "黄鹤楼前月华白，此中忽见峨眉客。": {
+        "translation": "在黄鹤楼前的月光下，我忽然遇到了您这位从家乡峨眉来的客人。",
+        "scene": "黄鹤楼前的月光下，诗人与来自故乡的僧人相遇，交流情深意切。",
+        "emotion": "怀旧、超脱世俗的交流。",
+        "translation_ENG": "In the moonlight in front of the Yellow Crane Tower, I suddenly met you, a visitor from my hometown Emei."
+    },
+    "榴花开欲然。": {
+        "translation": "石榴花开得火红，衬着湿润的绿叶，像是燃烧的火焰。",
+        "scene": "红花盛开的庭院中，绿叶映衬，鲜艳夺目。",
+        "emotion": "生命的活力与生活情趣。",
+        "translation_ENG": "The pomegranate blossoms are fiery red, set against the moist green leaves, resembling burning flames."
+    },
+    "纤云弄巧，飞星传恨，银汉迢迢暗度。": {
+        "translation": "纤薄的云彩在天空中变幻多端，天上的流星传递着相思的愁怨，遥远无垠的银河今夜我悄悄渡过。",
+        "scene": "皎洁的夜空下，流星划过，银河璀璨。",
+        "emotion": "相思的惆怅与遥远的别离。",
+        "translation_ENG": "Thin clouds change unpredictably in the sky, meteors convey the sorrow of longing, tonight I quietly cross the distant and boundless Milky Way."
+    },
+    "不见乡书传雁足，唯看新月吐蛾眉。": {
+        "translation": "不见飞过的大雁捎来书信，却只看见那弯弯的新月变成了妻子美丽的蛾眉。",
+        "scene": "夜空之下，一轮新月如美丽眉毛，楼阁间没有信鸽飞来。",
+        "emotion": "对家书的渴望与无奈惆怅。",
+        "translation_ENG": "I didnt see the flying wild geese bring letters, only saw the crescent moon turn into the beautiful curved eyebrows of my wife."
+    },
+    "江村独归处，寂寞养残生。": {
+        "translation": "送走你我独自回到江村，寂寞地度过剩下的岁月。",
+        "scene": "江村的清晨，孤独的诗人伫立江边，暮色笼罩，岁月静谧而凄凉。",
+        "emotion": "孤独无依的思念与悲凉。",
+        "translation_ENG": "I returned alone to the riverside village after seeing you off, spending the remaining years in solitude."
+    },
+    "不堪盈手赠，还寝梦佳期。": {
+        "translation": "不能把美好的月色捧给你，只望能够与你相见在梦乡。",
+        "scene": "宁静的夜晚，清辉洒落的大地，诗人凝望明月，心中充满思念，与情人在梦中相见。",
+        "emotion": "悠远的思念与缠绵的情思。",
+        "translation_ENG": "I cannot offer you the beautiful moonlight, I can only hope to meet you in dreams."
+    },
+    "江城如画里，山晚望晴空。": {
+        "translation": "江边的城池好像在画中一样美丽，山色渐晚，我登上谢朓楼远眺晴空。",
+        "scene": "江边城池和谐美丽，夕阳下登楼远眺，晴空一片。",
+        "emotion": "宁静而充满赏景的喜悦。",
+        "translation_ENG": "The city by the river looks as beautiful as if it were in a painting; as the evening draws near, I climb the Xie Tiao Tower to gaze out at the clear sky."
+    },
+    "山远近，路横斜，青旗沽酒有人家。": {
+        "translation": "青山远远近近，小路纵横交错，飘扬着青布酒旗那边有一户卖酒的人家。",
+        "scene": "远处青山环绕，小路交错，酒旗飘扬的村庄，宁静祥和。",
+        "emotion": "生机勃勃而宁静愉悦。",
+        "translation_ENG": "The green mountains stretch far and near, with winding paths crisscrossing, and the blue wine flags flutter in the distance where there is a household selling wine."
+    },
+    "云中白鹤，非燕雀之网所能罗也。": {
+        "translation": "自由飞翔在云中的白鹤，不是捕捉燕雀的网所能捉住的。",
+        "scene": "云端辽阔的蓝天，白鹤自由翱翔，展现出超然脱俗的意境。",
+        "emotion": "不羁独立，远离俗世。",
+        "translation_ENG": "The white crane flying freely among the clouds cannot be caught by nets meant for sparrows."
+    },
+    "患名之不立，不患年之不长。": {
+        "translation": "只怕美好的名声树立不起来，不怕寿命短促。",
+        "scene": "书香满溢的文士府邸，文人雅客正谈论功名成就。",
+        "emotion": "对功名声望的重视。",
+        "translation_ENG": "Fear only that a good reputation cannot be established, not that life is short."
+    },
+    "今我何功德？曾不事农桑。": {
+        "translation": "现在我有什么功劳德行，却不用从事农耕蚕桑。",
+        "scene": "诗人自省于安逸的生活中，遥望田野中劳作的农民，内心感到不安。",
+        "emotion": "羞愧与自省的复杂情感。",
+        "translation_ENG": "What merit or virtue do I have now that exempts me from engaging in farming and sericulture?"
+    },
+    "桑野就耕父，荷锄随牧童。": {
+        "translation": "靠近在种满桑树的田野里耕作的农夫，扛着锄头和牧童一起劳作。",
+        "scene": "种满桑树的田野上，农夫携锄与牧童同步劳作，夕阳下归村的田园景致。",
+        "emotion": "田园生活的宁静与喜悦。",
+        "translation_ENG": "Near the field full of mulberry trees, a farmer works carrying a hoe alongside a shepherd boy."
+    },
+    "二月春花厌落梅。仙源归路碧桃催。渭城丝雨劝离杯。": {
+        "translation": "二月时节，春花繁盛，梅花凋落，离人被催促着快些归来。送行的人也一再挽留，劝了一杯又一杯。",
+        "scene": "春日庭院中，春花盛放，离人依依不舍互诉离情，共饮惜别。",
+        "emotion": "美丽又略带哀愁的惜别之情。",
+        "translation_ENG": "In February, spring flowers bloom abundantly, plum blossoms wither away, and those who are away are urged to return quickly. Those seeing them off repeatedly try to keep them, offering one drink after another."
+    },
+    "为川者决之使导，为民者宣之使言。": {
+        "translation": "治理河道，要用疏导的办法使其通畅；治理百姓，要引导百姓使其敢言。",
+        "scene": "治理河流与百姓的场景，河水缓缓流淌，百姓在河岸欢声笑语，舒适安宁。",
+        "emotion": "开明治理与自由表达的愿望。",
+        "translation_ENG": "To manage the rivers, one should use the method of dredging to make them smooth; to govern the people, one should guide them to make them speak freely."
+    },
+    "美人赠我锦绣段，何以报之青玉案。": {
+        "translation": "美人送给我锦绣段。我要以什么来报答呢？唯有青玉制就的几案。",
+        "scene": "诗人孤身在庭院中，手握锦绣段，神情惆怅，四处寻美人而不见。",
+        "emotion": "惆怅与忧伤的心情。",
+        "translation_ENG": "The beauty gifted me with a magnificent piece of fabric. How shall I repay her? Only with a table crafted from jade."
+    },
+    "等闲识得东风面，万紫千红总是春。": {
+        "translation": "谁都可以看出春天的面貌，春风吹地百花开放、万紫千红，到处都是春天的景致。",
+        "scene": "春风轻拂大地，百花齐放，姹紫嫣红，春色满园。",
+        "emotion": "追求圣人之道的美好愿望。",
+        "translation_ENG": "Anyone can see the face of spring; the spring breeze blows, flowers bloom, and myriad colors spread everywhere, filling the scene with the beauty of spring."
+    },
+    "花前每被青蛾问，何事重来只一人。": {
+        "translation": "在花丛前赏花常被美女问，为何好事双来只有您一人？",
+        "scene": "花园中，美丽的妇女站在花丛前，周围花香四溢。",
+        "emotion": "淡淡的哀愁与孤独。",
+        "translation_ENG": "In front of the flower bushes, being asked by beauties why you are the only one to enjoy such good things alone."
+    },
+    "闲依农圃邻，偶似山林客。": {
+        "translation": "闲静无事，与农人的菜圃为邻，有的时候就像个山间隐士。",
+        "scene": "田园农家小院，农民在菜园里劳作，周围是一片宁静闲适的乡村景象。",
+        "emotion": "隐含孤独和愁绪的闲适宁静。",
+        "translation_ENG": "Calm and idle, neighboring the farmers vegetable plot, sometimes like a hermit in the mountains."
+    },
+    "书咄咄，且休休。": {
+        "translation": "与其像殷浩朝天空书写“咄咄怪事”发泄怨气，倒不如像司空图寻觅美好的山林安闲自在地去隐居。",
+        "scene": "青山绿水的山林间，诗人安闲自在地隐居其中，享受自然的宁静与美好。",
+        "emotion": "隐居自得其乐。",
+        "translation_ENG": "Rather than venting grievances by writing absurdity to the sky like Yin Hao, it is better to seek beautiful mountains and forests to leisurely live in seclusion like Sikong Tu."
+    },
+    "神女生涯原是梦，小姑居处本无郎。": {
+        "translation": "巫山神女艳遇楚王，原来只是梦一场；青溪小姑住所，本就独处无郎。",
+        "scene": "幽静的青溪岸边，小屋孤立，清晨薄雾笼罩，宛如梦境。",
+        "emotion": "怀念爱情与孤寂哀愁。",
+        "translation_ENG": "The goddess of Wushan had a romantic encounter with the King of Chu, but it turned out to be just a dream; the dwelling of the young girl in Qingxi was meant for solitude without a man."
+    },
+    "风月不供诗酒债，江山长管古今愁。": {
+        "translation": "自然风景不能偿付诗酒之债，古今的诗人总是借山水来抒发他们的忧愁。",
+        "scene": "池州美丽的江山风月，诗人观赏自然风景，寄托忧愁。",
+        "emotion": "忧愁与感慨。",
+        "translation_ENG": "Natural scenery cannot repay the debts of poetry and wine; poets throughout the ages have always used landscapes to express their sorrows."
+    },
+    "春晚绿野秀，岩高白云屯。": {
+        "translation": "春末的原野上铺展着秀丽的绿色，高高的山岩上屯聚着一朵朵白云。",
+        "scene": "春末的原野上铺展着绿色，高高的山岩上屯聚着白云。",
+        "emotion": "明媚的春光，清新的自然景象。",
+        "translation_ENG": "In late spring, the fields are covered with beautiful greenery, and clusters of white clouds gather on the high cliffs."
+    },
+    "山者大，故人顺之；垤微小，故人易之也。": {
+        "translation": "山坡高大，所以人们小心谨慎地顺着路走，小蚁冢很小，所以人们很容易忽视它。",
+        "scene": "蜿蜒险峻的山坡上，人们谨慎行走，细小的蚁穴藏于路边，不易察觉。",
+        "emotion": "警醒与谨慎。",
+        "translation_ENG": "The hillside is tall, so people cautiously follow the path. The anthill is very small, so it is easily overlooked by people."
+    },
+    "长风几万里，吹度玉门关。": {
+        "translation": "浩荡长风掠过万里关山，来到戍边将士驻守的边关。",
+        "scene": "浩荡长风卷过万里关山，边关将士驻守在寒冷的边境。",
+        "emotion": "苍凉凄美的思乡之情。",
+        "translation_ENG": "The vast long wind sweeps across the endless mountains and rivers, reaching the frontier where the border soldiers are stationed."
+    },
+    "一种青山秋草里，路人唯拜汉文陵。": {
+        "translation": "嬴政刘恒同样葬在青山秋草里，人们却只去祭拜汉文帝的霸陵。",
+        "scene": "青山秋草间的古代墓地，寂静而清幽，人们前往祭拜汉文帝的霸陵。",
+        "emotion": "对仁君的敬仰与缅怀。",
+        "translation_ENG": "Ying Zheng and Liu Heng were both buried in the green hills and autumn grass, yet people only visit the Baling Mausoleum of Emperor Wen of Han."
+    },
+    "未信此情难系绊，杨花犹有东风管。": {
+        "translation": "谓此情将不会一无依托，杨花尚有东风来吹拂照管，难道自身连杨花也不如吗？",
+        "scene": "东风吹拂下的杨花，随风飞扬，情感飘零。",
+        "emotion": "情感复杂难以控制。",
+        "translation_ENG": "It is said that this sentiment will not be completely without support, as the willow catkins have the east wind to blow and take care of them. Could it be that I am even less fortunate than the willow catkins?"
+    },
+    "舟行碧波上，人在画中游。": {
+        "translation": "我们坐上小船在碧波上游荡，看到两岸美丽的景色，我们就像在美丽的画中游览一样。",
+        "scene": "小船在碧波荡漾的水面上前行，两岸美丽的风景如画，宁静而优美。",
+        "emotion": "享受自然之美的宁静愉悦。",
+        "translation_ENG": "We boarded the small boat and drifted on the turquoise waves, seeing the beautiful scenery on both banks, it was as if we were touring inside a beautiful painting."
+    },
+    "泽国江山入战图，生民何计乐樵苏。": {
+        "translation": "大片的水域江山都已绘入战图，百姓想要打柴割草度日而不得。",
+        "scene": "战火纷飞的河山，被战争席卷，人们生活困苦。",
+        "emotion": "婉转曲折，令人心酸。",
+        "translation_ENG": "Vast bodies of water and landscapes have been mapped into the war charts, and the people want to chop wood and cut grass to make a living, but they cannot."
+    },
+    "运命惟所遇，循环不可寻。": {
+        "translation": "命运遭遇往往不一，因果循环奥秘难寻。",
+        "scene": "命运无常，人生际遇变化莫测，仿佛森林中迷雾重重的路径。",
+        "emotion": "委婉深沉、感叹命运。",
+        "translation_ENG": "The fate encounters are often different, and the mysteries of the cycle of cause and effect are hard to find."
+    },
+    "群贤毕至，少长咸集。": {
+        "translation": "诸多贤士能人都汇聚到这里，年长、年少者都聚集在这里。",
+        "scene": "众多人聚集在一起，热闹非凡，老少咸集。",
+        "emotion": "隆重与和谐。",
+        "translation_ENG": "Many wise and capable individuals have gathered here, both the older and younger ones are assembled in this place."
+    },
+    "晓声隆隆催转日，暮声隆隆呼月出。": {
+        "translation": "拂晓，隆隆的鼓声催促着太阳的运行，傍晚，隆隆的鼓声催促月亮的上升。",
+        "scene": "宏观宇宙中，太阳升起，鼓声隆隆，日月交替，声音不断。宏伟壮观。",
+        "emotion": "敬畏宇宙规律与自然力量。",
+        "translation_ENG": "At dawn, the rumbling drumbeats urge the suns movement, and at dusk, the rumbling drumbeats urge the moons ascent."
+    },
+    "来日绮窗前，寒梅著花未。": {
+        "translation": "请问您来的时候我家雕画花纹的窗户前，那一株腊梅花开了没有？",
+        "scene": "雕花窗前，寒梅盛开。",
+        "emotion": "浓烈的思乡之情。",
+        "translation_ENG": "When you came, was the wintersweet tree in front of the carved and decorated window of my house in bloom?"
+    },
+    "禹门已准桃花浪，月殿先收桂子香。": {
+        "translation": "乡试放榜时飘拂的桂花香已经先散向了月殿，你一定能名登桂榜，蟾宫折桂；不仅如此，连下一年桃花浪涌起时像鱼跃龙门一样考试得中的会试也已经为你准备好了。",
+        "scene": "在秋天的月夜，桂花开放，考生正在书房准备秋试，心怀对未来的美好期待。",
+        "emotion": "美好的祝愿和期待。",
+        "translation_ENG": "The fragrance of osmanthus blossoms wafts toward the moon palace just as the provincial examination results are announced. Surely, you will achieve success in the exam and win the laurels of the moon palace. Not only that, the metropolitan examinations next year, as challenging as fish leaping over the dragon gate, are already prepared for your triumph."
+    },
+    "因依老宿发心初，半学修心半读书。": {
+        "translation": "只因老而有德行者像孩童似的，一边学习修心养性，一边读书。",
+        "scene": "山中寺庙，老僧静坐读书，修身养性。",
+        "emotion": "向往隐居生活。",
+        "translation_ENG": "Only because they are elderly and virtuous like children, do they learn to cultivate their character while also reading."
+    },
+    "列士并学，能终善者为师。": {
+        "translation": "读书人在一起学习，善始善终的人最后能成为老师。",
+        "scene": "书斋内，学者们埋头读书，共同学习，相互探讨。",
+        "emotion": "勤奋努力与坚持不懈。",
+        "translation_ENG": "People who study together, those who persevere can eventually become teachers."
+    },
+    "春风举国裁宫锦，半作障泥半作帆。": {
+        "translation": "春游中全国裁制的绫罗锦缎，一半作御马障泥一半作船帆。",
+        "scene": "春游时，遍布全国的瑰丽刺绣一半作马鞍垫，一半作船篷。",
+        "emotion": "对奢侈生活的讽刺与忧虑。",
+        "translation_ENG": "During the spring outing, the nationally tailored silk and satin are used half for imperial horse mud screens and half for sails."
+    },
+    "天山三丈雪，岂是远行时。": {
+        "translation": "天山如今天寒地冻，积雪厚有三丈，这个时候怎么适合远行呢？",
+        "scene": "天山山脉被厚厚的积雪覆盖，寒冷刺骨，银装素裹，冰天雪地。",
+        "emotion": "孤独与苦闷。",
+        "translation_ENG": "Tianshan is currently cold and frozen, with snow piled up to three zhangs thick. How is it suitable for traveling at this time?"
+    },
+    "风雪惊初霁，水乡增暮寒。": {
+        "translation": "风雪刚刚停息下来，水乡更增添了暮寒的景象。",
+        "scene": "风雪初停，暮色降临的水乡，一片寒冷景象。",
+        "emotion": "宁静且凄凉。",
+        "translation_ENG": "The snow and wind have just subsided, further adding to the evening chill in the water town."
+    },
+    "不知马骨伤寒水，惟见龙城起暮云。": {
+        "translation": "顾不得天寒地冻水寒伤马骨，只见边境战争阴云四起，只记得努力去杀敌。",
+        "scene": "天寒地冻，水寒伤马骨，边疆战场阴云四起，将士们英勇杀敌。",
+        "emotion": "英雄气概与爱国精神。",
+        "translation_ENG": "Ignoring the cold weather and the freezing water that could harm the horses bones, all I see are the rising clouds of war at the frontier, and all I remember is striving to kill the enemy."
+    },
+    "碧云笼碾玉成尘，留晓梦，惊破一瓯春。": {
+        "translation": "取出笼中碧云茶，碾碎的末儿玉一样晶莹，想留住晨晓春光的好梦，咂一口，惊破了一杯碧绿的春景。",
+        "scene": "春天的早晨，茶雾氤氲，碧绿的茶泉，晶莹剔透。",
+        "emotion": "留恋美好的春景与春梦。",
+        "translation_ENG": "Taking out the Biyun tea from its cage, its crushed powder is as glistening as jade. Wanting to capture the good dreams of the morning spring light, with one sip, I am startled by the verdant spring scenery in the cup."
+    },
+    "江湖多风波，舟楫恐失坠。": {
+        "translation": "江湖上航行多险风恶浪，担心你的船被掀翻沉没。",
+        "scene": "江湖上航行的船只在风浪中颠簸，水面波涛汹涌，露出险恶之象。",
+        "emotion": "忧心忡忡，担忧朋友。",
+        "translation_ENG": "Sailing in the river and lake is fraught with perilous winds and evil waves; worried that your boat might be overturned and sunk."
+    },
+    "东风夜放花千树，更吹落、星如雨。": {
+        "translation": "东风吹开了元宵夜的火树银花，花灯灿烂，就像千树花开。",
+        "scene": "元宵夜，满城灯火辉煌，花灯绚烂，犹如千树花开，人群欢腾。",
+        "emotion": "欢快热闹的节日氛围。",
+        "translation_ENG": "The east wind has blown open the fireworks and lanterns of the Lantern Festival night, the lanterns are brilliant, just like a thousand trees blooming."
+    },
+    "野老念牧童，倚杖候荆扉。": {
+        "translation": "村中老人惦念着放牧的孙儿，倚着拐杖在柴门边等候。",
+        "scene": "村中老翁倚杖伫立，牧童牵牛归来，落日余晖洒在村庄，宁静祥和。",
+        "emotion": "渴望归隐与羡慕田园生活。",
+        "translation_ENG": "The old man in the village misses his grandson who is herding and waits by the wooden gate leaning on his cane."
+    },
+    "兰桡殊未返，消息海云端。": {
+        "translation": "你乘坐的船还没有返回，你的消息还远在海云边。",
+        "scene": "海天一色的远方，云霞满天，静谧的海面上，船只远航。",
+        "emotion": "思念与温情。",
+        "translation_ENG": "The ship you took has not yet returned, and your message is still far at the edge of the sea and clouds."
+    },
+    "时时闻鸟语，处处是泉声。": {
+        "translation": "时时刻刻都能听到鸟儿在婉转啼鸣，泉水叮叮咚咚，缓缓流淌。",
+        "scene": "鸟儿婉转啼鸣，泉水叮咚流淌，寺庙宁静生机盎然。",
+        "emotion": "生机盎然与宁静和平。",
+        "translation_ENG": "I can hear the birds chirping melodiously and the spring water gently flowing with a tinkling sound at all times."
+    },
+    "雪衣雪发青玉嘴，群捕鱼儿溪影中。": {
+        "translation": "鹭鸶身穿雪白的衣裳，生有雪白的头发和青玉一样的嘴巴。它们成群地在溪中捕鱼，美丽的身形倒映在清澈的溪水中。",
+        "scene": "清澈溪水中，洁白的鹭鸟成群捕鱼，身影倒映在水中。",
+        "emotion": "迷恋自然的美丽。",
+        "translation_ENG": "Egrets are dressed in snow-white clothing, with snow-white hair and beaks as jade. They flock together to fish in the stream, their beautiful figures reflecting in the clear stream water."
+    },
+    "残星几点雁横塞，长笛一声人倚楼。": {
+        "translation": "残星点点大雁南飞越关塞，悠扬笛声里我独倚高楼。",
+        "scene": "夕阳西下，寥寥星光，南飞的大雁越过关塞，楼阁上独自一人，远处传来悠扬的笛声。",
+        "emotion": "离乡的忧愁。",
+        "translation_ENG": "Under scattered stars, wild geese fly south across the passes; amid the melodious sound of a flute, I lean alone against a high tower."
+    },
+    "后人收得休欢喜，还有收人在后头。": {
+        "translation": "接收这些土地的后人先不要欢喜，还有等着接收这片土地的人就在后头呢！",
+        "scene": "即将接收土地的人们面前，前方是广袤的土地，后方是等待接收的人群。",
+        "emotion": "提醒与告诫。",
+        "translation_ENG": "The descendants receiving this land should not rejoice yet; there are still people waiting to receive this land coming up behind them!"
+    },
+    "人皆有不忍人之心。": {
+        "translation": "每个人都有怜悯体恤别人的心肠。",
+        "scene": "一片静谧的乡村，阳光洒照，行人们互相帮助与关怀。",
+        "emotion": "善良与同情。",
+        "translation_ENG": "Everyone has a heart to sympathize with others."
+    },
+    "日月称其明者，以无不照；江海称其大者，以无不容。": {
+        "translation": "日月被称为很明亮，是因为它们没有什么不照耀；江海被称为博大，是因为它们没有什么不包容。",
+        "scene": "日月悬挂高空，照耀大地，江海宽广无边，包容万物。",
+        "emotion": "宽容与和善。",
+        "translation_ENG": "The sun and the moon are called bright because there is nothing they do not illuminate; rivers and seas are called vast because there is nothing they do not embrace."
+    },
+    "桃李风前多妩媚，杨柳更温柔。": {
+        "translation": "桃花和李花在春风中摇曳着妩媚的身姿，随风舒展的柳条比桃花和李花还要柔美。",
+        "scene": "春风中桃花李花摇曳生姿，柳条舒展，春景明媚动人。",
+        "emotion": "热爱明媚春光。",
+        "translation_ENG": "Peach blossoms and plum blossoms sway their graceful figures in the spring breeze, while the willow branches unfurling with the wind are even more elegant than the peach and plum blossoms."
+    },
+    "虚静无事，以暗见疵。": {
+        "translation": "保持虚静无为的状态，往往会从隐蔽的角度得知他的行为漏洞。",
+        "scene": "静谧的宫殿中，一位君王沉思冥想，思考统治之法，周围人们保持安静，不动声色。",
+        "emotion": "思考与智慧的宁静。",
+        "translation_ENG": "Maintaining a state of calmness and non-action often reveals his behavioral flaws from hidden perspectives."
+    },
+    "人间万事，毫发常重泰山轻。": {
+        "translation": "但是，现今是人间万事都是本末倒置，毫发常常是重的，而泰山却倒很轻。",
+        "scene": "世事混乱，人心不古，重事被忽视，局势岌岌可危。",
+        "emotion": "愤怒和绝望。",
+        "translation_ENG": "However, nowadays things in the world are often upside down; a hair is often considered weighty while Mount Tai is considered very light."
+    },
+    "手种堂前垂柳，别来几度春风？": {
+        "translation": "我在堂前亲手栽种的那棵柳树啊，离别它已经好几年了。",
+        "scene": "庭院前杨柳依依，微风轻拂，充满岁月与离别的情感。",
+        "emotion": "深情而不柔弱，豪放而思念。",
+        "translation_ENG": "The willow tree that I personally planted in front of the hall, I have been away from it for several years."
+    },
+    "衣沾不足惜，但使愿无违。": {
+        "translation": "衣衫被沾湿并不可惜，只愿我不违背归隐心意。",
+        "scene": "山间幽静的居所，诗人穿着被雨水打湿的衣服，神情淡然。",
+        "emotion": "清高的节操与品行，宁静致远的隐居心愿。",
+        "translation_ENG": "It is not a pity if my clothes are soaked, as long as I do not go against my desire to retreat into seclusion."
+    },
+    "九华山路云遮寺，清弋江村柳拂桥。": {
+        "translation": "云雾缭绕的九华山路旁，寺宇时隐时现，青弋江村边，春风杨柳，轻拂桥面。",
+        "scene": "九华山路旁，云雾缭绕，寺庙隐现，春风杨柳，江村如画。",
+        "emotion": "静谧美好，宁静优雅。",
+        "translation_ENG": "Along the road to the misty Jiuhua Mountain, the temples appear and disappear from sight, while by the side of the Qingyi River village, the spring breeze gently caresses the surface of the bridge."
+    },
+    "贵不凌贱，富不傲贫": {
+        "translation": "显贵的人不欺凌卑贱的人，富贵的人不对贫穷的人傲慢无礼。",
+        "scene": "富贵人家与平凡人家和谐相处，无论地位财富，互相尊重包容。",
+        "emotion": "尊重包容和平等的观念。",
+        "translation_ENG": "Noble people do not bully the humble, and the rich do not act arrogantly and rudely towards the poor."
+    },
+    "坐看黑云衔猛雨，喷洒前山此独晴。": {
+        "translation": "坐看天空中浓密的乌云携带着雨水席卷而来，喷洒在前方的山峦上，而这里却依然阳光灿烂。",
+        "scene": "乌云密布，天空暗沉，夏雨急骤而至，前方群山雾气腾腾，阳光微微露出。",
+        "emotion": "夏雨来临的生动与活泼。",
+        "translation_ENG": "Sitting and watching as dense clouds in the sky carry rain, sweeping over the distant mountains, while here the sun still shines brightly."
+    },
+    "采采流水，蓬蓬远春。": {
+        "translation": "采采：盛足的样子。蓬蓬：繁盛貌。远：广远。",
+        "scene": "流动的流水，繁茂的春景，远处广阔的自然。",
+        "emotion": "春天的美好与生命的蓬勃。",
+        "translation_ENG": "Cai Cai: The appearance of being full. Peng Peng: The appearance of being prosperous. Yuan: Expansive and far-reaching."
+    },
+    "纵令然诺暂相许，终是悠悠行路心。": {
+        "translation": "纵然口头上暂时承诺了什么，实际上他的心就如路人一样冷漠。",
+        "scene": "长安城墙下，贵族主人充满虚情假意的笑脸，心如路人般冷漠。",
+        "emotion": "揭示社会现实时的冷漠与虚伪。",
+        "translation_ENG": "Even though he has verbally committed to something temporarily, in reality, his heart is as indifferent as a passerby."
+    },
+    "衔霜当路发，映雪拟寒开。": {
+        "translation": "梅花不怕霜雪、不畏风寒，在零霜下雪的时候，它就在路边开放了。",
+        "scene": "寒冷冬日，霜雪中，道旁梅花不惧严寒绽放。",
+        "emotion": "赞美梅花的高洁品格。",
+        "translation_ENG": "Plum blossoms are not afraid of frost and snow, nor do they fear the cold wind. When it snows with zero frost, they bloom on the roadside."
+    },
+    "多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔，禄在其中矣。": {
+        "translation": "多听别人说话，不要说你觉得可疑的，其余的，也要谨慎地说，便少过失。多看别人行事，不要做你觉得不安的，其余的，也要谨慎地行，便少后悔。说话少过失，行事少后悔，谋求禄仕之道就在这里面了。",
+        "scene": "一个静谧的书房里，人们安静地聆听彼此的意见，神情专注，避免仓促与过失。",
+        "emotion": "谨慎谦虚的态度。",
+        "translation_ENG": "Listen more to others and refrain from saying what you find suspicious; for the rest, speak cautiously to make fewer mistakes. Observe others actions and avoid doing what makes you uneasy; for the rest, act with caution to have fewer regrets. The path to seeking official positions lies in speaking with fewer errors and acting with less regret."
+    },
+    "腰中双绮带，梦为同心结。": {
+        "translation": "我腰襟上佩戴的两条绸带，在梦中变作了同心结。",
+        "scene": "梦中光影交错，两条绸带幻化成同心结。",
+        "emotion": "深切的爱情和美好的愿望。",
+        "translation_ENG": "The two silk ribbons I wear on my waist turned into a lovers knot in my dream."
+    },
+    "乡书何处达？归雁洛阳边。": {
+        "translation": "我的家书应该送到什么地方呢？北去的归雁啊，请给我捎回洛阳那边！",
+        "scene": "黄昏时分，归雁飞向北方，书信翩然而至。",
+        "emotion": "浓烈的乡思与思念之情。",
+        "translation_ENG": "Where should my family letter be delivered? Oh, northbound homeward geese, please bring it back to Luoyang for me!"
+    },
+    "孟夏草木长，绕屋树扶疏。": {
+        "translation": "孟夏时节草木茂盛，绿树围绕着我的房屋。",
+        "scene": "盛夏时节，草木茂盛，绿树环绕的村居，宁静而充满生机。",
+        "emotion": "宁静和平，充满生机。",
+        "translation_ENG": "In the early summer, the vegetation is lush, and green trees surround my house."
+    },
+    "天之道，利而不害；圣人之道，为而不争。": {
+        "translation": "自然的规律是便利万物而不伤害它们。圣人的准则是，有所作为但是却从不与人争抢。",
+        "scene": "宁静的自然环境中，万物和谐共生，无争无斗，圣人平静地观察着这一切。",
+        "emotion": "顺应自然规律，平静而和谐。",
+        "translation_ENG": "The law of nature is to benefit all things without harming them. The principle of the sage is to act with purpose but never to compete with others."
+    },
+    "梦入神山教神妪，老鱼跳波瘦蛟舞。": {
+        "translation": "幻觉中仿佛乐工进入了神山，把技艺向女仙传授；老鱼兴奋得在波中跳跃，瘦蛟也翩翩起舞乐悠悠。",
+        "scene": "神山之巅，乐师在传授仙乐；波涛中，老鱼跳跃，瘦蛟舞蹈。",
+        "emotion": "神奇美丽与超然脱俗。",
+        "translation_ENG": "In an illusion, it seemed as if the musicians entered the sacred mountain to impart their skills to the female deities; the old fish jumped excitedly among the waves, and the slender dragon danced gracefully and joyously."
+    },
+    "潇湘何事等闲回，水碧沙明两岸苔。": {
+        "translation": "你为何如此轻易的从潇水湘水那样美丽的地方回来呢？那里溪水澄澈，沙石明净，岸边还有青苔可以供你觅食，你何故不肯呆了呢？",
+        "scene": "湛蓝的溪水间，大雁从碧绿的荫下飞回，溪水清澈，青苔覆盖的石子明净，引人流连。",
+        "emotion": "对自然美景的留恋与疑惑。",
+        "translation_ENG": "Why did you come back so easily from such a beautiful place as Xiaoshui and Xiangshui? The streams are clear, the pebbles clean, and there is moss on the banks for you to forage. Why are you unwilling to stay?"
+    },
+    "也不似、贵妃醉脸，也不似、孙寿愁眉。": {
+        "translation": "看那白菊，不似杨贵妃的微红醉脸，也不似孙寿的娇柔愁眉。",
+        "scene": "庭院中的白菊花盛开，洁白素雅，与美女的形象对比明显。",
+        "emotion": "对美好事物的赞美与清雅的向往。",
+        "translation_ENG": "Look at that white chrysanthemum; it is neither like the slightly red drunken face of Yang Guifei, nor like the delicate and sorrowful brows of Sun Shou."
+    },
+    "念兰堂红烛，心长焰短，向人垂泪。": {
+        "translation": "那厅堂里燃着的红烛，空自心长焰短，替人流着一滴滴相思的苦泪。",
+        "scene": "堂内红烛燃烧，烛光摇曳，氛围宁静而忧伤。",
+        "emotion": "深切的相思与无奈。",
+        "translation_ENG": "In the hall, the red candles burn, lengthening with longing and shortening in flame, shedding drops of bitter tears of longing for someone."
+    },
+    "小人不激不励，不见利不劝。": {
+        "translation": "对于小人不要激励他，不见利益时勉励也是没用的。",
+        "scene": "一个人与小人交谈，旁边无他人，表情冷静而略显无奈。",
+        "emotion": "谨慎与无奈。",
+        "translation_ENG": "Do not motivate a petty person, as encouraging him when there is no benefit is useless."
+    },
+    "作诗火急追亡逋，清景一失后难摹。": {
+        "translation": "我急忙提笔写下了这首诗歌，恐怕稍有延迟，那清丽的景色便从脑海中消失，再也难以描摹。",
+        "scene": "诗人迅速提笔写下诗歌，景色清丽生动。",
+        "emotion": "对美景消逝的恐惧。",
+        "translation_ENG": "I hurriedly picked up the pen and wrote down this poem, fearing that even a slight delay would make the beautiful scenery vanish from my mind, making it difficult to portray again."
+    },
+    "梦到故园多少路，酒醒南望隔天涯。": {
+        "translation": "睡梦中曾走遍故乡的条条小路，酒醒后向南望才知有天涯隔阻。",
+        "scene": "梦中小路，酒醒后遥望天涯，高山阻隔。",
+        "emotion": "依依不舍与凄苦思归。",
+        "translation_ENG": "In my dreams, Ive walked every path of my hometown; only upon sobering and looking south, did I realize the ends of the earth separate us."
+    },
+    "善战者因其势而利导之。": {
+        "translation": "善于指挥战争的将领，总能依据战争的实际情况和发展趋势来把握和引导它。",
+        "scene": "经验丰富的将领在战场上，分析战势，指导军队行动。",
+        "emotion": "智慧与谨慎。",
+        "translation_ENG": "Generals skilled at commanding war are always able to understand and guide it based on the actual situation and trends of the war."
+    },
+    "此时此夜难为情！": {
+        "translation": "此时此刻的我在这秋意阑珊的深夜，不忍觉得情何以堪。",
+        "scene": "秋意浓郁的深夜，月光如水，诗人独自沉思，忧伤涌上心头。",
+        "emotion": "凄婉动人、无限相思。",
+        "translation_ENG": "At this moment in the late autumn night, I cant help but feel overwhelmed by emotions."
+    },
+    "无情有恨何人见，露压烟啼千万枝。": {
+        "translation": "新竹无情但却愁恨满怀谁人能够看见？露珠滴落似雾里悲啼压得千枝万枝低。",
+        "scene": "细雨霏霏的竹林，竹竿低垂，露珠滴落，犹如悲泣，迷雾中充满了愁绪。",
+        "emotion": "忧愁满怀，悲伤深沉。",
+        "translation_ENG": "The new bamboo is indifferent yet full of sorrow, who can see? The dewdrops fall like a lament in the fog, pressing thousands of branches low."
+    },
+    "今古恨，几千般，只应离合是悲欢？": {
+        "translation": "古往今来使人遗憾的事情，何止千件万般，难道只有离别使人悲伤，聚会才使人欢颜？",
+        "scene": "昔日离别的场景，人物相互作别，神情哀伤。",
+        "emotion": "离别的悲伤和无奈。",
+        "translation_ENG": "Throughout history, there have been countless regrettable things. Is it only parting that brings sadness and gatherings that bring joy?"
+    },
+    "笑别庐山远，何烦过虎溪。": {
+        "translation": "笑着与送行僧侣告别，打趣道：可不要坏了规矩，越过“虎溪”这一条禁戒线。",
+        "scene": "古道上，诗人与僧侣道别，微笑告别，谈笑风生。",
+        "emotion": "依依惜别，温情笑谈。",
+        "translation_ENG": "Smiling, he bid farewell to the departing monk, jokingly saying: Dont break the rules by crossing over the Tiger Creek, this forbidden line."
+    },
+    "高台多悲风，朝日照北林。": {
+        "translation": "高台上常常吹着悲风，早晨的太阳照着北林。",
+        "scene": "高台上吹着悲风，早晨的太阳照在北方的森林。",
+        "emotion": "感伤与思念之情。",
+        "translation_ENG": "On the high platform, the melancholy wind often blows, and the morning sun shines on the northern forest."
+    },
+    "湘江两岸花木深，美人不见愁人心。": {
+        "translation": "湘江岸边的花草树木正繁盛，景色虽好，但见不到佳人，心中依旧一片愁绪。",
+        "scene": "湘江岸边，繁花似锦，树木葱茏，景色宜人，但无佳人。",
+        "emotion": "思念与忧伤交织。",
+        "translation_ENG": "The flowers, grass, and trees on the banks of the Xiang River are flourishing, and although the scenery is beautiful, not seeing my beloved fills my heart with sorrow."
+    },
+    "楼倚霜树外，镜天无一毫。": {
+        "translation": "楼阁高耸于经霜的树林之上，登高望远，天空如明镜无纤云一毫。",
+        "scene": "楼阁高耸于霜林之上，秋日天空如明镜般清澈无云。",
+        "emotion": "心旷神怡，心清目明。",
+        "translation_ENG": "The pavilion towers above the frost-covered woods, and upon ascending to gaze afar, the sky is like a bright mirror without a hint of a cloud."
+    },
+    "斗草阶前初见，穿针楼上曾逢。": {
+        "translation": "与你初相见是你在阶前与女伴斗草的时候，七夕你在楼上与女伴穿针时我们再次相逢。",
+        "scene": "古代庭院前，女子手持刺绣针，巧笑嫣然，男子爱慕相望。",
+        "emotion": "初见的惊艳与爱慕。",
+        "translation_ENG": "Our first meeting was when you were on the steps playing with your female companions. We met again on the seventh evening when you were upstairs threading needles with your friends."
+    },
+    "芙蓉如面柳如眉，对此如何不泪垂。": {
+        "translation": "芙蓉开得像贵妃的脸，柳叶儿好似贵妃的眉，此情此景如何不伤心落泪。",
+        "scene": "荷塘中盛开的芙蓉花，柳叶轻垂，氛围宁静却带着淡淡悲伤。",
+        "emotion": "伤心落泪，对美人逝去的哀悼。",
+        "translation_ENG": "The hibiscus blooms like the face of a noble consort, and the willow leaves resemble the consorts eyebrows; how can one not feel sorrow and shed tears in such a scene?"
+    },
+    "夜阑风静縠纹平。": {
+        "translation": "残夜将尽时分，风平浪静，没有荡起一丝水波细纹。",
+        "scene": "夜晚，江边风平浪静，水面没有一丝波纹，宁静安详。",
+        "emotion": "宁静安详，沉思悟道。",
+        "translation_ENG": "As the night approaches its end, the wind is calm and silent, without stirring a ripple or wave."
+    },
+    "对酒当歌，强乐还无味。": {
+        "translation": "举杯高歌，勉强欢笑反而觉得毫无意味。",
+        "scene": "诗人在昏暗的灯光下高举酒杯，勉强欢笑，内心充满忧愁与痛苦。",
+        "emotion": "勉强欢笑下的深深痛苦。",
+        "translation_ENG": "Raising a glass in high spirits and forcing a smile feels utterly meaningless."
+    },
+    "寥落悲前事，支离笑此身。": {
+        "translation": "回首前尘竟是一事无成，令人感到悲凉伤心；孤独的我只有苦笑与酸辛。",
+        "scene": "孤独的人站在荒凉的土地上，面容悲凉，含泪苦笑。",
+        "emotion": "对现实的愤懑与无奈的苦笑。",
+        "translation_ENG": "Looking back on the past, it turns out to be fruitless, feeling desolate and heartbroken; the lonely me can only smile bitterly and endure the hardship."
+    },
+    "垆边人似月，皓腕凝霜雪。": {
+        "translation": "江南酒家卖酒的女子美丽无比，盛酒撩袖时露出的手腕洁白如雪。",
+        "scene": "在江南的酒家里，一位美丽无比的女子正在卖酒，她挥动袖子之际，露出的手腕洁白如雪。",
+        "emotion": "对江南美人和美景的爱慕。",
+        "translation_ENG": "The woman selling wine at Jiangnan Winery is incomparably beautiful, and her wrist, exposed when she lifts her sleeve to pour wine, is as white as snow."
+    },
+    "木兰之枻沙棠舟，玉箫金管坐两头。": {
+        "translation": "在木兰为桨沙棠为舟的船上，吹箫笛等乐器的歌妓分别坐两头。",
+        "scene": "江面上，一艘装饰华丽的船，船中有美女吹奏竹笛，两端席上皆坐有歌妓。",
+        "emotion": "超脱现实的美好与悠然自得。",
+        "translation_ENG": "On the boat made of mulan and shatang wood, the singing girls playing musical instruments like flute and pipe sit at both ends."
+    },
+    "虽死之日，犹生之年": {
+        "translation": "（只要意愿能实现）即使是为此而死，也如同活着一样。",
+        "scene": "夜晚，星空下的墓地，岸边苍松，微风拂过，灵魂祥和地飘荡，仿佛在静静守护着。",
+        "emotion": "精神不朽与心无牵挂。",
+        "translation_ENG": "As long as the will can be realized, even dying for it is like living."
+    },
+    "莫笑农家腊酒浑，丰年留客足鸡豚。": {
+        "translation": "不要笑农家腊月里酿的酒浑浊不醇厚，丰收的年景农家待客菜肴非常丰盛。",
+        "scene": "繁忙的农家酒肆，农家丰收宴席，宾客满座。",
+        "emotion": "赞美农家淳朴民风和丰收喜悦。",
+        "translation_ENG": "Do not laugh at the farmers for the cloudy and less mellow wine they brew in December; during a harvest year, the farmers hospitality with dishes is very sumptuous."
+    },
+    "小园香径独徘徊。": {
+        "translation": "独自在花香小径里徘徊留恋。",
+        "scene": "落花满地的小径上，诗人独自漫步，流连忘返。",
+        "emotion": "感伤与深情。",
+        "translation_ENG": "Wandering alone in the fragrant flower path, lingering in nostalgia."
+    },
+    "此事费分说，来日且扶头！": {
+        "translation": "这件事没法分说清楚，让我们明天再喝个大醉方休。",
+        "scene": "夜晚的酒馆内，桌上摆满了酒杯，几位朋友边喝边聊，意图用酒精麻醉自我，暂时忘却烦恼。",
+        "emotion": "深沉的痛苦与忧愁。",
+        "translation_ENG": "This matter is hard to explain clearly, lets drink heavily again tomorrow until were satisfied."
+    },
+    "秦时明月汉时关，万里长征人未还。": {
+        "translation": "依旧是秦汉时期的明月和边关，守边御敌鏖战万里征夫未回还。",
+        "scene": "秦汉时期的北方边关，明月高悬，士兵在寒冷的夜晚驻守。",
+        "emotion": "悲愤之情",
+        "translation_ENG": "It is still the same bright moon and frontier of the Qin and Han dynasties, where soldiers who guard the border and fight fierce battles have not returned from their campaigns spanning thousands of miles."
+    },
+    "霓为衣兮风为马，云之君兮纷纷而来下。": {
+        "translation": "用彩虹做衣裳，将风作为马来乘，云中的神仙们纷纷下来。",
+        "scene": "彩虹做衣，风为马，神仙们乘风而下，辉煌壮丽的神仙世界。",
+        "emotion": "热烈辉煌的神仙幻想。",
+        "translation_ENG": "Wear rainbow as clothes, ride the wind as a horse, the immortals from the clouds descend continuously."
+    },
+    "诚者，天之道也；思诚者，人之道也。至诚而不动者，未之有也；不诚，未有能动者也。": {
+        "translation": "诚是天赋予人的本性；追求诚，是做人的根本准则。一个人做到至诚而不能使人们感动，是从未有过的事；同样，缺乏诚心的人是无法感动别人的。",
+        "scene": "宁静晨光中的庭院，书生手握书卷，沉思在诚信的价值与人心。",
+        "emotion": "强调诚实正直的生活态度。",
+        "translation_ENG": "Sincerity is a natural trait endowed by heaven; pursuing sincerity is the fundamental principle of being human. It is unheard of for a person who is truly sincere to fail to move others; similarly, a person lacking sincerity cannot move others."
+    },
+    "其始起也，洪淋淋焉，若白鹭之下翔。": {
+        "translation": "大潮刚兴起的时候，大水不断地洒落，就像白鹭向下飞翔。",
+        "scene": "大潮兴起时，大水流淌，飞奔而下，宛如白鹭展翅翱翔。",
+        "emotion": "开阔胸襟、振奋人心。",
+        "translation_ENG": "When the high tide first arises, the water continuously splashes down like egrets soaring downward."
+    },
+    "春未老，风细柳斜斜。": {
+        "translation": "春天还没有过去，微风细细，柳枝斜斜随之起舞。",
+        "scene": "春天的城中高台上，微风细细，柳枝斜斜起舞。",
+        "emotion": "轻松愉悦。",
+        "translation_ENG": "Spring has not passed yet, the breeze is gentle, and the willow branches dance gracefully with it."
+    },
+    "初惊河汉落，半洒云天里。": {
+        "translation": "乍以为是银河从天上落下，弥漫飘洒在半空中。",
+        "scene": "星河从天而降，瀑布飘洒在半空，景象壮丽。",
+        "emotion": "对壮丽景观的赞叹。",
+        "translation_ENG": "It was thought to be the Milky Way falling from the sky, drifting and dispersing in mid-air."
+    },
+    "孤鸿号外野，翔鸟鸣北林。": {
+        "translation": "孤鸿在野外哀号，飞翔盘旋着的鸟在北林鸣叫。",
+        "scene": "野外清风明月下，孤鸿哀号，飞鸟盘旋北林，寂静清冷。",
+        "emotion": "孤独苦闷的心情。",
+        "translation_ENG": "The solitary wild goose laments in the wilderness, while the birds soaring and circling call out in the northern forest."
+    },
+    "梁上有双燕，翩翩雄与雌。": {
+        "translation": "屋梁上来了一双燕子，翩翩飞舞，一雄一雌。",
+        "scene": "屋梁上来了一双燕子，翩翩飞舞，身影敏捷灵动。",
+        "emotion": "父母的养育之恩。",
+        "translation_ENG": "On the beam of the house, a pair of swallows arrived, fluttering gracefully, one male and one female."
+    },
+    "杨柳又如丝，驿桥春雨时。": {
+        "translation": "如丝的杨柳枝条又泛起青色，在春风中袅袅飘荡，而驿桥上已经开始飘起了丝丝蒙蒙的细雨。",
+        "scene": "杨柳依依的桥上，细雨蒙蒙，春风轻拂，杨柳枝条随风飘荡，充满春天的生机。",
+        "emotion": "女子内心的失望与悲苦。",
+        "translation_ENG": "The silken willow branches are turning green again, wafting gently in the spring breeze, while over the bridge on the post road, a fine, misty drizzle has begun to fall."
+    },
+    "月落乌啼霜满天，江枫渔火对愁眠。": {
+        "translation": "月亮已落下乌鸦啼叫寒气满天，江边枫树与船上渔火，难抵我独自傍愁而眠。",
+        "scene": "月光洒下，乌鸦啼鸣，寒气弥漫天空，江边枫树，船上渔火，宁静的水乡秋夜。",
+        "emotion": "孤寂与惆怅。",
+        "translation_ENG": "The moon has set, the crow caws, and the cold fills the sky; the maple trees by the river and the fishing lights on the boat cannot relieve my solitary sleep with sorrow."
+    },
+    "反者道之动；弱者道之用。": {
+        "translation": "道的运动规律是循环往复的，事物总是向着它的对立面转化；道的作用是柔弱的，不是通过强制力，而是通过柔和的方式自然地发生和成长。",
+        "scene": "自然界的景象中，事物不断变化、循环往复，以柔和的方式生长和转化。",
+        "emotion": "智慧与和谐的悟道。",
+        "translation_ENG": "The movement law of the Tao is cyclical and repetitive; things always transform towards their opposites. The function of the Tao is gentle and weak, not occurring through coercion, but naturally through soft means of happening and growth."
+    },
+    "夫赏者，所以喜众，令士忘死也。罚者，所以正乱，令民畏上也。": {
+        "translation": "赏赐是为了提高士气，是促使军兵能够舍生忘死英勇作战的手段；施行处罚，是为了整饬军纪，促使军兵对上级将领能够畏服的手段。",
+        "scene": "古代军营中，将军对士兵进行奖赏与惩罚，士兵们在军纪严明的背景下，整齐列队，神情严肃。",
+        "emotion": "鼓舞士气与维护军纪。",
+        "translation_ENG": "The purpose of rewards is to boost morale and to motivate soldiers to fight bravely and selflessly; while the implementation of punishments is to enforce military discipline and to instill fear and respect in soldiers toward their superior officers."
+    },
+    "不戚戚于贫贱，不汲汲于富贵。": {
+        "translation": "不为贫贱而忧虑悲伤，不为富贵而匆忙追求。",
+        "scene": "宁静的山林中，一位隐士淡然闲居，不为物欲所动，不追逐名利，展现平淡和从容。",
+        "emotion": "平淡从容与潇洒自在。",
+        "translation_ENG": "Do not worry or grieve over poverty and lowliness, nor hastily pursue wealth and nobility."
+    },
+    "拜迎长官心欲碎，鞭挞黎庶令人悲。": {
+        "translation": "那些下拜迎接大官长上的繁文缛节已经令我心力交瘁，奉命驱策百姓更让我感到悲哀。",
+        "scene": "官员迎接仪式上的繁文缛节，人们疲惫不堪，心力交瘁。",
+        "emotion": "愤怒与沉痛的心情。",
+        "translation_ENG": "All the elaborate rituals of bowing and welcoming high-ranking officials have already exhausted me, and being ordered to drive the common people makes me even more sorrowful."
+    },
+    "谢亭离别处，风景每生愁。": {
+        "translation": "谢朓、范云当年离别的地方犹如还在，每次目睹这里的景物都不免生出愁绪。",
+        "scene": "离别的旧地，思古之情浓烈，景物萧条，孤寂而愁苦。",
+        "emotion": "怀古伤今与孤独愁绪。",
+        "translation_ENG": "The place where Xie Tiao and Fan Yun said their farewells seems to still be here, and every time I witness the scenery, I cant help but feel a sense of melancholy."
+    },
+    "语之所贵者意也，意有所随。意之所随者，不可言传也，而世因贵言传书。": {
+        "translation": "语言所可贵的是（在于它表现出的）意义，意义自有它指向之处。意义的指向之处是不可以用言语传达的，而世人因为注重语言而（记载下来）传之于书。",
+        "scene": "书房或文人聚集之地，书籍堆积，文人沉思。",
+        "emotion": "强调语言的重要性。",
+        "translation_ENG": "The value of language lies in the meaning it conveys, and meaning inherently has its own direction. However, the direction of meaning cannot be expressed in words, yet people, valuing language, have recorded it in books."
+    },
+    "山不厌高，海不厌深。": {
+        "translation": "高山不辞土石才见巍峨，大海不弃涓流才见壮阔。",
+        "scene": "巍峨的高山和辽阔的大海，象征着广阔天地与无限可能，壮丽而宏伟。",
+        "emotion": "求才若渴的心情。",
+        "translation_ENG": "A lofty mountain appears majestic because it does not reject earth and rocks, and a vast ocean appears grand because it does not discard trickles of water."
+    },
+    "风飒飒兮木萧萧，思公子兮徒离忧。": {
+        "translation": "风声飒飒地吹啊树叶纷纷掉落，思念公子啊徒然叫人忧伤。",
+        "scene": "寒冷的山林夜景中，狂风吹动树叶飘落，寂静中充满了凄凉。",
+        "emotion": "哀伤与思念。",
+        "translation_ENG": "The wind rustles as the leaves fall, missing the gentleman brings sorrow in vain."
+    },
+    "料峭春风吹酒醒，微冷，山头斜照却相迎。": {
+        "translation": "春风微凉吹醒我的酒意，微微有些冷，山头初晴的斜阳却应时相迎。",
+        "scene": "春风微凉，山头初晴，斜阳映照，微微有些冷意。",
+        "emotion": "醒后微凉与未来希望。",
+        "translation_ENG": "The slightly chilled breath of the spring breeze awakens my tipsiness, making it feel a bit cold, but the slanting rays of the initial sunset on the mountain top greet me just in time."
+    },
+    "朝闻道，夕死可矣。": {
+        "translation": "早上知道了真理，晚上死去也不觉得遗憾了。",
+        "scene": "清晨的书房中，学者沉思研读。黄昏时，学者静静离世，神情安详。",
+        "emotion": "追求真理的坚定与无悔。",
+        "translation_ENG": "If I learn the truth in the morning, I would not regret dying in the evening."
+    },
+    "一路经行处，莓苔见履痕。": {
+        "translation": "一路上经过的地方，青苔小道留下鞋痕。",
+        "scene": "青苔小道上，留有深深浅浅的鞋印，静谧幽深，四周无人。",
+        "emotion": "寻觅之人的淡泊与静谧。",
+        "translation_ENG": "Along the way, the mossy path is marked with footprints."
+    },
+    "一尺深红胜曲尘，天生旧物不如新。": {
+        "translation": "一袭深红色的长裙日子久了便会蒙尘泛黄，自古以来旧的东西就不如新的东西讨人喜欢。",
+        "scene": "一件深红色的长裙铺展在地，日久失色，蒙上尘埃。",
+        "emotion": "感慨与淡淡的哀愁。",
+        "translation_ENG": "A deep crimson long dress, over time, will gather dust and turn yellow. Since ancient times, old things have not been as popular as new ones."
+    },
+    "飒飒西风满院栽，蕊寒香冷蝶难来。": {
+        "translation": "秋风飒飒摇动满院菊花，花蕊花香充满寒意，再难有蝴蝶飞来采蜜。",
+        "scene": "秋风萧瑟，满院菊花绽放，充满寒意，蝴蝶难觅。",
+        "emotion": "孤芳自赏与惆怅。",
+        "translation_ENG": "The autumn wind gently shakes the courtyard full of chrysanthemums, their stamens and fragrance filled with chill, making it hard for butterflies to come and collect nectar."
+    },
+    "读书百遍，其义自见": {
+        "translation": "读书读得遍数多了，自然就会理解书的内容和涵义。",
+        "scene": "一位学者在书桌前静静地读书，书架上摆满了书籍。",
+        "emotion": "专注与坚持不懈。",
+        "translation_ENG": "When you read a book many times, you naturally come to understand its content and meaning."
+    },
+    "拣尽寒枝不肯栖，寂寞沙洲冷。": {
+        "translation": "挑遍了寒枝也不肯栖息，甘愿在沙洲忍受寂寞凄冷。",
+        "scene": "寒枝上孤单的鸟儿，在荒凉的沙洲忍受孤寂与寒冷。",
+        "emotion": "孤独寂寞和坚定不移。",
+        "translation_ENG": "Having searched through the cold branches unwilling to rest, willingly enduring loneliness and chill on the sandbank."
+    },
+    "同声相应，同气相求。": {
+        "translation": "同样的声音能产生共鸣，同样的气味会相互融合。",
+        "scene": "志趣相投的人们在一起，相互交流、共鸣，气氛融洽。",
+        "emotion": "情投意合的和谐。",
+        "translation_ENG": "The same sound can resonate, the same smell will blend together."
+    },
+    "可堪孤馆闭春寒，杜鹃声里斜阳暮。": {
+        "translation": "怎能忍受得了这春寒料峭时节，独居客馆的孤寂，斜阳西下，暮色沉沉，杜鹃声声哀鸣！",
+        "scene": "料峭春寒的傍晚，客馆内孤独寂寥，杜鹃声声悲鸣。",
+        "emotion": "极度的孤独与悲凉。",
+        "translation_ENG": "How can one endure the biting cold of spring and the solitude of living alone in a guesthouse as the sun sets in the west, dusk gradually deepens, and the cuckoos mournful cries echo?"
+    },
+    "母别子，子别母，白日无光哭声苦。": {
+        "translation": "母别子，子别母，白天的阳光似乎都因为悲伤而失去了光彩，哭声中无限凄苦。",
+        "scene": "日光黯淡的庭院中，母亲与孩子相拥而泣，脸上满是悲伤与无奈。",
+        "emotion": "凄婉哀怨的离别之情。",
+        "translation_ENG": "The mother parts from the child, the child parts from the mother. The sunlight during the day seems to lose its brightness due to sorrow, and the cries are filled with boundless misery."
+    },
+    "长安陌上无穷树，唯有垂杨绾别离。": {
+        "translation": "长安道上有无穷无尽的华美树木，却唯有杨柳寄托着人们离别的思念。",
+        "scene": "长安大道两旁，有繁花茂盛的树木，唯有杨柳垂挂低垂，诉说离别的愁思。",
+        "emotion": "深切的离愁别绪和哀婉情感。",
+        "translation_ENG": "On the road to Changan, there are countless magnificent trees, yet only the willows hold peoples thoughts of farewell."
+    },
+    "我宿五松下，寂寥无所欢。": {
+        "translation": "我寄宿在五松山下的农家，心中感到十分苦闷而孤单。",
+        "scene": "五松山下，农家茅舍，暮色四合，诗人独居于简陋客房，窗外松风吹拂。",
+        "emotion": "孤寂与忧愁。",
+        "translation_ENG": "I am lodging in a farmhouse at the foot of Wusong Mountain, feeling extremely troubled and lonely."
+    },
+    "自光岳气分，士无全节；君臣义缺，谁负刚肠。": {
+        "translation": "国土分裂后，正气崩解，不见尽忠报国之士，反多无耻降敌之徒，君不君，臣不臣，士风不振，大义不存。",
+        "scene": "国家分裂后，正义崩溃，敌人横行，社会动荡不安，忠臣难见，英雄无处。",
+        "emotion": "痛心疾首的悲愤与失望。",
+        "translation_ENG": "After the division of the homeland, righteousness collapsed. There are no longer loyal and patriotic individuals, but rather many shameless traitors surrendering to the enemy. The ruler is no longer a ruler, the minister is no longer a minister, the spirit of the scholar is not upheld, and the great cause is lost."
+    },
+    "津亭秋月夜，谁见泣离群？": {
+        "translation": "秋天明月夜，在这渡口亭子里，谁见过在离别时哭哭啼啼的呢？",
+        "scene": "秋天明月夜，江边送别亭子，远望江山，月夜江边图。",
+        "emotion": "凄凉寂寞的离别情感。",
+        "translation_ENG": "On an autumn full moon night, who has ever seen anyone crying at the parting in this pavilion at the ferry?"
+    },
+    "可堪回首，佛狸祠下，一片神鸦社鼓。": {
+        "translation": "真是不堪回首，拓跋焘祠堂香火盛，乌鸦啄祭品，祭祀擂大鼓。",
+        "scene": "宁静的祠堂中，香火旺盛，祭品纷杂，鼓声隆隆。",
+        "emotion": "时代悲哀与个人身世的感叹。",
+        "translation_ENG": "It is truly unbearable to look back; the incense in the Tuo Ba Tao ancestral hall burns vigorously, crows peck at the offerings, and the drums are struck at the ceremony."
+    },
+    "古人无复洛城东，今人还对落花风。": {
+        "translation": "古人现在已经不再悲叹洛阳城东凋零的桃李花了，而今人却依旧对着随风飘零的落花而伤怀。",
+        "scene": "洛阳城东，粉红色的桃李花随风飘落，残花满地，凄美而伤感。",
+        "emotion": "惆怅与感伤。",
+        "translation_ENG": "The ancient people no longer lament the fading peach and plum blossoms in the east of Luoyang City, but nowadays, people still feel sorrowful for the falling flowers drifting with the wind."
+    },
+    "荒烟凉雨助人悲，泪染衣襟不自知。": {
+        "translation": "野外的烟气冰冷的雨水令人更加悲伤，泪水浸湿了衣领我都浑然不知。",
+        "scene": "荒凉的野外，烟气弥漫，冰冷的雨水如同泪水浸湿衣领。",
+        "emotion": "沉痛悲伤与深厚情感。",
+        "translation_ENG": "The cold rain and smoke in the wilderness make one feel even more sad, and my tears have soaked the collar without my realizing it."
+    },
+    "图南未可料，变化有鲲鹏。": {
+        "translation": "打算乘风破浪，放舟南下，说不定就像扶摇直上的九天鲲鹏。",
+        "scene": "大海波涛汹涌，一叶孤舟迎风破浪驶向南方，犹如鹰隼直上九天。",
+        "emotion": "勇敢追梦与不畏未知。",
+        "translation_ENG": "Intending to ride the wind and waves, set sail southward, and perhaps soar to the skies like a mighty roc."
+    },
+    "善者，吾善之；不善者，吾亦善之；德善。信者，吾信之；不信者，吾亦信之；德信。": {
+        "translation": "善良的人，我以善良对待他；不善良的人，我也以善良对待他，使之得于善良。诚实的人，我以诚实待他；不诚实的人，我也以诚实待他，使之得于诚实。",
+        "scene": "古时的街道上，人与人之间和善相处，人人心怀善意，真诚待人，形成祥和温暖的氛围。",
+        "emotion": "善良与诚实的普世价值。",
+        "translation_ENG": "To kind people, I treat them with kindness; to unkind people, I still treat them with kindness, enabling them to become kind. To honest people, I treat them with honesty; to dishonest people, I still treat them with honesty, enabling them to become honest."
+    },
+    "僵卧孤村不自哀，尚思为国戍轮台。": {
+        "translation": "穷居孤村，躺卧不起，不为自己的处境而感到哀伤，心中还想着替国家戍守边疆。",
+        "scene": "荒凉孤村，破败院落中透出边疆守望气息。",
+        "emotion": "乐观刚毅，满怀报国壮志。",
+        "translation_ENG": "Living in a lonely village in poverty, lying down without getting up, not feeling sorrowful about ones situation, still wishing to defend the frontier for the country in the heart."
+    },
+    "偶然相遇人间世，合在增城阿姥家。": {
+        "translation": "在人世间怎会遇见牡丹这样漂亮的花，总觉这花应该生长在昆仑仙境西王母家。",
+        "scene": "云雾缭绕的仙境庭院，西王母宫宇中奇花绽放",
+        "emotion": "偶遇仙花，心生惊艳",
+        "translation_ENG": "How could one encounter such a beautiful flower as peony in the mortal world? It always feels like this flower should grow in the Kunlun paradise, at the home of the Queen Mother of the West."
+    },
+    "若待上林花似锦，出门俱是看花人。": {
+        "translation": "若是等到长安城中花开似锦之际，满城都是赏花郊游之人。",
+        "scene": "长安城内花开似锦，游人漫步早春盛景",
+        "emotion": "诗人喜爱早春清新之美",
+        "translation_ENG": "If you wait until the flowers in Changan City are in full bloom, the city will be filled with people enjoying the flowers and going on excursions."
+    },
+    "故声闻过情，君子耻之。": {
+        "translation": "声誉超过了实际的才德，君子就会对此感到屈辱。",
+        "scene": "古代庭院中，文人议论名誉与才德错位，冷峻氛围映衬现实。",
+        "emotion": "讽刺虚伪，愤慨不平。",
+        "translation_ENG": "When ones reputation exceeds their actual talent and virtue, a gentleman will feel humiliated by this."
+    },
+    "不似秋光，只与离人照断肠。": {
+        "translation": "不像秋日的月光，执着地照着离别之人，引两地伤情。",
+        "scene": "寂静庭院中，冷月映梅，透出离别的淡愁",
+        "emotion": "淡淡忧伤与离别之情",
+        "translation_ENG": "Unlike the autumn moonlight that persistently shines on those departing, evoking sadness across two places."
+    },
+    "鹤盘远势投孤屿，蝉曳残声过别枝。": {
+        "translation": "白鹤盘旋奔向远方投入了岛屿，蝉拖着哀鸣余音飞向另一树枝。",
+        "scene": "孤岛上空，白鹤展翅远飞；翠草随风摇曳，低诉着凄美意境。",
+        "emotion": "孤高冷寂中隐含着怀才不遇之愁。",
+        "translation_ENG": "The white crane spirals towards the distance, nesting into the island, while the cicada drags its lingering lament to another branch."
+    },
+    "草枯鹰眼疾，雪尽马蹄轻。": {
+        "translation": "秋草枯黄，鹰眼更加锐利；冰雪消融，飞驰的马蹄格外轻快。",
+        "scene": "秋日猎场，枯黄草地伴融雪映衬，怒马追逐飞禽掠影。",
+        "emotion": "激昂紧张，尽显搏猎豪情。",
+        "translation_ENG": "With the autumn grass withering to yellow, the eagles eyes become sharper; as the ice and snow melt, the galloping hooves of horses are particularly swift."
+    },
+    "尸踣巨港之岸，血满长城之窟。": {
+        "translation": "尸体僵仆在大港沿岸，鲜血淌满了长城下的窟穴。",
+        "scene": "大港沿岸，长城下古衙殿血迹斑斑，战场惨烈",
+        "emotion": "凄切悲怆，深恶战乱",
+        "translation_ENG": "Corpses collapsed stiffly along the banks of the great port, while fresh blood flowed, filling the cave beneath the Great Wall."
+    },
+    "且恁偎红倚翠，风流事、平生畅。": {
+        "translation": "与她们依偎，享受这风流的生活，才是我平生最大的欢乐。",
+        "scene": "幽暗室内琼灯摇曳，佳人依偎展现狂放风情",
+        "emotion": "狂放不羁、叛逆热情",
+        "translation_ENG": "Snuggling with them and enjoying this romantic life is my greatest joy in life."
+    },
+    "故园肠断处，日夜柳条新。": {
+        "translation": "啊！我思念着北方的故园，那的柳条还刚刚抽绿呢！",
+        "scene": "北国初春，梧条吐绿，微风拂面的路途。",
+        "emotion": "蕴含故国思念与君主怜惜之情。",
+        "translation_ENG": "Ah! I am longing for my northern homeland, where the willow branches are just starting to turn green!"
+    },
+    "钟陵醉别十余春，重见云英掌上身。": {
+        "translation": "钟陵醉饮一别已经十余载，又再次见到云英婀娜的身姿。",
+        "scene": "古典庭院中，月色朦胧，佳人倩影似飞鹊掌上舞般轻盈。",
+        "emotion": "久别重逢激发深情怀念。",
+        "translation_ENG": "It has been more than ten years since we last drank to our hearts content in Zhongling, and now I see the graceful figure of Yunying once again."
+    },
+    "此心随去马，迢递过千峰。": {
+        "translation": "我的心随着离去的马儿，远远地越过了千山万岭。",
+        "scene": "一匹骏马远去，跨越千山万岭，背着离开的心情。",
+        "emotion": "强烈的不舍之情。",
+        "translation_ENG": "My heart, along with the departing horse, has galloped far away across a thousand mountains and ranges."
+    },
+    "遥知兄弟登高处，遍插茱萸少一人。": {
+        "translation": "遥想兄弟们今日登高望远时，头上插满茱萸只少我一人。",
+        "scene": "重阳节，诗人独自一人登高远望，四周插满菊花。",
+        "emotion": "无限的思乡之情。",
+        "translation_ENG": "Looking back, when my brothers climb high and gaze far today, only I am missing with dogwood branches in my hair."
+    },
+    "薄衣初试，绿蚁新尝。渐一番风，一番雨，一番凉。": {
+        "translation": "刚刚试穿了一件粗糙的衣服，品尝了新酿成的绿蚁酒，在阴雨风凉的反复变化中，每刮一次风，下一次雨，天气便渐次转凉。",
+        "scene": "阴雨绵绵的秋天中，在风雨交织的天气里，穿着粗糙的衣服，品尝新酿的绿蚁酒。",
+        "emotion": "悲凉与思念。",
+        "translation_ENG": "I just tried on a rough piece of clothing and tasted freshly brewed green ant wine. In the repeated changes of cool rain and wind, each time the wind blows and the rain falls, the weather gradually turns cooler."
+    },
+    "戏掬清泉洒蕉叶，儿童误认雨声来。": {
+        "translation": "百无聊赖中掬起泉水去浇芭蕉，那淅沥水声惊动了正在玩耍的儿童，他们还以为骤然下起雨来。",
+        "scene": "庭院中的水池旁，泉水涌出，吵醒了正在戏玩嬉闹的儿童，带着欢笑和惊讶。",
+        "emotion": "静谧闲适与喜爱乡村生活。",
+        "translation_ENG": "In the midst of boredom, I scooped up spring water to water the banana trees. The sound of trickling water startled the children who were playing, and they thought it suddenly started to rain."
+    },
+    "梦断香消四十年，沈园柳老不吹绵。": {
+        "translation": "离她香消玉殒已过去四十多年，沈园柳树也老得不能吐絮吹绵。",
+        "scene": "落寞的庭院，柳树老去，不再吐绿飘舞，一片寂静，时光流逝。",
+        "emotion": "对逝去爱情的怅然与坚贞。",
+        "translation_ENG": "It has been more than forty years since her fragrant soul perished, and the willows at Shenyuan have grown too old to sprout fluff and blow cotton."
+    },
+    "有此倾城好颜色，天教晚发赛诸花。": {
+        "translation": "有此般倾国倾城的好姿色，上天也叫它迟点开放，让它显示出与众花不同的姿色。",
+        "scene": "盛开的牡丹花，花色绚丽，姿态端庄，与众不同。",
+        "emotion": "对牡丹花的喜爱与赞美。",
+        "translation_ENG": "With such breathtaking beauty, even heaven would delay its bloom, allowing it to display a charm distinct from other flowers."
+    },
+    "尽道清歌传皓齿，风起，雪飞炎海变清凉。": {
+        "translation": "人人都称赞她那芳洁口中传出的悦耳歌声，令人感到如同风起雪飞，使炎暑之地一变而为清凉之乡。",
+        "scene": "一个女子在烈日炎炎的夏日，唱起了悦耳的歌曲，使得周围环境顿时变得清凉宜人。",
+        "emotion": "如沐春风的清新美好。",
+        "translation_ENG": "Everyone praises the melodious voice emanating from her beautiful lips, which makes one feel as if the wind rises and snow flies, turning a sweltering place into a cool land."
+    },
+    "其文约，其辞微，其志洁，其行廉。": {
+        "translation": "文辞简约，描写生动，志向高洁，品行清廉。",
+        "scene": "一位高尚贤者，风姿清雅，精神高洁，书卷气息浓郁。",
+        "emotion": "高洁志向与崇高品行。",
+        "translation_ENG": "The style is concise, the descriptions are vivid, the aspirations are noble, and the conduct is honest."
+    },
+    "鉴於水者见面之容，鉴於人者知吉与凶": {
+        "translation": "对水而照的人可以见到自己的面容，与人相鉴照的人可以知道吉和凶。",
+        "scene": "静谧的湖边，一人面对清水，映出自己的面容，沉思中。",
+        "emotion": "自我反省和人际关系的理解。",
+        "translation_ENG": "A person who looks into water can see their own reflection, while a person who reflects against others can understand fortune and misfortune."
+    },
+    "转朱阁，低绮户，照无眠。": {
+        "translation": "月儿移动，转过了朱红色的楼阁，低低地挂在雕花的窗户上，照着没有睡意的人。",
+        "scene": "夜晚，皎洁的月光透过雕花窗户，照在屋内无眠的人身上。",
+        "emotion": "无尽的思绪与哀愁。",
+        "translation_ENG": "The moon moved, turning past the vermilion pavilion, hanging low against the carved windows, shining upon those who have not yet found sleep."
+    },
+    "凡大事皆起于小事，小事不论，大事又将不可救": {
+        "translation": "大事都是从小事开始的，小事不注意，发展成大事就不好挽救了。",
+        "scene": "清晨的庭院，小事迅速累积成危机。",
+        "emotion": "告诫与警示。",
+        "translation_ENG": "Big things always start from small things. If you dont pay attention to small things, it will be difficult to remedy when they develop into big ones."
+    },
+    "三月雪连夜，未应伤物华。": {
+        "translation": "暮春三月一连下了几夜的大雪，应当还未有煞春天的美景。",
+        "scene": "暮春三月，连续数夜大雪覆盖，雪景美丽。",
+        "emotion": "乐观态度。",
+        "translation_ENG": "In late spring March, it snowed heavily for several nights in a row, yet it should not have diminished the beauty of spring."
+    },
+    "夜雨剪春韭，新炊间黄粱。": {
+        "translation": "冒着夜雨剪来了青鲜的韭菜，端上新煮的黄米饭让我品尝。",
+        "scene": "夜雨骤停，庭院中青葱菜地，充满清新的气息。朋友端上新煮的黄米饭，温馨简单的家庭氛围。",
+        "emotion": "温暖的友情与深厚的感激。",
+        "translation_ENG": "Braving the night rain, they picked fresh chives and served me newly cooked millet rice to taste."
+    },
+    "欲加之罪，其无辞乎？": {
+        "translation": "想要给别人加上罪名，难道还找不到借口吗？",
+        "scene": "文人墨客在书房中沉思，光影交错，气氛紧张。",
+        "emotion": "愤懑与无奈。",
+        "translation_ENG": "If you want to pin a crime on someone, cant you find an excuse?"
+    },
+    "远岫出云催薄暮，细风吹雨弄轻阴。": {
+        "translation": "云虽无心，却催得暮色早降；暮色中的轻风吹动着细雨，拨弄着暗淡的轻云。",
+        "scene": "傍晚时分，轻风吹拂细雨，天空中的云彩暗淡无光，暮色渐浓。",
+        "emotion": "忧愁难遣，心情沉重。",
+        "translation_ENG": "The clouds, though unintentional, hasten the descent of dusk; the gentle breeze in the twilight stirs the drizzle, teasing the dim light clouds."
+    },
+    "他时不用逃名姓，世上如今半是君。": {
+        "translation": "当年根本就不用隐遁荒野，如今的世上多半都是你们这样的绿林好汉啊。",
+        "scene": "辽阔的荒野中，绿树成荫，绿林豪客在此驻足，谈笑风生，自然风趣。",
+        "emotion": "欣喜与赞赏带有幽默。",
+        "translation_ENG": "Back then, there was no need to retreat to the wilderness; nowadays, the world is mostly filled with brave outlaws like you."
+    },
+    "羊质虎皮，见豺则恐": {
+        "translation": "本身是羊，哪怕披上虎皮，见到豺狼依旧会感到恐惧。",
+        "scene": "表面强悍但内心脆弱的人遇到真正的挑战，惊恐不安。",
+        "emotion": "表里不一的虚伪与脆弱。",
+        "translation_ENG": "Even if a sheep wears a tiger skin, it will still feel fear when it encounters wolves."
+    },
+    "天将离恨恼疏狂。": {
+        "translation": "天将离愁与别恨，折磨我这疏狂人。",
+        "scene": "天际茫茫，诗人形单影只，面带忧愁，独自前行。",
+        "emotion": "深沉的离愁别恨。",
+        "translation_ENG": "Heaven bestows upon me the sorrow of parting and the resentment of separation, tormenting a carefree person like me."
+    },
+    "儿女此情同。往事朦胧。湘娥竹上泪痕浓。": {
+        "translation": "儿女们对往事的感受是相同的，那些过去的事情如今已变得模糊不清。就像湘娥在竹子上洒下的泪痕，深深浓重，难以忘却。",
+        "scene": "秋天的竹林中，竹子上挂满泪痕，一片萧瑟。",
+        "emotion": "深深的怀旧与感伤。",
+        "translation_ENG": "The feelings of the children towards past events are the same; those things from the past have now become blurred. Just like the tear marks left by Xiange on the bamboo, deeply and heavily, they are hard to forget."
+    },
+    "归帆去棹残阳里，背西风，酒旗斜矗。": {
+        "translation": "船只在夕阳下往来穿梭，酒楼外斜插的酒旗随着西风飘扬。",
+        "scene": "夕阳下江边，船只穿行，酒楼外的酒旗在西风中飘扬。",
+        "emotion": "宁静与惬意。",
+        "translation_ENG": "Ships shuttle back and forth under the sunset, while the wine flags outside the restaurant flutter in the west wind."
+    },
+    "玉郎会此通仙籍，忆向天阶问紫芝。": {
+        "translation": "玉郎与圣女相会于此并给通报仙籍，圣女想一起登天阶服紫芝位列众仙。",
+        "scene": "玉郎与圣女在天阶相会，圣女披紫衣，列仙而立。",
+        "emotion": "惆怅感怀，沧海桑田。",
+        "translation_ENG": "Yulang and the Holy Maiden meet here and report their celestial status. The Holy Maiden wishes to ascend to heaven together and take the purple mushroom, joining the ranks of the immortals."
+    },
+    "安得倚天剑，跨海斩长鲸。": {
+        "translation": "怎样才能手挥倚天剑，跨海斩除长鲸？",
+        "scene": "大海上，英雄手持长剑，跨立在波涛之上，与庞大的长鲸搏斗。",
+        "emotion": "报国决心与英雄气概。",
+        "translation_ENG": "How can one wield the Sword of Heaven, crossing the sea to slay the giant whale?"
+    },
+    "轻舟去何疾，已到云林境。": {
+        "translation": "轻便的小船驶去多么迅速，转眼间便到达云林之境。",
+        "scene": "清晨，小舟轻快地行驶在平静的溪流上，四周云雾缭绕，鸟鸣清脆。",
+        "emotion": "欢快与惊喜。",
+        "translation_ENG": "The lightweight boat set off swiftly, and in the blink of an eye, it reached the realm of Yunlin."
+    },
+    "广泽生明月，苍山夹乱流。": {
+        "translation": "明月从广阔的湖面上缓缓升起，两岸青山夹着滔滔乱流。",
+        "scene": "明月升起在广阔的湖面上，两岸青山环绕着湍急的流水，构成了一幅淡雅的画面。",
+        "emotion": "孤单与内心的迷茫。",
+        "translation_ENG": "The bright moon slowly rises from the vast surface of the lake, with the two banks of green mountains flanking the tumultuous current."
+    },
+    "春已老，春服几时成。": {
+        "translation": "春已归去，春衣几时制成？",
+        "scene": "春天已经过去，春服尚未制成，幽静庭院中，女子捧着未完成的春装，怅然若失。",
+        "emotion": "惆怅与期待的心情。",
+        "translation_ENG": "Spring has gone, when will the spring clothes be made?"
+    },
+    "春去也，多谢洛城人。": {
+        "translation": "可惜春天已经匆匆过去了，临行的时候谢别洛阳城的人。",
+        "scene": "春季的洛阳城，紫禁花开，送别的机场人流熙攘，情感充沛。",
+        "emotion": "伤春惜别的情感。",
+        "translation_ENG": "Sadly, spring has hurriedly passed, bidding farewell to the people of Luoyang city upon departure."
+    },
+    "此去经年，应是良辰好景虚设。": {
+        "translation": "这一去长年相别，我料想即使遇到好天气、好风景，也如同虚设。",
+        "scene": "长久离别后，风景虽美，如同虚设。",
+        "emotion": "离别后的思念与不舍。",
+        "translation_ENG": "This departure will mean a long separation for years, and I suspect that even if I encounter good weather and beautiful scenery, it will all be in vain."
+    },
+    "今我来思，杨柳依依。": {
+        "translation": "依依惜别。你离开后，我将会有怎样的一番思念。",
+        "scene": "离别的黄昏，朋友离去，孤独的身影在钟山前彷徨。",
+        "emotion": "凄凉的思念与孤独。",
+        "translation_ENG": "Reluctantly saying goodbye. After you leave, what kind of longing will I experience?"
+    },
+    "仁之所在，天下归之。": {
+        "translation": "仁爱所在的地方，便是天下人争相归附之处。",
+        "scene": "仁爱之处，众人争相聚集，和谐宁静。",
+        "emotion": "仁爱共享的理想。",
+        "translation_ENG": "Where benevolence resides, it is a place that everyone in the world strives to affiliate with."
+    },
+    "善善不进，恶恶不退；贤者隐蔽，不肖在位；国受其害。": {
+        "translation": "喜爱的好人不能好好重用，厌恶的坏人也不能够将他们清退，有才的贤德之人隐居不出，无才无德的人却当政掌权，这种情况，国家就会受到危害。",
+        "scene": "文人墨客在书斋中议论国家政治，感慨贤才被埋没，不德者执掌权力，忧心国家危难。",
+        "emotion": "忧国忧民的深切感慨。",
+        "translation_ENG": "The beloved virtuous people cannot be properly utilized, the loathed immoral ones cannot be dismissed, talented and virtuous individuals remain secluded, while those lacking talent and virtue hold power. In such a situation, the country will be endangered."
+    },
+    "瑶姬一去一千年，丁香筇竹啼老猿。": {
+        "translation": "神女瑶姬一去千年杳无踪影，丁香丛中筇竹林里不时传出老猿的啼声。\n",
+        "scene": "古老的竹林中，弥漫着缕缕檀香，偶尔传来老猴的啼声，显得神秘幽静。",
+        "emotion": "空幻缥缈，神秘感。",
+        "translation_ENG": "Fairy Yao Ji disappeared for a thousand years without a trace, and the cries of old apes occasionally echoed from the cinnamon bushes and the bamboo forest."
+    }
+}

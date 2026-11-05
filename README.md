@@ -15,5 +15,7 @@ cd CPMK
 ```
 
 默认意象知识文件为 `KG/imagery_text_image_align.json`，由程序按仓库位置定位。
-训练集、图片与模型权重需按代码说明另行准备；知识节点中的 `image_index`
+训练、验证与检索数据见 `CPMK/data/`，其中图片和大型知识文件使用 Git LFS 管理。
+克隆时请安装 Git LFS 并执行 `git lfs pull`，具体步骤见代码目录 README。
+模型权重与训练所需的意象图片需按代码说明另行准备；知识节点中的 `image_index`
 不会自动转换为图片路径。
